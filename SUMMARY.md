@@ -10,7 +10,8 @@
 * [💰 Patrons](user-guides/patrons.md)
 * [📐 Projects](user-guides/projects.md)
 * [👨🍳 Chefs](user-guides/chefs.md)
-* [😇 Donors](user-guides/donors.md)
+* [😇 Donors](user-guides/donors/README.md)
+  * [😷 I-Am-Human Explained](user-guides/donors/i-am-human-explained.md)
 
 ## Contracts
 
@@ -19,6 +20,7 @@
 * [🙏 Donation](contracts/donation.md)
 * [🗺 Registry](contracts/registry.md)
 * [SBT Registry](contracts/sbt-registry.md)
+* [SBT Issuer](contracts/sbt-issuer.md)
 
 ***
 

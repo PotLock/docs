@@ -8,7 +8,9 @@ PotLock is bringing funding to the table in a new way
 
 
 
-
+{% content-ref url="welcome-to-potlock/value-proposition.md" %}
+[value-proposition.md](welcome-to-potlock/value-proposition.md)
+{% endcontent-ref %}
 
 ## Our Values
 
