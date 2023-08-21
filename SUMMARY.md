@@ -10,8 +10,13 @@
 * [💰 Patrons](user-guides/patrons.md)
 * [📐 Projects](user-guides/projects.md)
 * [👨🍳 Chefs](user-guides/chefs.md)
-* [😇 Donors](user-guides/donors/README.md)
+* [😇 Donors](user-guides/donors.md)
   * [😷 I-Am-Human Explained](user-guides/donors/i-am-human-explained.md)
+
+***
+
+* [🖐 Attestation](attestation/README.md)
+  * [💬 Other Attestation Services (Research)](attestation/other-attestation-services-research.md)
 
 ## Contracts
 
