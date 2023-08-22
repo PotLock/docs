@@ -48,6 +48,9 @@
     * [Project Page](bos/bos-component-hierarchy-wip/stakeholder-pages/project-page.md)
     * [Donor Page](bos/bos-component-hierarchy-wip/stakeholder-pages/donor-page.md)
     * [Chef Page](bos/bos-component-hierarchy-wip/stakeholder-pages/chef-page.md)
+  * [Dashboard](bos/bos-component-hierarchy-wip/dashboard/README.md)
+    * [Chef Dashboard](bos/bos-component-hierarchy-wip/dashboard/chef-dashboard.md)
+    * [Project Dashboard](bos/bos-component-hierarchy-wip/dashboard/project-dashboard.md)
 * [👷♂ Setting Up Your BOS Workspace](bos/setting-up-your-bos-workspace.md)
 * [💅 PotLock Styled Components](bos/potlock-styled-components.md)
 
