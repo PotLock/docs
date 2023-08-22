@@ -16,3 +16,5 @@ Write
 
 * Follow the project on SocialDB
 * Donate Directly
+* If you are owner (or logged in through project account) you can edit&#x20;
+
