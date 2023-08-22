@@ -29,12 +29,15 @@
 
 ***
 
-* [📚 Terms](terms.md)
+* [📚 Terms](terms/README.md)
+  * [❣ Quadratic Funding](terms/quadratic-funding.md)
 
 ## BOS
 
 * [🍴 BOS Overview](bos/bos-overview.md)
-* [Transactions Page](bos/transactions-page.md)
+* [⚖ BOS Component Hierarchy (WIP)](bos/bos-component-hierarchy-wip/README.md)
+  * [📉 Transactions Page](bos/bos-component-hierarchy-wip/transactions-page.md)
+  * [Explore](bos/bos-component-hierarchy-wip/explore.md)
 * [👷♂ Setting Up Your BOS Workspace](bos/setting-up-your-bos-workspace.md)
 
 ***
