@@ -12,6 +12,7 @@ Technical Terms
 * Soul Bound Token
 * Factory Contract -  a factory contract denote a NEAR smart contract that deploy / create contracts of the same pattern. It is important that there are fees usually around 5N per smart contract to deploy this.&#x20;
 * DAO -  a decentralized autonmous organization. On NEAR most DAOs are created by the Sputnikv2 smart contract
+* SocialDB - data stored on the social.near contract. This powers the BOS data like widgets (components) that are front end code, to posts, follows as a social media platform. Social DB is pretty robust.&#x20;
 
 ### Other Terms
 

@@ -38,6 +38,10 @@
 * [⚖ BOS Component Hierarchy (WIP)](bos/bos-component-hierarchy-wip/README.md)
   * [📉 Transactions Page](bos/bos-component-hierarchy-wip/transactions-page.md)
   * [Explore](bos/bos-component-hierarchy-wip/explore.md)
+  * [Home Page](bos/bos-component-hierarchy-wip/home-page.md)
+  * [Pot Page](bos/bos-component-hierarchy-wip/pot-page.md)
+  * [Projects](bos/bos-component-hierarchy-wip/projects.md)
+  * [Project Page](bos/bos-component-hierarchy-wip/project-page.md)
 * [👷♂ Setting Up Your BOS Workspace](bos/setting-up-your-bos-workspace.md)
 
 ***
