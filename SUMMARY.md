@@ -13,6 +13,7 @@
 * [👨🍳 Chefs](user-guides/chefs.md)
 * [😇 Donors](user-guides/donors.md)
   * [😷 I-Am-Human Explained](user-guides/donors/i-am-human-explained.md)
+* [😒 Observor](user-guides/observor.md)
 
 ## Contracts
 
@@ -33,6 +34,7 @@
 ## BOS
 
 * [🍴 BOS Overview](bos/bos-overview.md)
+* [Transactions Page](bos/transactions-page.md)
 * [👷♂ Setting Up Your BOS Workspace](bos/setting-up-your-bos-workspace.md)
 
 ***
