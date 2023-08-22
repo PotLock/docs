@@ -6,8 +6,12 @@ description: >-
 
 # 💰 Patrons
 
-Patrons are different than Donors in that there donations are not amtched. They are usually larger entitities.
+Patrons are different than Donors in that there donations are not matcheed. They are usually larger entitities.
 
 
 
 ## Why Be A Patron?
+
+* Tax exempt donations
+* Support cohort
+* Impact based credits
