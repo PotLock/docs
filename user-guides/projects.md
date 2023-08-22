@@ -6,6 +6,10 @@ description: >-
 
 # 📐 Projects
 
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+##
+
 ## Why Join PotLock?
 
 PotLock is a platform to

@@ -6,6 +6,10 @@ description: >-
 
 # 👨🍳 Chefs
 
+
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
 ## Incentives for Chefs
 
 * A set fee for funding rounds
