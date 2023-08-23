@@ -19,3 +19,7 @@ Here is a quick example of the BOS storage API [ https://near.social/efiz.near/w
 For a deep diver check out the BOS documentation at&#x20;
 
 {% embed url="https://docs.near.org/bos/api/storage" %}
+
+
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-22 at 8.01.41 PM.png" alt=""><figcaption></figcaption></figure>
