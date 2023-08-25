@@ -12,5 +12,6 @@ _**A PotLock everyone eats and there are incentives for every stakeholder. Every
 * Protocol Fees -> goes toward development and maintaining PotLock
 * Donations: contract takes a Protocol Fee (faciliated by DAO to fund development and growth of platform) for general donations.&#x20;
 * Referral Donations: Through referral function on donation contract, everyday people can generate referral donation links for general donations.
+* Referral for Matching Rounds: Get a fee for getting people to donate to the round.
 * Patrons: get tax write offs and additional incentives via impact credits
-*
+
