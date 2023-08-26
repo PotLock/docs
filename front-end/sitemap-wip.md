@@ -6,4 +6,4 @@ description: How pages are organized in PotLock app
 
 
 
-<figure><img src="../.gitbook/assets/Sitemap.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Primary Sitemap.png" alt=""><figcaption></figcaption></figure>
