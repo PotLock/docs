@@ -5,7 +5,7 @@ description: >-
   edit page
 ---
 
-# Stakeholder Pages
+# 📰 Stakeholder Pages
 
 It is important to note that people can be a collection of stakeholders.
 

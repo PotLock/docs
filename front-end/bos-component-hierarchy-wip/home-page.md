@@ -2,5 +2,5 @@
 description: Start here
 ---
 
-# Home Page
+# 🏠 Home Page
 

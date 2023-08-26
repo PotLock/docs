@@ -46,3 +46,8 @@ To assure that all projects are coming from the official PotLock team they are d
 
 ### Testnet ([potlock.testnet](https://testnet.nearblocks.io/address/potlock.testnet))
 
+
+
+{% hint style="info" %}
+Do you have any suggestions for our contracts? Make an[ issue request](https://github.com/PotLock/core/issues/new) on Github today
+{% endhint %}

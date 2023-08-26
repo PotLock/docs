@@ -10,4 +10,25 @@ The PotLock project registry allow us to query projects that have signed up to o
 
 
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-08-22 at 9.38.45 AM.png" alt=""><figcaption></figcaption></figure>
+Setters
+
+* Projects can be only only by project addressed or whitelisted owner
+  * Reccomended use a named account with projects name on it or subject to be added to graylist
+  * All projects that signup through traditional flow will be putting on whitelist (approved), admins must trigger a status change to be taken off
+* an owner (DAO) can add admins that can add project manually to the registry or can change the status of the project (put on blacklist or graylist or approve a project)
+
+Getters
+
+* can check wether a project is on registry
+* can check the status of a projects
+* can get the last projects on the whitelist, graylist, and blacklist
+
+What is the difference between graylist and blacklist
+
+* graylist is if we are unsure this is a legit project
+* blacklist is surely not a legit project, it also may be a personal account, spam, or cointain inappropriate content
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-08-25 at 6.20.30 PM.png" alt=""><figcaption></figcaption></figure>
+
+
+

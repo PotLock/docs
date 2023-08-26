@@ -4,7 +4,7 @@ description: >-
   donations
 ---
 
-# Donor Page
+# 🙌 Donor Page
 
 * Show total amount donated
 * Show information from their scoail grahp
