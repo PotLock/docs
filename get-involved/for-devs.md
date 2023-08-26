@@ -2,7 +2,7 @@
 
 ## Fork & Improve
 
-* Fork existing components and improve the flow
+* Fork existing components and improve the flow. Make a PR on [github](https://github.com/PotLock/bos-app)
 
 ## Build Client Applications
 

@@ -15,3 +15,11 @@ Patrons are different than Donors in that there donations are not matched. They 
 * Tax exempt donations
 * Support cohort
 * Impact based credits
+
+
+
+## Questions
+
+Whats the minimum amount of a patron can put in funding round?
+
+* Their is no mimnimum. However round managers will be working closely with patrons for soft commit.

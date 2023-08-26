@@ -51,7 +51,7 @@
   * [📺 Dashboard](front-end/bos-component-hierarchy-wip/dashboard/README.md)
     * [👩🍳 Chef Dashboard](front-end/bos-component-hierarchy-wip/dashboard/chef-dashboard.md)
     * [🗄 Project Dashboard](front-end/bos-component-hierarchy-wip/dashboard/project-dashboard.md)
-* [📉 Transactions Page](front-end/transactions-page.md)
+  * [📉 Transactions Page](front-end/bos-component-hierarchy-wip/transactions-page.md)
 * [👷♂ Setting Up Your BOS Workspace](front-end/setting-up-your-bos-workspace.md)
 * [💅 PotLock Styled Components](front-end/potlock-styled-components.md)
 * [🎁 Brand Kit (WIP)](front-end/brand-kit-wip.md)
