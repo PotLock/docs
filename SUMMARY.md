@@ -59,5 +59,6 @@
 ## Get Involved
 
 * [👩💻 For Devs](get-involved/for-devs.md)
+* [✏ Create Guides](get-involved/create-guides.md)
 * [💑 Volunteer](get-involved/volunteer.md)
 * [👀 Watch Us Cook](get-involved/watch-us-cook.md)
