@@ -40,6 +40,10 @@ To assure that all projects are coming from the official PotLock team they are d
 [sbt-issuer.md](sbt-issuer.md)
 {% endcontent-ref %}
 
+{% hint style="info" %}
+Do you have any suggestions for our contracts? Make an[ issue request](https://github.com/PotLock/core/issues/new) on Github today
+{% endhint %}
+
 ### Mainnet ([potlock.near](https://nearblocks.io/address/potlock.near))
 
 
@@ -48,6 +52,6 @@ To assure that all projects are coming from the official PotLock team they are d
 
 
 
-{% hint style="info" %}
-Do you have any suggestions for our contracts? Make an[ issue request](https://github.com/PotLock/core/issues/new) on Github today
+{% hint style="warning" %}
+Warning: none of our contracts are audited, matter of fact we haven't even wrote the contract yet, super building in public vibes.
 {% endhint %}

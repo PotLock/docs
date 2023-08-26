@@ -6,6 +6,8 @@ description: >-
 
 # 🏭 PotFactory
 
+[pot.potlock.near ](https://nearblocks.io/address/pot.potlock.near)& pot.potlock.testnet
+
 On the factory contract you can
 
 * Deploy a pot where you can specify the following requirements
@@ -13,8 +15,9 @@ On the factory contract you can
   * Whether there are milestones and how many. A milestone is a defined deliverable(s) associated  and payouts happen when milestoneEvidence is submitted and a Chef approves this
   * Specify the Chef (aka Round manager), who approves applications and review milestones, and takes a fee. You also specify this fees
   * Time: Start & End Date of Pot, and Stand and End Date of Applications for the Pot&#x20;
-*
-* Currency: Set native NEAR or fungible token like USDC as native currency for funding round
+  * Max Number of Project in the Round
+    * Applications are no longer available once max Number of projects are hit (A Chef approves this amount of projects). This is to prevent over saturation of round and allow for more evenly distributed capital in the found for projects.&#x20;
+  * Currency: Set native NEAR or fungible token like USDC as native currency for funding round
 * Query All the pots
 
 ## How Milestones Are Calculated
