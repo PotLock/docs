@@ -46,3 +46,9 @@ Questions
 * You must be a verified human unless other SBTs are specified by factory contract
 * You choose the project and funding round.
 * Their is a function to donate (it is important to note thatpart of your donation a small fee is given to protocol and the Chef
+
+
+
+## Changing Criterion
+
+* Pot managers can change SBT criterion, say in the event, it becomes higher level of funding round based on donations
