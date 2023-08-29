@@ -4,7 +4,8 @@
   * [🔓 PotLock Protocol](welcome-to-potlock/potlock-protocol.md)
   * [🚀 Value Proposition](welcome-to-potlock/value-proposition.md)
   * [💸 Revenue Model](welcome-to-potlock/revenue-model.md)
-  * [💗 Understanding Pot Sizes](welcome-to-potlock/understanding-pot-sizes.md)
+  * [🔮 Roadmap](welcome-to-potlock/roadmap.md)
+  * [♨ Understanding Pots (Funding Rounds)](welcome-to-potlock/understanding-pots-funding-rounds.md)
 
 ## User Guides
 

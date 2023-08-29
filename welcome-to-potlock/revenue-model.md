@@ -15,3 +15,9 @@ _**A PotLock everyone eats and there are incentives for every stakeholder. Every
 * **Patrons:** get tax write offs and additional incentives via impact credits
 * **Permissionless Quadratic Funding Rounds**: charging an extra fee for rounds that have their own parameters for reviewers, elligbility for donors and patrons. These rounds are not indexed by our BOS components or platform. For example using our quadratic factory contract for a [Quadratic Lenster](https://www.quadraticlenster.xyz/) equivalent.
 
+
+
+{% hint style="info" %}
+WIP - adding range number and calculations
+{% endhint %}
+

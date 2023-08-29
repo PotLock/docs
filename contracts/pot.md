@@ -23,16 +23,13 @@ The major differences in a pot are defined in the PotFactory contract&#x20;
 * **Number of max projects:** whether there are a number of max projects to prevent over saturation of rounds. Up to the Pot's Chef to filter this.
 * **Currency**: For now on MVP we are only allowing for NEAR rounds to reduce complexity. In the future we will be supporting fungible tokens, mostly rolling out USDC and USDT based rounds.
 
-## Phases of A Pot
 
-* **Pre-Kitchen**: this is before a Pot is deployed. This maybe preparing soft commits from donors, and planning and communication off-chain with potential Chef and DAO council
-* **Application-Period**: When applications are open and the Pot's Chef is filtering though application. At this time Patrons can also donate to the amount that is matched.
-* **Applicants-Finalized**: This is the period before matched donations start. Patrons can also donated to the matched amount. No more projects can apply anymore.&#x20;
-* **Matched-Donations:** When verified humans can get their contributions matched. Up until this point all matched donations were not a thing. Patrons can also donated to matched amounts. Only at the end of the Pot (when donations close) are the amount each proejcts earn is calculated. Up until this point all matching is estimated by a calculator component, based on current contributions and current matching pool. No one can calculate this amount until all matched donations and the their are no more additional funds to funding round. At the end of this all payouts or upfront payouts for milestone rounds are initiated (or r[eady for claims -- still up for debate](https://github.com/orgs/PotLock/discussions/5))
-* **Milestone-Submission (Optional)**: This is an ongoing period, if there are milestones, where projects submit milestone evidence, the Pot's Chef compares to applications, and rejects or accepts the milestone. If milestone is rejected a project can re-submit evidence.  Payouts for milestones happen to this period
-* **Closed**: All payouts have happened for every project. If this a milestone round than this means every milestone has been paid out.&#x20;
 
-<figure><img src="../.gitbook/assets/potphases.png" alt=""><figcaption></figcaption></figure>
+## Deep Dive Into Pot
+
+{% content-ref url="../welcome-to-potlock/understanding-pots-funding-rounds.md" %}
+[understanding-pots-funding-rounds.md](../welcome-to-potlock/understanding-pots-funding-rounds.md)
+{% endcontent-ref %}
 
 ## Managing As A Round Manager
 

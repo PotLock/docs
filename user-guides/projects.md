@@ -28,7 +28,7 @@ Go to potlock.io/register to register today. You will need at least 1 N to fill 
 
 ## How to Apply for A Round
 
-In order to be eligible for certain rounds you may need a SBT unless it a "[Dish](../welcome-to-potlock/understanding-pot-sizes.md)" round. However all projects must be approved on the PotLock registry, so please go through the aforementioned signup flow.
+In order to be eligible for certain rounds you may need a SBT unless it a "[Dish](../welcome-to-potlock/understanding-pots-funding-rounds.md)" round. However all projects must be approved on the PotLock registry, so please go through the aforementioned signup flow.
 
 
 

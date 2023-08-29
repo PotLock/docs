@@ -6,11 +6,14 @@ description: >-
 
 # 👀 Watch Us Cook
 
-Twitter https://twitter.com/potlock\_
+## Forum
 
-BOS https://potlock.near.social
+Do you have any concern about the design of the PotLock protocol? Well we do too and we are building in public. Start a discussion on GitHub or add a reply to existing discussion at [https://PotLock.io/forum](https://potlock.io/forum)
 
-Github https://github.com/PotLock
+## Socials
 
-NEAR ReFI Telegram https://nearefi.org/telegram
+* Twitter [https://twitter.com/potlock\_](https://twitter.com/potlock\_)
+* BOS [https://potlock.near.social](https://github.com/PotLock)
+* Github [https://github.com/PotLock](https://github.com/PotLock)
+* NEAR ReFI Telegram [https://nearefi.org/telegram](https://nearefi.org/telegram)
 

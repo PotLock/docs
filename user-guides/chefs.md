@@ -45,3 +45,11 @@ Undesigned solutions
 * Bad actors SBT
 
 Discussion around this can be found [https://github.com/orgs/PotLock/discussions/2](https://github.com/orgs/PotLock/discussions/2)&#x20;
+
+## Compensation for Chefs
+
+* How much time does it take to facilitate a round?
+* How long is a round?&#x20;
+* How many hours a week?
+* How much am I expected to earn for fees?
+* Is there any form of retroactive funding
