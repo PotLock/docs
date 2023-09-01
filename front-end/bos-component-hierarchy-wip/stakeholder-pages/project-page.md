@@ -2,7 +2,7 @@
 description: Where you can keep track of all updates to your favorite project
 ---
 
-# Project Page
+# 👨🏫 Project Page
 
 Read
 
