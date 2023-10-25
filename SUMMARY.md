@@ -15,7 +15,7 @@
 * [😇 Donors](user-guides/donors.md)
   * [😷 I-Am-Human Explained](user-guides/donors/i-am-human-explained.md)
 * [😒 Observor](user-guides/observor.md)
-* [🏛 Impact Council](user-guides/impact-council.md)
+* [🏛 Impact Council](user-guides/refi-council.md)
 
 ## Contracts
 

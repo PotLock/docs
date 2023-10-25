@@ -18,7 +18,7 @@ description: >-
 
 ## How to Become a Chef
 
-In order to become a Chef the N[EAR ReFi Council](impact-council.md) needs to vote you into the "chef" role into the DAO.  One of their requirements is. Express interest at https://PotLock.io/chef-up. From the BOS dashboard, the Council will only be able to award propose you a Chef  role if you are a verified human [https://PotLock.io/human ](https://potlock.io/human)
+In order to become a Chef the NEAR Impact Collective needs to vote you into the "chef" role into the DAO.  One of their requirements is. Express interest at https://PotLock.io/chef-up. From the BOS dashboard, the Council will only be able to award propose you a Chef  role if you are a verified human [https://PotLock.io/human ](https://potlock.io/human)
 
 
 
@@ -35,7 +35,7 @@ Based on the current design of Potlock their is room for round manager corruptio
 Solutions
 
 * Reputation based system
-* ReFI Council is currently able to remove round managers from DAO (which is what the contracts check on round instantiation)
+* Impact Council is currently able to remove round managers from DAO (which is what the contracts check on round instantiation)
 * Rejection of applications are required to put a reason so other round managers can do diligence. Also all rejections to a round are displayed on BOS components so others can learn from how to do better applications but also hold round manager accountable. Additionally round managers and fees they get from round are also transparency
 * Chefs will be required to be verified humans
 

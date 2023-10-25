@@ -15,5 +15,5 @@ Do you have any concern about the design of the PotLock protocol? Well we do too
 * Twitter [https://twitter.com/potlock\_](https://twitter.com/potlock\_)
 * BOS [https://potlock.near.social](https://github.com/PotLock)
 * Github [https://github.com/PotLock](https://github.com/PotLock)
-* NEAR ReFI Telegram [https://nearefi.org/telegram](https://nearefi.org/telegram)
+* NEAR Impact Telegram [https://nearimpact.org/telegram](https://nearimpact.org/telegram)&#x20;
 

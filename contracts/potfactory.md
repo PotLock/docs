@@ -30,7 +30,7 @@ Inside each pot
   * A patron referral must be a verified human or the contract will ignore this amount and tree as regular patron donation.
   * there is a 2% referral fee, then $2,000 will be given to referrer address. &#x20;
 * **Protocol fees:**&#x20;
-  * these are taken out before If the protocol fee is 7%, and a Patron donated $100,000 USD this means $7,000 will be donated to the DAO (refi.sputnik-dao.near) (protocol) account. If registered human.
+  * these are taken out before If the protocol fee is 7%, and a Patron donated $100,000 USD this means $7,000 will be donated to the DAO (impact.sputnik-dao.near) (protocol) account. If registered human.
   * Also taken out of external contributions. If a donor donates $1 USD, then a protocol fee is 7%, and the chef fee is 3%, then ($.90 cents - gas fees) is used as number to calculate what of the matching round goes to projects.
 * **Chef fees:** Get paid for external contributions to projects at fixed fee. For example if Chef fee paid out just like protocol fees for external contributions.
   * Chef's do not get a cut for regular donations, since they do not facilitate regular donations
@@ -61,7 +61,7 @@ These payouts happen when a milestone is submitted (on the front end this is fac
 
 ## Who Can Deploy A Pot
 
-Initially the ReFi council can deploy a pot. In a pot they determine who the round manager is. This will return error if a specified round manager is not a "chef" role in the refi.sputnik-dao.near contract.
+Initially the Impact council can deploy a pot. In a pot they determine who the round manager is. This will return error if a specified round manager is not a "chef" role in the impact.sputnik-dao.near contract.
 
 
 
