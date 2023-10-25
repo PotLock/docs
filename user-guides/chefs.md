@@ -18,7 +18,7 @@ description: >-
 
 ## How to Become a Chef
 
-In order to become a Chef the N[EAR ReFi Council](refi-council.md) needs to vote you into the "chef" role into the DAO.  One of their requirements is. Express interest at https://PotLock.io/chef-up. From the BOS dashboard, the Council will only be able to award propose you a Chef  role if you are a verified human [https://PotLock.io/human ](https://potlock.io/human)
+In order to become a Chef the N[EAR ReFi Council](impact-council.md) needs to vote you into the "chef" role into the DAO.  One of their requirements is. Express interest at https://PotLock.io/chef-up. From the BOS dashboard, the Council will only be able to award propose you a Chef  role if you are a verified human [https://PotLock.io/human ](https://potlock.io/human)
 
 
 
