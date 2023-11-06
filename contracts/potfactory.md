@@ -8,6 +8,10 @@ description: >-
 
 [pot.potlock.near ](https://nearblocks.io/address/pot.potlock.near)& pot.potlock.testnet
 
+The factory contract can be found here
+
+{% embed url="https://github.com/PotLock/core/tree/main/contracts/pot_deployer" %}
+
 On the factory contract you can
 
 * Deploy a pot where you can specify the following requirements
