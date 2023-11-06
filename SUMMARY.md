@@ -22,13 +22,13 @@
 
 * [📃 Contracts Overview](contracts/contracts-overview.md)
 * [🏭 PotFactory](contracts/potfactory.md)
-* [🍲 Pot](contracts/pot.md)
-* [🙏 Donation](contracts/donation.md)
-* [🗺 Registry](contracts/registry.md)
-* [🖐 Attestation](contracts/attestation/README.md)
-  * [💬 Other Attestation Services (Research)](contracts/attestation/other-attestation-services-research.md)
-* [✏ SBT Registry](contracts/sbt-registry.md)
-* [📛 SBT Issuer](contracts/sbt-issuer.md)
+* [🍲 Pot \[wip\]](contracts/pot-wip.md)
+* [🙏 Donation \[live\]](contracts/donation-live.md)
+* [🗺 Registry \[live\]](contracts/registry-live.md)
+* [🖐 Attestation \[not started\]](contracts/attestation-not-started/README.md)
+  * [💬 Other Attestation Services (Research)](contracts/attestation-not-started/other-attestation-services-research.md)
+* [✏ SBT Registry \[not started\]](contracts/sbt-registry-not-started.md)
+* [📛 SBT Issuer \[not started\]](contracts/sbt-issuer-not-started.md)
 
 ***
 

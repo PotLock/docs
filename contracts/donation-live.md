@@ -4,11 +4,13 @@ description: >-
   any address with a protocol fee + referral mechanism
 ---
 
-# 🙏 Donation
+# 🙏 Donation \[live]
 
 ## Contract
 
-Live Deployed Contract [https://nearblocks.io/address/donate.potlock.near](https://nearblocks.io/address/donate.potlock.near)
+Live Deployed Contract&#x20;
+
+{% embed url="https://nearblocks.io/address/donate.potlock.near" %}
 
 Code
 

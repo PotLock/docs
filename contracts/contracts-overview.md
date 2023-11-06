@@ -8,7 +8,7 @@ description: >-
 
 ## All Contracts
 
-To assure that all projects are coming from the official PotLock team they are deployed as [**subaccounts**](https://docs.near.org/tutorials/crosswords/basics/add-functions-call#create-a-subaccount) under the potlock.near namespace. Testnet and Mainnet follow the same naming conventions to avoid any confusion. Their are 7 main contracts, (technically [Pot](pot.md) has many contracts as many Pots are deployed under the PotFactory)
+To assure that all projects are coming from the official PotLock team they are deployed as [**subaccounts**](https://docs.near.org/tutorials/crosswords/basics/add-functions-call#create-a-subaccount) under the potlock.near namespace. Testnet and Mainnet follow the same naming conventions to avoid any confusion. Their are 7 main contracts, (technically [Pot](pot-wip.md) has many contracts as many Pots are deployed under the PotFactory)
 
 
 
@@ -16,28 +16,28 @@ To assure that all projects are coming from the official PotLock team they are d
 [potfactory.md](potfactory.md)
 {% endcontent-ref %}
 
-{% content-ref url="pot.md" %}
-[pot.md](pot.md)
+{% content-ref url="pot-wip.md" %}
+[pot-wip.md](pot-wip.md)
 {% endcontent-ref %}
 
-{% content-ref url="donation.md" %}
-[donation.md](donation.md)
+{% content-ref url="donation-live.md" %}
+[donation-live.md](donation-live.md)
 {% endcontent-ref %}
 
-{% content-ref url="registry.md" %}
-[registry.md](registry.md)
+{% content-ref url="registry-live.md" %}
+[registry-live.md](registry-live.md)
 {% endcontent-ref %}
 
-{% content-ref url="attestation/" %}
-[attestation](attestation/)
+{% content-ref url="attestation-not-started/" %}
+[attestation-not-started](attestation-not-started/)
 {% endcontent-ref %}
 
-{% content-ref url="sbt-registry.md" %}
-[sbt-registry.md](sbt-registry.md)
+{% content-ref url="sbt-registry-not-started.md" %}
+[sbt-registry-not-started.md](sbt-registry-not-started.md)
 {% endcontent-ref %}
 
-{% content-ref url="sbt-issuer.md" %}
-[sbt-issuer.md](sbt-issuer.md)
+{% content-ref url="sbt-issuer-not-started.md" %}
+[sbt-issuer-not-started.md](sbt-issuer-not-started.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}

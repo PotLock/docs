@@ -14,8 +14,8 @@ A pot is a funding round, where patrons can put down on matching rounds, and ind
 
 Deep dive into Pot Contract
 
-{% content-ref url="../contracts/pot.md" %}
-[pot.md](../contracts/pot.md)
+{% content-ref url="../contracts/pot-wip.md" %}
+[pot-wip.md](../contracts/pot-wip.md)
 {% endcontent-ref %}
 
 ## Phases of A Pot

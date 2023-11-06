@@ -1,4 +1,4 @@
-# 🗺 Registry
+# 🗺 Registry \[live]
 
 {% hint style="info" %}
 registry.potlock.near & registry.potlock.tetnet
@@ -9,6 +9,16 @@ registry.potlock.near & registry.potlock.tetnet
 The PotLock project registry allow us to query projects that have signed up to our project onboarding which uses contracts like [nearhorizon.near](https://nearblocks.io/address/nearhorizon.near) and [social.near](https://nearblocks.io/address/social.near), but also lets round managers to curate projects to prevent from getting spammed.
 
 
+
+Code&#x20;
+
+{% embed url="https://github.com/PotLock/core/tree/main/contracts/registry" %}
+
+
+
+Deployed Contract
+
+{% embed url="https://nearblocks.io/address/registry.potlock.near" %}
 
 Setters
 
