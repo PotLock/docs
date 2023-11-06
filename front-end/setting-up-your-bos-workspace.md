@@ -10,12 +10,5 @@ This best Web IDE for developing a gateway by far is [jutsu.ai](https://jutsu.ai
 
 ## BOS Workspace
 
-{% embed url="https://github.com/sekaiking/bos-workspace/" %}
+PotLock bos-app is setup using BOS Workspace.&#x20;
 
-
-
-
-
-## Best Practices
-
-Use the .notation whenever possilbe to indicate folder heirarchy.&#x20;

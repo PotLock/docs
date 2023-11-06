@@ -64,3 +64,7 @@
 * [✏ Create Guides](get-involved/create-guides.md)
 * [💑 Volunteer](get-involved/volunteer.md)
 * [👀 Watch Us Cook](get-involved/watch-us-cook.md)
+
+## General Information
+
+* [🐛 Beta Phase](general-information/beta-phase.md)
