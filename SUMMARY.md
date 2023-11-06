@@ -9,14 +9,15 @@
 
 ## User Guides
 
-* [💰 Patrons](user-guides/patrons.md)
-* [📐 Projects](user-guides/projects.md)
-* [Create Your Project](user-guides/create-your-project.md)
-* [👨🍳 Chefs](user-guides/chefs.md)
-* [😇 Donors](user-guides/donors.md)
-  * [😷 I-Am-Human Explained](user-guides/donors/i-am-human-explained.md)
-* [😒 Observor](user-guides/observor.md)
-* [🏛 Impact Council](user-guides/refi-council.md)
+* [➕ Create Your Project](user-guides/create-your-project.md)
+* [👀 Soon / Personas](user-guides/soon-personas/README.md)
+  * [💰 Patrons](user-guides/soon-personas/patrons.md)
+  * [👨🍳 Chefs](user-guides/soon-personas/chefs.md)
+  * [🏛 Impact Council](user-guides/soon-personas/impact-council.md)
+  * [😇 Donors](user-guides/soon-personas/donors/README.md)
+    * [😷 I-Am-Human Explained](user-guides/soon-personas/donors/i-am-human-explained.md)
+  * [😒 Observor](user-guides/soon-personas/observor.md)
+  * [📐 Projects](user-guides/soon-personas/projects.md)
 
 ## Contracts
 

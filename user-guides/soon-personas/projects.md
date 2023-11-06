@@ -6,7 +6,7 @@ description: >-
 
 # 📐 Projects
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ##
 
@@ -28,7 +28,7 @@ Go to [potlock.io/register](https://potlock.io/register) to register today. You 
 
 ## How to Apply for A Round
 
-In order to be eligible for certain rounds you may need a SBT unless it a "[Dish](../welcome-to-potlock/understanding-pots-funding-rounds.md)" round. However all projects must be approved on the PotLock registry, so please go through the aforementioned signup flow.
+In order to be eligible for certain rounds you may need a SBT unless it a "[Dish](../../welcome-to-potlock/understanding-pots-funding-rounds.md)" round. However all projects must be approved on the PotLock registry, so please go through the aforementioned signup flow.
 
 
 

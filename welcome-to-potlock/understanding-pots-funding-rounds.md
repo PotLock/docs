@@ -46,5 +46,5 @@ In traditional quadratic funding rounds like Gitcoin no matter what level you ar
 * Buffet - $150,000-$500,000&#x20;
 * Feast - $500,000-$1,000,000
 
-Pots will be consisting of multiple patrons, meaning [Patrons](../user-guides/patrons.md) do not need to donate for the entire Pot Size.&#x20;
+Pots will be consisting of multiple patrons, meaning [Patrons](../user-guides/soon-personas/patrons.md) do not need to donate for the entire Pot Size.&#x20;
 
