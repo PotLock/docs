@@ -22,7 +22,7 @@ PotLock is a platform to
 
 ## How to Signup
 
-Go to potlock.io/register to register today. You will need at least 1 N to fill out information as you are interacting with our project registry, nearhorizon.near and the social graph so you can list on BOS.
+Go to [potlock.io/register](https://potlock.io/register) to register today. You will need at least 1 N to fill out information as you are interacting with our project registry, nearhorizon.near and the social graph so you can list on BOS.
 
 
 
@@ -34,5 +34,5 @@ In order to be eligible for certain rounds you may need a SBT unless it a "[Dish
 
 ## Who Should Control Project Account
 
-* Only Co-Founders should control this account as payouts should be adminstered. Considering that you have a social media account you may want to givee your an account to a social media manager. However this is not reccomendd. A better solution is to configure your twitter account through the [Wormhole widget ](https://near.org/wormhole3.near/widget/Wormhole3.Twitter)to BOS, and use the #BOS to sync tweets. Even then it is recommended you even use[ delegated access through twitter ](https://help.twitter.com/en/managing-your-account/how-to-use-the-delegate-feature)to other individuals for security purposes.
+* Only Co-Founders should control this account as payouts should be adminstered. Considering that you have a social media account you may want to give your an account to a social media manager. However this is not recommended. A better solution is to configure your twitter account through the [Wormhole widget ](https://near.org/wormhole3.near/widget/Wormhole3.Twitter)to BOS, and use the #BOS to sync tweets. Even then it is recommended you even use[ delegated access through twitter ](https://help.twitter.com/en/managing-your-account/how-to-use-the-delegate-feature)to other individuals for security purposes.
 

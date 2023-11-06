@@ -20,6 +20,10 @@ Things an observor can do
 
 What you can't do
 
+* Contribute to funding rounds
+* Make attestations
+* Make direct donations or get on chain referrals
+
 
 
 {% hint style="info" %}

@@ -6,6 +6,14 @@ description: >-
 
 # 🙏 Donation
 
+## Contract
+
+Live Deployed Contract [https://nearblocks.io/address/donate.potlock.near](https://nearblocks.io/address/donate.potlock.near)
+
+Code
+
+{% embed url="https://github.com/PotLock/core/tree/main/contracts/donation" %}
+
 ## Why Do A Donation Contract?
 
 Can't you just have people directly submit? Yes, but&#x20;

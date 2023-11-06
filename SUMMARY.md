@@ -11,6 +11,7 @@
 
 * [💰 Patrons](user-guides/patrons.md)
 * [📐 Projects](user-guides/projects.md)
+* [Create Your Project](user-guides/create-your-project.md)
 * [👨🍳 Chefs](user-guides/chefs.md)
 * [😇 Donors](user-guides/donors.md)
   * [😷 I-Am-Human Explained](user-guides/donors/i-am-human-explained.md)
@@ -67,4 +68,5 @@
 
 ## General Information
 
+* [📚 Code of Conduct](general-information/code-of-conduct.md)
 * [🐛 Beta Phase](general-information/beta-phase.md)
