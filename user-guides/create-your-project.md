@@ -39,4 +39,4 @@ Based on #BOS if you are using a non-web wallet like Meteor Wallet, than after y
 
 ## Who Should Create A Project
 
-We only support public goods otherwise you will get take off of the [Potlock registry](../contracts/registry-live.md). Additionally a violation of our [code of conduct](../general-information/code-of-conduct.md) can also get you taken off the Potlock registry. For a guide on what is considered a public good check out https://potlock.io/project-guidelines&#x20;
+We only support public goods otherwise you will get take off of the [Potlock registry](../contracts/registry-live.md). Additionally a violation of our [code of conduct](../general-information/code-of-conduct.md) can also get you taken off the Potlock registry. For a guide on what is considered a public good check out [https://potlock.io/project-guidelines ](https://potlock.io/project-guidelines)

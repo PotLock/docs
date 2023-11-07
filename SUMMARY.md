@@ -9,6 +9,7 @@
 
 ## User Guides
 
+* [🙏 Donate to A Project](user-guides/donate-to-a-project.md)
 * [➕ Create Your Project](user-guides/create-your-project.md)
 * [👀 Soon / Personas](user-guides/soon-personas/README.md)
   * [💰 Patrons](user-guides/soon-personas/patrons.md)
