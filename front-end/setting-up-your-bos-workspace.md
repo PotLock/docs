@@ -10,5 +10,7 @@ This best Web IDE for developing a gateway by far is [jutsu.ai](https://jutsu.ai
 
 ## BOS Workspace
 
-PotLock bos-app is setup using BOS Workspace.&#x20;
+PotLock bos-app is setup using BOS Workspace.  Make sure to change potlock.near to your respective NEAR account to deploy all the components to when you are forking.
+
+[https://github.com/PotLock/bos-app](https://github.com/PotLock/bos-app)&#x20;
 

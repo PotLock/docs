@@ -9,6 +9,7 @@
 
 ## User Guides
 
+* [💸 Create Project Referral Link](user-guides/create-project-referral-link.md)
 * [🙏 Donate to A Project](user-guides/donate-to-a-project.md)
 * [➕ Create Your Project](user-guides/create-your-project.md)
 * [👀 Soon / Personas](user-guides/soon-personas/README.md)
@@ -23,7 +24,7 @@
 ## Contracts
 
 * [📃 Contracts Overview](contracts/contracts-overview.md)
-* [🏭 PotFactory](contracts/potfactory.md)
+* [🏭 PotFactory \[wip\]](contracts/potfactory-wip.md)
 * [🍲 Pot \[wip\]](contracts/pot-wip.md)
 * [🙏 Donation \[live\]](contracts/donation-live.md)
 * [🗺 Registry \[live\]](contracts/registry-live.md)

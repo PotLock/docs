@@ -12,8 +12,8 @@ To assure that all projects are coming from the official PotLock team they are d
 
 
 
-{% content-ref url="potfactory.md" %}
-[potfactory.md](potfactory.md)
+{% content-ref url="potfactory-wip.md" %}
+[potfactory-wip.md](potfactory-wip.md)
 {% endcontent-ref %}
 
 {% content-ref url="pot-wip.md" %}
