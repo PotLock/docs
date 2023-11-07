@@ -22,4 +22,4 @@ For a deep diver check out the BOS documentation at&#x20;
 
 
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-08-22 at 8.01.41 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-22 at 8.01.41 PM.png" alt=""><figcaption></figcaption></figure>

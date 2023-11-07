@@ -47,3 +47,9 @@ Fees are subject to change on DAO based on sentiment for donors, projects, and t
 
 **Project Registration (0.05 - 0.08 NEAR \~ .$07-$.15)** : all fees associated with registration goes toward gas for saving social profile on social.near contract and adding project ot nearhorizon.near and[ registry.potlock.near ](https://nearblocks.io/address/registry.potlock.near)registry
 
+
+
+{% hint style="success" %}
+Got feedback? Write a bug, feature-request, or enhancement at [potlock.io/feedback](https://potlock.io/feedback)
+{% endhint %}
+

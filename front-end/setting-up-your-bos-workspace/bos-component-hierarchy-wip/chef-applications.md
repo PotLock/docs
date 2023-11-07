@@ -13,4 +13,4 @@ To include in application
 
 Chef's can express on-chain interest via form. [https://PotLock.io/chef-up](https://potlock.io/chef-up)
 
-<figure><img src="../../.gitbook/assets/Chef Application.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Chef Application.png" alt=""><figcaption></figcaption></figure>

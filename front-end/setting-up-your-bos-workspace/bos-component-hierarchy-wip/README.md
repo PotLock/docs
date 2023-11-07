@@ -12,4 +12,4 @@ You can directly fork our BOS App, but just in case you like to fork component b
 
 If you want to see us build in public directly on figma check out [https://PotLock.io/figma ](https://potlock.io/figma)where our figma is located
 
-<figure><img src="../../.gitbook/assets/bosappheirachy.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/bosappheirachy.png" alt=""><figcaption></figcaption></figure>
