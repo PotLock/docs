@@ -31,12 +31,6 @@ Currently you can only choose 1 category. Only choose public good if you do not 
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-11-06 at 12.55.33 PM.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="warning" %}
-Based on #BOS if you are using a non-web wallet like Meteor Wallet, than after you create a profile than nothing will change. It is important to go back to the explore page to check if your project has been successfully created.&#x20;
-{% endhint %}
-
-##
-
 ## Who Should Create A Project
 
 We only support public goods otherwise you will get take off of the [Potlock registry](../contracts/registry-live.md). Additionally a violation of our [code of conduct](../general-information/code-of-conduct.md) can also get you taken off the Potlock registry. For a guide on what is considered a public good check out [https://potlock.io/project-guidelines ](https://potlock.io/project-guidelines)

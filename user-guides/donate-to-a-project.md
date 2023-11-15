@@ -28,7 +28,3 @@ If you want to get a better understand of fees, see which of the donations have 
 
 After the donation, it should trigger a transaction, and clear the cart. You can view the transaction on nearblocks.io and use this for any tax purposes.&#x20;
 
-{% hint style="info" %}
-If you are in a non-web wallet like meteor wallet extension, then after you donate, the car will not clear and stay on donate page. We reccomend you clear the cart to rejoin your shopping experience.&#x20;
-{% endhint %}
-
