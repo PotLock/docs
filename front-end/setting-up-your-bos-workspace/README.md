@@ -10,7 +10,7 @@ This best Web IDE for developing a gateway by far is [jutsu.ai](https://jutsu.ai
 
 ## BOS Workspace
 
-PotLock bos-app is setup using BOS Workspace.  Make sure to change potlock.near to your respective NEAR account to deploy all the components to when you are forking. The following workspace lets you easily deploy all components into mainnet and hotload local components into the NEAR.org gateway.
+PotLock bos-app is setup using [BOS Workspace](https://github.com/nearbuilders/bos-workspace).  Make sure to change potlock.near to your respective NEAR account to deploy all the components to when you are forking. The following workspace lets you easily deploy all components into mainnet and hotload local components into the NEAR.org gateway.
 
 [https://github.com/PotLock/bos-app](https://github.com/PotLock/bos-app)&#x20;
 

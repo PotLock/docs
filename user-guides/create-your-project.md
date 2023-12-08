@@ -33,4 +33,31 @@ Currently you can only choose 1 category. Only choose public good if you do not 
 
 ## Who Should Create A Project
 
-We only support public goods otherwise you will get take off of the [Potlock registry](../contracts/registry-live.md). Additionally a violation of our [code of conduct](../general-information/code-of-conduct.md) can also get you taken off the Potlock registry. For a guide on what is considered a public good check out [https://potlock.io/project-guidelines ](https://potlock.io/project-guidelines)
+We only support public goods otherwise you will get take off of the [Potlock registry](../contracts/registry-live.md). Additionally a violation of our [code of conduct](../general-information/code-of-conduct.md) can also get you taken off the Potlock registry. For a guide on what is considered a public good check out [https://potlock.io/project-guidelines](https://potlock.io/project-guidelines)
+
+
+
+## Create A Project As A DAO
+
+
+
+Some of you might be managing your on chain organization as a DAO, most notably on near as a Sputnik-DAO through a BOS interface and you donations and rewards to directly go to your DAO treasury.
+
+
+
+In order to make a proposal to register as a DAO, it is the normal create project flow, however..... you click check the box.
+
+
+
+Note this will also propose to sign up your DAO into NEAR Horizon's project registyr, and update your DAO profile. _**While currently this is in 3 seperate proposals, we are wroking to get i into multicall proposal.** You can only propose a DAO to register to Potlock if the account you are submitting the proposal from all has the ability to propose function calls (you can suggest your DAO interacts with other contracts)._
+
+
+
+Although a proposal went through, this only means you are proposing. This means a quorum of your DAO's voting body (those who are allowed to vote on functiona call proposals) must vote for the DAO's address to execute.
+
+
+
+Here is how a succesfull signed up DAO looks like.
+
+
+
