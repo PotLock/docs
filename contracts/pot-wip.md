@@ -14,7 +14,7 @@ description: A pot is a funding round
 
 The major differences in a pot are defined in the PotFactory contract&#x20;
 
-* Donor Requirements: Which SBT as user must hold to donate (most time will be I-Am-Human SBT)
+* Donor Requirements: which human checks. Most type will be human check on sybil.potlock.near&#x20;
 * Application time period (when a project can apply and the Pot's Chef approve & rejects application) and round time period (when external contributions come in)
 * **Number of Milestones:** Whether there are milestones and number of milestones. All number of milestones are the same for every project, unless they did no meat the treshold amount.
   * If there are milestones, what is threshold amount of fund raise to require milestones be turned in
