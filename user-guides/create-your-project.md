@@ -4,8 +4,8 @@ description: If you are a public good you can create a project to
 
 # ➕ Create Your Project
 
-{% embed url="https://www.youtube.com/watch?v=7xu9GnN1Q5o" %}
-Directly donate to a project
+{% embed url="https://youtu.be/_ymKeP-xZcY" %}
+Create a project on PotLock
 {% endembed %}
 
 ## What Happens When You Create A Project

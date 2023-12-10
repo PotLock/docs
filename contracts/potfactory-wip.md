@@ -15,7 +15,7 @@ The factory contract can be found here
 On the factory contract you can
 
 * Deploy a pot where you can specify the following requirements
-  * SBT to donate (Ex; Human SBT) (Indicate by issuer contract and classId)
+  * Human check to  donate (See [sybil-contract-wip](sybil-contract-wip/ "mention")) (Indicate by contract name and methods and respective config)
   * Whether there are milestones and how many. A milestone is a defined deliverable(s) associated  and payouts happen when milestoneEvidence is submitted and a Chef approves this
   * Specify the Chef (aka Round manager), who approves applications and review milestones, and takes a fee. You also specify this fees
   * Time: Start & End Date of Pot, and Stand and End Date of Applications for the Pot&#x20;
@@ -42,6 +42,8 @@ Inside each pot
   * Chef's do not get a cut from bringing in patron donations unless they use their referral link
 * For discussions on chef incentives go here [https://github.com/orgs/PotLock/discussions/4](https://github.com/orgs/PotLock/discussions/4)
 
+See [current-fees.md](../welcome-to-potlock/revenue-model/current-fees.md "mention")&#x20;
+
 ## How Milestones Are Calculated
 
 * Their is a milestone cap so their is no managerial oversight hardcoded into factory contract. This
@@ -60,6 +62,10 @@ if (amountRaisedbyProject > milestoneThreshold) {
 ```
 
 These payouts happen when a milestone is submitted (on the front end this is facilitated through project dashboard by checking whether a project is completely paid out and how many milestones are left), and than the Chef (Round Manager) approves the milestone.&#x20;
+
+{% hint style="info" %}
+In initial MVP when quadratic funding is rolled out milestones will not be included
+{% endhint %}
 
 
 
@@ -90,13 +96,5 @@ The round manager will be interacting with the Pot contract. This is like a job 
 
 ## Requirements for Being A Pot Donor
 
-* Cross contract call to check is\_human (Check registry on registry.i-am-human.near) [https://nearblocks.io/address/registry.i-am-human.near#contract](https://nearblocks.io/address/registry.i-am-human.near#contract)
-
-## Questions
-
-* What incentives do Chefs have for wanting to review milestones? When do Chefs get paid?
-  * if they get payment in escrow then they will just approve pots. If they get paid out in beginning then they do not have incentivize for reviewing milestones.&#x20;
-  * Additionally&#x20;
-* When can someone close a round?
-* At what points does funding go into the contract? What if round is advertised at certain level and it doesn't hit that threshold?
+* See [sybil-contract-wip](sybil-contract-wip/ "mention")
 
