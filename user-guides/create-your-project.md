@@ -4,6 +4,10 @@ description: If you are a public good you can create a project to
 
 # ➕ Create Your Project
 
+{% embed url="https://www.youtube.com/watch?v=7xu9GnN1Q5o" %}
+Directly donate to a project
+{% endembed %}
+
 ## What Happens When You Create A Project
 
 * Get Added to Our Project Registry for donors to explore

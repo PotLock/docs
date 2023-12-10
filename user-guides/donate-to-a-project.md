@@ -4,6 +4,10 @@ description: How to donate directly to a project
 
 # 🙏 Donate to A Project
 
+
+
+<figure><img src="../.gitbook/assets/DonateDIrectlyProject.png" alt=""><figcaption><p>Directly support your favorite public goods year round</p></figcaption></figure>
+
 You can directly donate to a public good by going to the [project explore page](https://potlock.io/explore) (the homepage for now), clicking on a project page and then donating
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-11-06 at 9.51.26 PM.png" alt=""><figcaption></figcaption></figure>
