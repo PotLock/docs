@@ -48,7 +48,7 @@ As a round manager you can&#x20;
 
 ## Donating as a Donor
 
-* You must be a verified human unless other SBTs are specified by factory contract
+* You must be a verified human unless other requirements are specified by factory contract
 * You choose the project and the amount.
 * Their is a function to donate (it is important to note that part of your donation a small fee is given to protocol and the Chef
 

@@ -32,12 +32,12 @@ To assure that all projects are coming from the official PotLock team they are d
 [attestation-not-started](attestation-not-started/)
 {% endcontent-ref %}
 
-{% content-ref url="sbt-registry-not-started.md" %}
-[sbt-registry-not-started.md](sbt-registry-not-started.md)
+{% content-ref url="sybil-contract-wip.md" %}
+[sybil-contract-wip.md](sybil-contract-wip.md)
 {% endcontent-ref %}
 
-{% content-ref url="sbt-issuer-not-started.md" %}
-[sbt-issuer-not-started.md](sbt-issuer-not-started.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% hint style="info" %}

@@ -30,8 +30,7 @@
 * [🗺 Registry \[live\]](contracts/registry-live.md)
 * [🖐 Attestation \[not started\]](contracts/attestation-not-started/README.md)
   * [💬 Other Attestation Services (Research)](contracts/attestation-not-started/other-attestation-services-research.md)
-* [✏ SBT Registry \[not started\]](contracts/sbt-registry-not-started.md)
-* [📛 SBT Issuer \[not started\]](contracts/sbt-issuer-not-started.md)
+* [✏ Sybil Contract \[wip\]](contracts/sybil-contract-wip.md)
 
 ***
 
