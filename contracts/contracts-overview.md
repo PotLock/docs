@@ -36,10 +36,6 @@ To assure that all projects are coming from the official PotLock team they are d
 [sybil-contract-wip.md](sybil-contract-wip.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 {% hint style="info" %}
 Do you have any suggestions for our contracts? Make an[ issue request](https://github.com/PotLock/core/issues/new) on Github today
 {% endhint %}

@@ -27,7 +27,7 @@ Can't you just have people directly submit? Yes, but&#x20;
 ## Donation Fees
 
 * For general donations their are 2 fees
-* An optional fee if there was  areferral. It is important to note that the referral fee, since it is not gated and anyone can referred to increase donation amount, will not be included in the tax write off amount in Proof of donation.&#x20;
+* An optional fee if there was  a referral. It is important to note that the referral fee, since it is not gated and anyone can referred to increase donation amount, will not be included in the tax write off amount in Proof of donation.&#x20;
 * A protocol fee.&#x20;
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-08-25 at 6.50.20 PM.png" alt=""><figcaption></figcaption></figure>

@@ -13,9 +13,7 @@ _**A PotLock everyone eats and there are incentives for every stakeholder. Every
 * **Referral Donations:** Through referral function on donation contract, everyday people can generate referral donation links for general donations.
 * **Referral for Matching Rounds:** Get a fee for getting people to donate to the round. Incentivize anyone to bring larger patrons in.&#x20;
 * **Patrons:** get tax write offs and additional incentives via impact credits
-* **Permissionless Quadratic Funding Rounds**: charging an extra fee for rounds that have their own parameters for reviewers, elligbility for donors and patrons. These rounds are not indexed by our BOS components or platform. For example using our quadratic factory contract for a [Quadratic Lenster](https://www.quadraticlenster.xyz/) equivalent.
-
-
+* **Permissionless Quadratic Funding Rounds**: charging an extra fee for rounds that have their own parameters for reviewers, eligibility for donors and patrons. These rounds are not indexed by our BOS components or platform. For example using our quadratic factory contract for a [Quadratic Lenster](https://www.quadraticlenster.xyz/) equivalent.
 
 {% hint style="info" %}
 WIP - adding range number and calculations

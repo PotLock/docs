@@ -4,7 +4,7 @@ description: >-
   that it makes quadratic funding
 ---
 
-# 🏭 PotFactory
+# 🏭 PotFactory \[wip]
 
 [pot.potlock.near ](https://nearblocks.io/address/pot.potlock.near)& pot.potlock.testnet
 
@@ -32,7 +32,7 @@ Inside each pot
 
 * **Patron Referral fees**, for funding rounds (Pots): referrals are taken out from funding amount, as well with Protocol fees.&#x20;
   * A patron referral must be a verified human or the contract will ignore this amount and tree as regular patron donation.
-  * there is a 2% referral fee, then $2,000 will be given to referrer address. &#x20;
+  * if there is a 2% referral fee, then $2,000 will be given to referrer address. &#x20;
 * **Protocol fees:**&#x20;
   * these are taken out before If the protocol fee is 7%, and a Patron donated $100,000 USD this means $7,000 will be donated to the DAO (impact.sputnik-dao.near) (protocol) account. If registered human.
   * Also taken out of external contributions. If a donor donates $1 USD, then a protocol fee is 7%, and the chef fee is 3%, then ($.90 cents - gas fees) is used as number to calculate what of the matching round goes to projects.
