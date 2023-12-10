@@ -8,7 +8,7 @@ description: Our current on chain referral fees, subject to change
 
 Protocol Fees to go to NEAR Impact Collective (impact.sputnik-dao.near) - **2.5%**
 
-Referral Fees (only if someone has donated through a referral link) - **7.5%** (taken out of donation - otherwise only protocol fee)&#x20;
+Referral Fees (only if someone has donated through a referral link) - **5%** (taken out of donation - otherwise only protocol fee)&#x20;
 
 
 

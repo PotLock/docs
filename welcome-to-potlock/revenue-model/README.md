@@ -19,3 +19,8 @@ _**A PotLock everyone eats and there are incentives for every stakeholder. Every
 WIP - adding range number and calculations
 {% endhint %}
 
+
+
+{% content-ref url="current-fees.md" %}
+[current-fees.md](current-fees.md)
+{% endcontent-ref %}
