@@ -32,8 +32,8 @@ To assure that all projects are coming from the official PotLock team they are d
 [attestation-not-started](attestation-not-started/)
 {% endcontent-ref %}
 
-{% content-ref url="sybil-contract-wip.md" %}
-[sybil-contract-wip.md](sybil-contract-wip.md)
+{% content-ref url="sybil-contract-wip/" %}
+[sybil-contract-wip](sybil-contract-wip/)
 {% endcontent-ref %}
 
 {% hint style="info" %}

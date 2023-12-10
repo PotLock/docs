@@ -12,13 +12,13 @@ description: >-
 The Sybil attack in computer security is _an attack wherein a reputation system is subverted by creating multiple identities_
 {% endhint %}
 
-Although for direct donatiosn that do not have tax benefits, we do not care if someone is using unique accounts, when it comes to democratic voting / funding sysmtems like quadratic funding, we need to make sure that the system is not being gamed and that our subsequent funding contracts are checking for definitions of humans.
+Although for direct donations that do not have tax benefits, there is minimal impact if someone is using unique accounts for donations. However, when it comes to democratic voting / funding systems like quadratic funding, we need to make sure that the system is not being gamed and that our subsequent funding contracts are checking for definitions of humans.
 
 
 
 We have invented a way for other sybil providers and contracts to develop "checks" or "stamps" if you are familiar with [Gitcoin Passport's](https://passport.gitcoin.co/) model.&#x20;
 
-
+{% embed url="https://github.com/PotLock/core/tree/main/contracts/sybil" %}
 
 ## Terms
 
@@ -73,16 +73,30 @@ In order to submit your check go to nada.bot and click submit your check. In  th
 
 ## Where is this used?
 
-This is\_human check on sybil.potlock.near is used by defailt in Pot deployments. While a deployer can specify their own configuration for different checks with their own weights and human threshold.
+This is\_human check on sybil.potlock.near is used by default in Pot deployments. While a deployer can specify their own configuration for different checks with their own weights and human threshold.
 
-## Can I customize
+
+
+{% hint style="info" %}
+See PotDeployer to see how to configure your human check
+{% endhint %}
+
+### Why Use Our Human Check&#x20;
+
+We will be running funding pools that bad actors will try to game. Not only will be verifying independent checks by different sybil providers, we will be adjusting weights based on importance, and human thresholds as addresses try to bot us in realtime. Additionally if our requirements are too strong we can adjust these to make more accesible. Most application developers and round maangers / chefs will not be monitoring all addresses that interact with their contract, rather relying on our aggregated "check"&#x20;
+
+
+
+#### U**s Vs idOS**
+
+While their are other identity layer providers, Nada.bot is for NEAR contracts that need to use a cross contract call that is robust instead of idOS which is an SDK to be integrated into applications.&#x20;
 
 ## How We Determine Humans
 
-Although
+On our contract we set weights and approves. Currently we are toggling based on different weights (see on [nada.bot](https://nada.bot))
 
 
 
 ## Future of Contract
 
-We invision&#x20;
+We invision this as a DAO / sybil research WG that different data & monitoring groups use to better exmplofy what is a human. Additionally we will be working with different teams to proilfierate creating contracts to verify third parties. Eventually we look to spin out the Nada.bot core team outside the PotLock core team and are making steps to do so.&#x20;

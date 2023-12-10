@@ -18,7 +18,7 @@
   * [👨🍳 Chefs](user-guides/soon-personas/chefs.md)
   * [🏛 Impact Council](user-guides/soon-personas/impact-council.md)
   * [😇 Donors](user-guides/soon-personas/donors/README.md)
-    * [😷 I-Am-Human Explained](user-guides/soon-personas/donors/i-am-human-explained.md)
+    * [Verify As Human](user-guides/soon-personas/donors/verify-as-human.md)
   * [😒 Observor](user-guides/soon-personas/observor.md)
   * [📐 Projects](user-guides/soon-personas/projects.md)
 
@@ -31,7 +31,8 @@
 * [🗺 Registry \[live\]](contracts/registry-live.md)
 * [🖐 Attestation \[not started\]](contracts/attestation-not-started/README.md)
   * [💬 Other Attestation Services (Research)](contracts/attestation-not-started/other-attestation-services-research.md)
-* [✏ Sybil Contract \[wip\]](contracts/sybil-contract-wip.md)
+* [✏ Sybil Contract \[wip\]](contracts/sybil-contract-wip/README.md)
+  * [😷 I-Am-Human Explained](contracts/sybil-contract-wip/i-am-human-explained.md)
 
 ***
 
