@@ -69,8 +69,8 @@ Mainnet (whatever you deploy form pot contracts above)
 [registry-live.md](registry-live.md)
 {% endcontent-ref %}
 
-{% content-ref url="attestations-hyperfiles-wip/" %}
-[attestations-hyperfiles-wip](attestations-hyperfiles-wip/)
+{% content-ref url="attestation-not-started/" %}
+[attestation-not-started](attestation-not-started/)
 {% endcontent-ref %}
 
 {% content-ref url="sybil-contract-nadabot-wip/" %}
