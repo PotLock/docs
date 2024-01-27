@@ -14,6 +14,7 @@
 * [🙏 Donate to A Project](user-guides/donate-to-a-project.md)
 * [➕ Create Your Project](user-guides/create-your-project.md)
 * [👀 Soon / Personas](user-guides/soon-personas/README.md)
+  * [Quadratic Funding Tutorials \[WIP\]](user-guides/soon-personas/quadratic-funding-tutorials-wip.md)
   * [💰 Patrons](user-guides/soon-personas/patrons.md)
   * [👨🍳 Chefs](user-guides/soon-personas/chefs.md)
   * [🏛 Impact Council](user-guides/soon-personas/impact-council.md)
