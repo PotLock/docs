@@ -4,11 +4,23 @@ description: Describes PotLock as an open source public good anyone can fork
 
 # 🔓 PotLock Protocol
 
-Our smart contracts are open source, all our front end is composable and can be forked from day 1. And we are building in Public.
+Potlock is a protocol for deploying any funding strategy, impact tracking and engagement tools for public goods. We are completely open source, modular, and permissionless from day 1.. If you don't like us we encourage forks.&#x20;
 
 
 
+## Deep Dive Into the "Legos"
 
+[https://potlock.org/legos](https://potlock.org/legos) and [https://potlock.org/legos-explained](https://potlock.org/legos-explained)
+
+As we build we are developing the concept of legos.&#x20;
+
+
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-01-27 at 5.22.27 AM.png" alt=""><figcaption><p>low fidelity of creating funding strategies</p></figcaption></figure>
+
+## Potlock Ecosystem
+
+Potlock is composed of projects, protocol, communities, contributors that make this happen. See the entire ecosystem at [https://ecosystem.potlock.org ](https://ecosystem.potlock.org)
 
 Tech That We Use\
 
