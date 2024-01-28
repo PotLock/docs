@@ -73,8 +73,8 @@ Mainnet (whatever you deploy form pot contracts above)
 [attestation-not-started](attestation-not-started/)
 {% endcontent-ref %}
 
-{% content-ref url="sybil-contract-nadabot-wip/" %}
-[sybil-contract-nadabot-wip](sybil-contract-nadabot-wip/)
+{% content-ref url="sybil-contract-nadabot.md" %}
+[sybil-contract-nadabot.md](sybil-contract-nadabot.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}

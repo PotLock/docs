@@ -32,8 +32,7 @@
 * [🗺 Registry \[live\]](contracts/registry-live.md)
 * [🗃 Attestations - Hyperfiles \[WIP\]](contracts/attestation-not-started/README.md)
   * [💬 Other Attestation Services (Research)](contracts/attestation-not-started/other-attestation-services-research.md)
-* [🤖 Sybil Contract - NADABOT \[wip\]](contracts/sybil-contract-nadabot-wip/README.md)
-  * [😷 I-Am-Human Explained](contracts/sybil-contract-nadabot-wip/i-am-human-explained.md)
+* [🤖 Sybil Contract - NADABOT](contracts/sybil-contract-nadabot.md)
 
 ***
 

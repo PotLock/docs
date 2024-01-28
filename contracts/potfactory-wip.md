@@ -15,7 +15,7 @@ The factory contract can be found here
 On the factory contract you can
 
 * Deploy a pot where you can specify the following requirements
-  * Human check to  donate (See [sybil-contract-nadabot-wip](sybil-contract-nadabot-wip/ "mention")) (Indicate by contract name and methods and respective config)
+  * Human check to  donate (See [sybil-contract-nadabot.md](sybil-contract-nadabot.md "mention")) (Indicate by contract name and methods and respective config)
   * Whether there are milestones and how many. A milestone is a defined deliverable(s) associated  and payouts happen when milestoneEvidence is submitted and a Chef approves this
   * Specify the Chef (aka Round manager), who approves applications and review milestones, and takes a fee. You also specify this fees
   * Time: Start & End Date of Pot, and Stand and End Date of Applications for the Pot&#x20;
@@ -96,5 +96,5 @@ The round manager will be interacting with the Pot contract. This is like a job 
 
 ## Requirements for Being A Pot Donor
 
-* See [sybil-contract-nadabot-wip](sybil-contract-nadabot-wip/ "mention")
+* See [sybil-contract-nadabot.md](sybil-contract-nadabot.md "mention")
 
