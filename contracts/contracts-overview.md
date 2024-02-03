@@ -47,6 +47,8 @@ Source code [https://github.com/PotLock/core/tree/main/contracts/pot\_factory](h
 
 Staging: potfactory2.tests.potlock.near
 
+Testnet: [potfactory.potlock.testnet](https://testnet.nearblocks.io/address/potfactory.potlock.testnet)
+
 **Pot (quadratic funding round deployed by factory contract as a subaccount by anyone that specifies application dates, matching requirements, fees, a chef that can be changed by owner, where QF payouts are calculated off chain, initiated on chain with a cooldown veto period, application & donation requirement according to registry and sybil contract interfaces and allows anyone to sponsor for matching rounds, and donations to be passed through for optional fees  and to keep track of matching payouts)**
 
 Source Code   [**https://github.com/PotLock/core/tree/main/contracts/pot**](https://github.com/PotLock/core/tree/main/contracts/pot)
