@@ -7,16 +7,18 @@
     * [💵 Current Fees](welcome-to-potlock/revenue-model/current-fees.md)
   * [🔮 Roadmap](welcome-to-potlock/roadmap.md)
   * [♨ Understanding Pots (Funding Rounds)](welcome-to-potlock/understanding-pots-funding-rounds.md)
+* [❓ FAQ](faq.md)
 
 ## User Guides
 
 * [💸 Create Project Referral Link](user-guides/create-project-referral-link.md)
 * [🙏 Donate to A Project](user-guides/donate-to-a-project.md)
+* [📖 Project Guidelines](user-guides/project-guidelines.md)
 * [➕ Create Your Project](user-guides/create-your-project.md)
+* [👨🍳 Chef Manual](user-guides/chef-manual.md)
+* [💰 Sponsors](user-guides/sponsors.md)
 * [👀 Soon / Personas](user-guides/soon-personas/README.md)
   * [Quadratic Funding Tutorials \[WIP\]](user-guides/soon-personas/quadratic-funding-tutorials-wip.md)
-  * [💰 Patrons](user-guides/soon-personas/patrons.md)
-  * [👨🍳 Chefs](user-guides/soon-personas/chefs.md)
   * [🏛 Impact Council](user-guides/soon-personas/impact-council.md)
   * [😇 Donors](user-guides/soon-personas/donors/README.md)
     * [Verify As Human](user-guides/soon-personas/donors/verify-as-human.md)
@@ -63,7 +65,8 @@
 
 ## Get Involved
 
-* [👩💻 For Devs](get-involved/for-devs.md)
+* [👩💻 For Devs](get-involved/for-devs/README.md)
+  * [Using NEAR API JS](get-involved/for-devs/using-near-api-js.md)
 * [✏ Create Guides](get-involved/create-guides.md)
 * [💑 Volunteer](get-involved/volunteer.md)
 * [👀 Watch Us Cook](get-involved/watch-us-cook.md)

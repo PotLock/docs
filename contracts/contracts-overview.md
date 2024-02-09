@@ -45,7 +45,7 @@ Testnet [v1.nadabot.testnet](https://testnet.nearblocks.io/address/v1.nadabot.te
 
 Source code [https://github.com/PotLock/core/tree/main/contracts/pot\_factory](https://github.com/PotLock/core/tree/main/contracts/pot\_factory)
 
-Staging: potfactory2.tests.potlock.near
+Staging:&#x20;
 
 Testnet: [potfactory.potlock.testnet](https://testnet.nearblocks.io/address/potfactory.potlock.testnet)
 

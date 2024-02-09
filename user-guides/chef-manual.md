@@ -4,27 +4,21 @@ description: >-
   projects & milestones.
 ---
 
-# 👨🍳 Chefs
+# 👨🍳 Chef Manual
 
 
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/chefvspotowner.png" alt=""><figcaption><p>Chefs vs Pot Owners</p></figcaption></figure>
 
 ## Incentives for Chefs
 
-* A set fee for funding rounds
-
-
-
-## How to Become a Chef
-
-In order to become a Chef the NEAR Impact Collective needs to vote you into the "chef" role into the DAO.  One of their requirements is. Express interest at https://PotLock.io/chef-up. From the BOS dashboard, the Council will only be able to award propose you a Chef  role if you are a verified human [https://PotLock.io/human ](https://potlock.io/human)
+* A  fee for funding rounds
 
 
 
 ## What If The Chef "Spits in The Food"
 
-Round managers are a huge vector&#x20;
+Round managers are a huge vector  of attack
 
 Based on the current design of Potlock their is room for round manager corruption. This includes
 
@@ -35,7 +29,6 @@ Based on the current design of Potlock their is room for round manager corruptio
 Solutions
 
 * Reputation based system
-* Impact Council is currently able to remove round managers from DAO (which is what the contracts check on round instantiation)
 * Rejection of applications are required to put a reason so other round managers can do diligence. Also all rejections to a round are displayed on BOS components so others can learn from how to do better applications but also hold round manager accountable. Additionally round managers and fees they get from round are also transparency
 * Chefs will be required to be verified humans
 

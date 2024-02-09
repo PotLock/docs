@@ -6,7 +6,11 @@ description: >-
 
 # 🏭 PotFactory \[wip]
 
-[pot.potlock.near ](https://nearblocks.io/address/pot.potlock.near)& pot.potlock.testnet
+pot.potlock.testnet
+
+Production: potfactory.potlock.near&#x20;
+
+Staging: staging.potfactory.potlock.near
 
 The factory contract can be found here
 

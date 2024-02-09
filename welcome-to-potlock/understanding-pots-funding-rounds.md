@@ -20,16 +20,16 @@ Deep dive into Pot Contract
 
 ## Phases of A Pot
 
-* **Pre-Kitchen**: this is before a Pot is deployed. This maybe preparing soft commits from donors, and planning and communication off-chain with potential Chef and DAO council
-* **Application-Period**: When applications are open and the Pot's Chef is filtering though application. At this time Patrons can also donate to the amount that is matched.
+* **Pre-Kitchen**: this is before a Pot is deployed. This maybe preparing soft commits from donors, and planning and communication off-chain with potential Chef.
+* **Application-Period**: When applications are open and the Pot's Chef is filtering though application. At this time Patrons /Sponsors can also donate to the amount that is matched.
 * **Applicants-Finalized**: This is the period before matched donations start. Patrons can also donated to the matched amount. No more projects can apply anymore.&#x20;
-* **Matched-Donations:** When verified humans can get their contributions matched. Up until this point all matched donations were not a thing. Patrons can also donated to matched amounts. Only at the end of the Pot (when donations close) are the amount each proejcts earn is calculated. Up until this point all matching is estimated by a calculator component, based on current contributions and current matching pool. No one can calculate this amount until all matched donations and the their are no more additional funds to funding round. At the end of this all payouts or upfront payouts for milestone rounds are initiated (or r[eady for claims -- still up for debate](https://github.com/orgs/PotLock/discussions/5))
-* **Milestone-Submission (Optional)**: This is an ongoing period, if there are milestones, where projects submit milestone evidence, the Pot's Chef compares to applications, and rejects or accepts the milestone. If milestone is rejected a project can re-submit evidence.  Payouts for milestones happen to this period
-* **Closed**: All payouts have happened for every project. If this a milestone round than this means every milestone has been paid out.&#x20;
+* **Matched-Donations:** When verified humans can get their contributions matched. Up until this point all matched donations were not a thing. Patrons can also donated to matched amounts. Only at the end of the Pot (when donations close) are the amount each proejcts earn is calculated. Up until this point all matching is estimated by a calculator component, based on current contributions and current matching pool. No one can calculate this amount until all matched donations and the their are no more additional funds to funding round.&#x20;
+* Payouts: this is when payouts are calculated using offchain quadratic funding calculations based on donations on Pot contract. Then after payouts, the payout method is intiated by chef or owner. Then their is a cooldown period before payout to contest any discrepancies with offchain calculation and onchain payouts amount (check for wrong doing).
+* **Closed**: All payouts have happened for every project..&#x20;
 
 
 
-<figure><img src="../.gitbook/assets/potphases.png" alt=""><figcaption><p>phases of a pot</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/potlock-potphases-feb2024-correct.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -46,5 +46,5 @@ In traditional quadratic funding rounds like Gitcoin no matter what level you ar
 * Buffet - $150,000-$500,000&#x20;
 * Feast - $500,000-$1,000,000
 
-Pots will be consisting of multiple patrons, meaning [Patrons](../user-guides/soon-personas/patrons.md) do not need to donate for the entire Pot Size.&#x20;
+Pots will be consisting of multiple patrons, meaning [Patrons](../user-guides/sponsors.md) do not need to donate for the entire Pot Size.&#x20;
 
