@@ -6,7 +6,7 @@ description: Also known as Pots. The following is tutorials for how
 
 ## How to Apply As A Project
 
-Different pots may have different registry requirements. Most approved pots through Potlock front ends will use Potlock's "APPROVED" registry (registry.potlock.near) as a requirement.  [See Create Your Project ](../create-your-project.md)to see how to do this.  For applications if you have already signed up, its easy as clicking apply (when the application period is live). In order to see that status of your application go to the application tab where a Chef or Owner of the pot will give their reason for accepting or rejecting you.
+Different pots may have different registry requirements. Most approved pots through Potlock front ends will use Potlock's "APPROVED" registry (registry.potlock.near) as a requirement.  [See Create Your Project ](../create-your-project/)to see how to do this.  For applications if you have already signed up, its easy as clicking apply (when the application period is live). In order to see that status of your application go to the application tab where a Chef or Owner of the pot will give their reason for accepting or rejecting you.
 
 ### As An Approved Project
 

@@ -11,10 +11,10 @@
 
 ## User Guides
 
-* [💸 Create Project Referral Link](user-guides/create-project-referral-link.md)
+* [➕ Create Your Project](user-guides/create-your-project/README.md)
+  * [📖 Project Guidelines](user-guides/create-your-project/project-guidelines.md)
 * [🙏 Donate to A Project](user-guides/donate-to-a-project.md)
-* [📖 Project Guidelines](user-guides/project-guidelines.md)
-* [➕ Create Your Project](user-guides/create-your-project.md)
+* [💸 Create Project Referral Link](user-guides/create-project-referral-link.md)
 * [👨🍳 Chef Manual](user-guides/chef-manual.md)
 * [💰 Sponsors](user-guides/sponsors.md)
 * [👀 Soon / Personas](user-guides/soon-personas/README.md)

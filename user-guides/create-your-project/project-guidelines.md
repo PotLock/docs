@@ -78,7 +78,7 @@ A project is likely to get unlisted due to the following:
 
 ### Flagged Projects
 
-Projects that are found to exhibit "unacceptable behavior as outlined by our [Code of Conduct](../general-information/code-of-conduct.md) will be flagged from our public registry immediately with proper justification on-chain. Flagged projects and unapproved rounds from the protocol can be soon found at uncensored.potlock.org&#x20;
+Projects that are found to exhibit "unacceptable behavior as outlined by our [Code of Conduct](../../general-information/code-of-conduct.md) will be flagged from our public registry immediately with proper justification on-chain. Flagged projects and unapproved rounds from the protocol can be soon found at uncensored.potlock.org&#x20;
 
 #### Examples of unacceptable behavior include:
 
