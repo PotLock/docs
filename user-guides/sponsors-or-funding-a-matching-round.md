@@ -4,18 +4,15 @@ description: >-
   make the funding rounds.
 ---
 
-# 💰 Sponsors
+# 💰 Sponsors | Funding A Matching Round
 
 Sponsors aka Patrons are different than Donors in that there donations are not matched. They are usually larger entities.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
-
 ## Why Be A Sponsor?
 
-* Tax exempt donations (WIP)
-* Support cohort of proejcts rather than direct projects
-* Get logos featured as sponsor
-* Impact based credits & retroactive reputations and rewards
+* Support cohort of projects rather than direct projects
+* Get logo featured as sponsor
+* Impact based credits & retroactive reputations and rewards (Soon)
 
 
 
@@ -30,3 +27,11 @@ If a pot is deployed you can donate directly. Make sure you update your NEAR.soc
 Whats the minimum amount of a patron can put in funding round?
 
 * Their is no minimum. However round managers will be working closely with patrons for soft commits.
+
+When can I fund a pot?
+
+* Any time until the payouts
+
+How will I get credit for sponsorship?
+
+* Your sponsorship amount and logo will be pulled from the near.social account you are donating from

@@ -4,7 +4,9 @@ description: How to donate directly to a project
 
 # 🙏 Donate to A Project
 
-
+{% hint style="info" %}
+Donating directly is different than [donating to a project through a Pot / quadratic funding roun](matched-donations-or-donate-through-a-pot.md)d.&#x20;
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/DonateDIrectlyProject.png" alt=""><figcaption><p>Directly support your favorite public goods year round</p></figcaption></figure>
 
