@@ -22,16 +22,46 @@ If a pot is deployed you can donate directly. Make sure you update your NEAR.soc
 
 
 
+
+
 ## Questions
 
-Whats the minimum amount of a patron can put in funding round?
+<details>
 
-* Their is no minimum. However round managers will be working closely with patrons for soft commits.
+<summary>Whats the minimum amount of a patron can put in funding round?</summary>
 
-When can I fund a pot?
+Their is no minimum. However round managers will be working closely with patrons for soft commits.
 
-* Any time until the payouts
+</details>
 
-How will I get credit for sponsorship?
+<details>
 
-* Your sponsorship amount and logo will be pulled from the near.social account you are donating from
+<summary>When can I fund a pot's matching pool as a sponsor?</summary>
+
+Any time from the point the pot contract is deployed, until the payouts
+
+</details>
+
+<details>
+
+<summary>How will I get credit for sponsorship?</summary>
+
+Your sponsorship amount and logo will be pulled from the near.social account you are donating from
+
+</details>
+
+<details>
+
+<summary>What about sponsorship agreement?</summary>
+
+If you need an agreement for sponsorship, it is up to the Pot Owner, Admin, or Chef to close this
+
+</details>
+
+<details>
+
+<summary>What if I don't have sponsorship amount in NEAR?</summary>
+
+You will need to onramp or work with Pot owner to help convert to NEAR to put on chain.
+
+</details>

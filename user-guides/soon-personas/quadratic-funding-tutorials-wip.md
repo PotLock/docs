@@ -16,7 +16,7 @@ It is important to note that you can only receive matched donations. If someone 
 
 ### When I Will Receive Payments
 
-All donations  come directly to the project automatically, and that donation is logged through the Pot (Quadratic funding round) contract to then calculate matching round payouts. The actual payouts from matched amount can only be paid out, when the round is over, when the chef or owner of the Pot initiates the payout calculations, then payouts on chain, and a cooldown period is passed (check timer on pot page). Then all payout amounts can be see on the "Payout" tab.&#x20;
+All donations come directly to the project. The matching payouts happen after the matching round cool down period. When a matching round is over the pot owner, admin, or chef needs to initiate the calculations & payout transaction. Then their is a cooldown timer for any one to object the calculations. After which the payouts are automated and can be seen in payouts tabs. The funds will be in the wallet of the project account you signed up with.
 
 {% hint style="info" %}
 Donations must be given through the pot section during when matching period is live by people verified as human through nada bot (or whatever the pot requires) to have their donation amplified.
@@ -24,7 +24,7 @@ Donations must be given through the pot section during when matching period is l
 
 ## How to Deploy&#x20;
 
-Currently anyone can deploy quadratic funding round contracts from our  [factory](../../contracts/potfactory-wip.md) contract, but the only deployers of Pots, but through promoted front ends only the deploy button and pots being displayed are to a whitelisted group of deployers so we can assure quality assurance.  To deploy you need to specify
+Currently anyone can deploy quadratic funding round contracts from our  [factory](../../contracts/potfactory-live.md) contract, but the only deployers of Pots, but through promoted front ends only the deploy button and pots being displayed are to a whitelisted group of deployers so we can assure quality assurance.  To deploy you need to specify
 
 **what can be changed by owner**
 
@@ -39,13 +39,17 @@ Currently anyone can deploy quadratic funding round contracts from our  [factory
 * name of contract & round
 * need 6 NEAR to deploy as contract
 
+To learn more on how run quadratic funding rounds (pots), check out the [Chef Manual.](../chef-manual-or-run-a-qf-round-pot.md)
+
+{% content-ref url="../chef-manual-or-run-a-qf-round-pot.md" %}
+[chef-manual-or-run-a-qf-round-pot.md](../chef-manual-or-run-a-qf-round-pot.md)
+{% endcontent-ref %}
 
 
-{% hint style="info" %}
-Selecting a Chef is important. This person should not only have domain expertise on the Pot's vertiical or focus area to approve applications, but they should have knowledge of the Potlock platform (see us for training), a network to raise funds, custom support experience, and be a trustworth person)
-{% endhint %}
 
 ## Responsibilities of a Round Owner
+
+Selecting a Chef is important. This person should not only have domain expertise on the Pot's vertiical or focus area to approve applications, but they should have knowledge of the Potlock platform (see us for training), a network to raise funds, custom support experience, and be a trustworth person)
 
 Managing Chefs & Sometimes Doing Chef Roles
 

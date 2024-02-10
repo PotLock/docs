@@ -9,7 +9,7 @@ description: >-
 
 ## All Contracts
 
-To assure that all projects are coming from the official PotLock team they are deployed as [**subaccounts**](https://docs.near.org/tutorials/crosswords/basics/add-functions-call#create-a-subaccount) under the potlock.near namespace. Testnet and Mainnet follow the same naming conventions to avoid any confusion. Their are 7 main contracts, (technically [Pot](pot-wip.md) has many contracts as many Pots are deployed under the PotFactory)
+To assure that all projects are coming from the official PotLock team they are deployed as [**subaccounts**](https://docs.near.org/tutorials/crosswords/basics/add-functions-call#create-a-subaccount) under the potlock.near namespace. Testnet and Mainnet follow the same naming conventions to avoid any confusion. Their are 7 main contracts, (technically [Pot](pot-live.md) has many contracts as many Pots are deployed under the PotFactory)
 
 
 
@@ -55,12 +55,12 @@ Source Code   [**https://github.com/PotLock/core/tree/main/contracts/pot**](http
 
 Mainnet (whatever you deploy form pot contracts above)
 
-{% content-ref url="potfactory-wip.md" %}
-[potfactory-wip.md](potfactory-wip.md)
+{% content-ref url="potfactory-live.md" %}
+[potfactory-live.md](potfactory-live.md)
 {% endcontent-ref %}
 
-{% content-ref url="pot-wip.md" %}
-[pot-wip.md](pot-wip.md)
+{% content-ref url="pot-live.md" %}
+[pot-live.md](pot-live.md)
 {% endcontent-ref %}
 
 {% content-ref url="donation-live.md" %}

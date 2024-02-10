@@ -7,7 +7,8 @@
     * [💵 Current Fees](welcome-to-potlock/revenue-model/current-fees.md)
   * [🔮 Roadmap](welcome-to-potlock/roadmap.md)
   * [♨ Understanding Pots (Funding Rounds)](welcome-to-potlock/understanding-pots-funding-rounds.md)
-* [❓ FAQ](faq.md)
+* [❓ FAQ](faq/README.md)
+  * [🚧 Pot Not Deployed](faq/pot-not-deployed.md)
 
 ## User Guides
 
@@ -22,20 +23,20 @@
   * [🤖 Verify As Human](user-guides/donors/verify-as-human.md)
 * [👀 Soon / Personas](user-guides/soon-personas/README.md)
   * [Quadratic Funding Tutorials \[WIP\]](user-guides/soon-personas/quadratic-funding-tutorials-wip.md)
-  * [🏛 Impact DAO](user-guides/soon-personas/impact-dao.md)
+  * [🏛 Potluck Foundation DAO](user-guides/soon-personas/potluck-foundation-dao.md)
   * [😒 Observor](user-guides/soon-personas/observor.md)
   * [📐 Projects](user-guides/soon-personas/projects.md)
 
 ## Contracts
 
 * [📃 Contracts Overview](contracts/contracts-overview.md)
-* [🏭 PotFactory \[wip\]](contracts/potfactory-wip.md)
-* [🍲 Pot \[wip\]](contracts/pot-wip.md)
+* [🏭 PotFactory \[live\]](contracts/potfactory-live.md)
+* [🍲 Pot \[live\]](contracts/pot-live.md)
 * [🙏 Donation \[live\]](contracts/donation-live.md)
 * [🗺 Registry \[live\]](contracts/registry-live.md)
+* [🤖 Sybil Contract - NADABOT](contracts/sybil-contract-nadabot.md)
 * [🗃 Attestations - Hyperfiles \[WIP\]](contracts/attestation-not-started/README.md)
   * [💬 Other Attestation Services (Research)](contracts/attestation-not-started/other-attestation-services-research.md)
-* [🤖 Sybil Contract - NADABOT](contracts/sybil-contract-nadabot.md)
 
 ***
 
@@ -46,22 +47,6 @@
 
 * [React (NextJS)](front-end/react-nextjs.md)
 * [👷♂ BOS Gateway + Workspace](front-end/setting-up-your-bos-workspace/README.md)
-  * [📳 Sitemap (WIP)](front-end/setting-up-your-bos-workspace/sitemap-wip.md)
-  * [🍴 BOS Overview](front-end/setting-up-your-bos-workspace/bos-overview.md)
-  * [⚖ BOS Component Hierarchy (WIP)](front-end/setting-up-your-bos-workspace/bos-component-hierarchy-wip/README.md)
-    * [🛒 Cart](front-end/setting-up-your-bos-workspace/bos-component-hierarchy-wip/cart.md)
-    * [🏠 Home Page](front-end/setting-up-your-bos-workspace/bos-component-hierarchy-wip/home-page.md)
-    * [🔍 Explore](front-end/setting-up-your-bos-workspace/bos-component-hierarchy-wip/explore.md)
-    * [🍲 Pot Page](front-end/setting-up-your-bos-workspace/bos-component-hierarchy-wip/pot-page.md)
-    * [📂 Projects](front-end/setting-up-your-bos-workspace/bos-component-hierarchy-wip/projects.md)
-    * [📰 Stakeholder Pages](front-end/setting-up-your-bos-workspace/bos-component-hierarchy-wip/stakeholder-pages/README.md)
-      * [👔 Patron Page](front-end/setting-up-your-bos-workspace/bos-component-hierarchy-wip/stakeholder-pages/patron-page.md)
-      * [👨🏫 Project Page](front-end/setting-up-your-bos-workspace/bos-component-hierarchy-wip/stakeholder-pages/project-page.md)
-      * [🙌 Donor Page](front-end/setting-up-your-bos-workspace/bos-component-hierarchy-wip/stakeholder-pages/donor-page.md)
-      * [🔪 Chef Page](front-end/setting-up-your-bos-workspace/bos-component-hierarchy-wip/stakeholder-pages/chef-page.md)
-    * [👨🍳 Chef Applications](front-end/setting-up-your-bos-workspace/bos-component-hierarchy-wip/chef-applications.md)
-    * [📉 Transactions Page](front-end/setting-up-your-bos-workspace/bos-component-hierarchy-wip/transactions-page.md)
-  * [💅 PotLock Styled Components](front-end/setting-up-your-bos-workspace/potlock-styled-components.md)
   * [🎁 Brand Kit (WIP)](front-end/setting-up-your-bos-workspace/brand-kit-wip.md)
 
 ## Get Involved
