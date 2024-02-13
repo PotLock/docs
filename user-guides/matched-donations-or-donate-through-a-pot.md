@@ -35,4 +35,20 @@ Yes, if someone donates through your referral link you will earn the amount spec
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-02-13 at 11.00.11 AM.png" alt=""><figcaption></figcaption></figure>
 
-## Coming Soon
+How do I know if I am elligible to give a matched donation
+
+* It will say it when you are trying to donate through pot
+
+How do I know if I added a donation to a pot instead of just a regular donations
+
+* Their will be a tag on the cart section or on the popup it will say the name of the round.
+
+Where are the best onramping services to get NEAR?
+
+Do Pots taking anything other than NEAR?
+
+* Currrently their is only NEAR support for quadratic funding rounds (pots) while their is fungible token support for direct donations. If you have another token on NEAR please use app.ref.finance to swap.&#x20;
+
+How do I know how much my donation was matched?
+
+* The estiamted amount from UI is not a final amount. Only can see the actual correct amount via calculate payouts when the payouts are intiated in the "Payouts" tab of the Pot page
