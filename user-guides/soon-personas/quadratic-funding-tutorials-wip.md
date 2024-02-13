@@ -39,10 +39,10 @@ Currently anyone can deploy quadratic funding round contracts from our  [factory
 * name of contract & round
 * need 6 NEAR to deploy as contract
 
-To learn more on how run quadratic funding rounds (pots), check out the [Chef Manual.](../pot-owners-and-chef-training-pot.md)
+To learn more on how run quadratic funding rounds (pots), check out the [Chef Manual.](../chef-manual-or-run-a-qf-round-pot.md)
 
-{% content-ref url="../pot-owners-and-chef-training-pot.md" %}
-[pot-owners-and-chef-training-pot.md](../pot-owners-and-chef-training-pot.md)
+{% content-ref url="../chef-manual-or-run-a-qf-round-pot.md" %}
+[chef-manual-or-run-a-qf-round-pot.md](../chef-manual-or-run-a-qf-round-pot.md)
 {% endcontent-ref %}
 
 

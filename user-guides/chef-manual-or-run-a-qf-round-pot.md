@@ -8,6 +8,8 @@ description: >-
 
 ## Background
 
+<figure><img src="../.gitbook/assets/PotlockChefTraining.png" alt=""><figcaption><p>Chef Training</p></figcaption></figure>
+
 **First, what is a Pot, how are donors involved?**&#x20;
 
 Pots are quadratic funding round contracts that sponsors can directly fund via a matching pool. They have a series of phases in which projects apply &  get accepted, donors (who usually met a human criterion) that donate through the pot directly to the approved projects, and projects  that are paid out from the pot’s matching pool when the round is over based on the donation (the formula for calculating this is called [quadratic funding](https://wtfisqf.com)).&#x20;

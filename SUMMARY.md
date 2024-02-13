@@ -16,7 +16,7 @@
   * [📖 Project Guidelines](user-guides/create-your-project/project-guidelines.md)
 * [🙏 Donate to A Project](user-guides/donate-to-a-project.md)
 * [💸 Create Project Referral Link](user-guides/create-project-referral-link.md)
-* [👨🍳 Pot Owners & Chef Training (Pot)](user-guides/pot-owners-and-chef-training-pot.md)
+* [👨🍳 Pot Owners & Chef Training (Pot)](user-guides/chef-manual-or-run-a-qf-round-pot.md)
 * [💗 Matched Donations | Donate Through A Pot](user-guides/matched-donations-or-donate-through-a-pot.md)
 * [💰 Sponsors | Funding A Matching Round](user-guides/sponsors-or-funding-a-matching-round.md)
 * [😇 Donors](user-guides/donors/README.md)
