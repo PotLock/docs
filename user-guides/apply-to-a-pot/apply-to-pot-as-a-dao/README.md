@@ -17,6 +17,8 @@ Every DAO transaction is a two part step
 A challenge is meeting a quorum for you DAO to vote to get added
 {% endhint %}
 
+{% embed url="https://youtu.be/ynVURygnXE0?si=nW9LadYFUUrQ05Us&t=1036" %}
+
 Note, in order to  apply as a DAO you need
 
 * to have function call proposal permissions, or the ability to propse from the account you are logged in from for the DAO to interact with the contract

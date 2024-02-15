@@ -51,7 +51,7 @@ We only support public goods otherwise you will get take off of the [Potlock reg
 
 Some of you might be managing your on chain organization as a DAO, most notably on near as a [Sputnik-DAO](https://github.com/near-daos/sputnik-dao-contract) through a [BOS interface ](https://near.social/sking.near/widget/DAO.Page?daoId=build.sputnik-dao.near\&tab=proposals)and you donations and rewards to directly go to your DAO treasury.
 
-
+{% embed url="https://youtu.be/ynVURygnXE0?si=pemUug0S6QmBQsWx" %}
 
 In order to make a proposal to register as a DAO, it is the normal [create project](https://potlock.io/register) flow, however..... you click check the box.
 
@@ -94,6 +94,8 @@ Now your DAO should be on the PotLock project registry[ home page](https://potlo
 ### Edit Profile As a DAO
 
 If you go to your DAO's profile in an account that has functional call proposal permissions for this DAO, then you will see an edit profile button.
+
+{% embed url="https://youtu.be/ynVURygnXE0?si=zoNXm4QtZI-RuWrD&t=813" %}
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-12-10 at 1.01.04 AM.png" alt=""><figcaption><p>DAO based profile with edit profile button</p></figcaption></figure>
 

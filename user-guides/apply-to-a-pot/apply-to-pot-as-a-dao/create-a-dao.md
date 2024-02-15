@@ -6,7 +6,7 @@ description: A DAO can do anything an account can do
 
 Will cost 6 NEAR to deploy your own DAO contract.
 
-
+{% embed url="https://youtu.be/FzUATFR8ky4?si=4ww6CAwpCZomu7Kd" %}
 
 Create a DAO Here
 
