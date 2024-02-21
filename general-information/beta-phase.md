@@ -8,14 +8,17 @@ PotLock is currently in its initial mainnet deployment for its donations & regis
 
 
 
-Moreover, the contracts have gone throuhg a smart contract audit and htere is an ongoing audit with Ottersec. There is a risk of loss of deposited funds in case of exploits. Overall, users should be aware of the risk and not commit large amounts of funds to the protocol. During Beta phase, donations should only be done in small amounts, to mitigate possible losses for users in case of problems.​ Interacting with Beta and leaving your feedback is highly appreciated ([potlock.io/feedback](https://potlock.org/feedback))
-
-
-
-Our Pot and Pot\_Factory Contract have just gone through an audit with Guvenkaya Security Firm and is undergoing another audit with Ottersec. (will be released soon)
+Moreover, the contracts have gone through  2 smart contract audits with Guvenkaya and Ottersec. There is a risk of loss of deposited funds in case of exploits. Overall, users should be aware of the risk and not commit large amounts of funds to the protocol. During Beta phase, donations should only be done in small amounts, to mitigate possible losses for users in case of problems.​ Interacting with Beta and leaving your feedback is highly appreciated ([potlock.io/feedback](https://potlock.org/feedback))
 
 ## Guvenkaya Audit
 
 As part of the audit Guvenkaya review Potlock’s Donation (for direct donations with on chain referral) Pot, for quadratic funding, Pot-Factory (that makes quadratic funding contracts), Registry (for approving and registering accounts), and Sybil/Nada.bot (for aggregating sybil providers.
 
 {% embed url="https://github.com/Guvenkaya/public-reports/blob/master/Potlock-NEAR-Rust-Smart-Contract-Security-Assessment.pdf" %}
+
+## Ottersec Audit
+
+[Ottersec](https://osec.io) after the Guvenkaya audit was engaged to cover the Pot and PotFactory contracts and completed their report on February 15, 2024.
+
+{% embed url="https://github.com/PotLock/core/blob/main/audits/Potlock-NEAR-Smart-Contracts-Quadratic-Funding-Audit-Ottersec-February-15-2024.pdf" %}
+
