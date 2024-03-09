@@ -4,7 +4,7 @@ description: >-
   Chef
 ---
 
-# 👨🍳 Pot Owners & Chef Training (Pot)
+# 👨‍🍳 Pot Owners & Chef Training (Pot)
 
 ## Background
 
@@ -338,13 +338,25 @@ Save profile, and the board will dynamically pull this logo
 
 ## Paying People
 
-After a matching round is over, the chef or pot owner needs to initiate a transaction to payout. Which  calculates how much each project gets paid off chain and put results on contract. Then to initiate payouts. Payouts have a cooldown period for any challenges, but then the Pot will payout all project applications their matched amounts.
-
-
+After a matching round is over, the chef or pot owner needs to initiate a transaction to payout. Which  calculates how much each project gets paid off chain and put results on contract. Then to initiate payouts.&#x20;
 
 ### Cooldown Period
 
-The only thing that happens off-chain, is the quadratic funding payout. This is why there is a cooldown period seen here after a payout has been initiated with a t timer. This is x amount of time (usually 1 week), until payouts are initiated. This allow anyone to challenge any wrong doing or miscalculations of offchain calculation.&#x20;
+The only thing that happens off-chain, is the quadratic funding payout. This is why there is a cooldown period seen here after a payout has been initiated with a timer. This is x amount of time (usually 1 week), until payouts are initiated. This allow anyone to challenge any wrong doing or miscalculations of offchain calculation.&#x20;
+
+
+
+Payouts have a **cooldown** period for any challenges. Anyone can challenge a pot, reasons for challenging a pot include
+
+* a miscalculation in matched amounts
+* someone clearly paying people to donate and using unfair incentives to favor them in a round,&#x20;
+* the chef/owner/admin doing some wrong doing.&#x20;
+
+In order for payouts to happen, all challenges must be addressed on chain. Then the payout can be intiatied by Chef, Owner, or Admin(s).&#x20;
+
+
+
+###
 
 \
 
