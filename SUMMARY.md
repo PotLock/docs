@@ -23,6 +23,7 @@
   * [🏛️ Apply to Pot as a DAO](user-guides/apply-to-a-pot/apply-to-pot-as-a-dao/README.md)
     * [🌱 Create A DAO](user-guides/apply-to-a-pot/apply-to-pot-as-a-dao/create-a-dao.md)
 * [📣 For Approved Projects in Pot](user-guides/for-approved-projects-in-pot.md)
+* [🥊 Challenging Pot Results](user-guides/challenging-pot-results.md)
 * [😇 Donors](user-guides/donors/README.md)
   * [🤖 Verify As Human](user-guides/donors/verify-as-human.md)
 * [👀 Soon / Personas](user-guides/soon-personas/README.md)
