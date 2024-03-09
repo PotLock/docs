@@ -344,7 +344,7 @@ After a matching round is over, the chef or pot owner needs to initiate a transa
 
 The only thing that happens off-chain, is the quadratic funding payout. This is why there is a cooldown period seen here after a payout has been initiated with a timer. This is x amount of time (usually 1 week), until payouts are initiated. This allow anyone to challenge any wrong doing or miscalculations of offchain calculation.&#x20;
 
-
+{% embed url="https://youtu.be/SkeoEl200Vc" %}
 
 Payouts have a **cooldown** period for any challenges. Anyone can challenge a pot, reasons for challenging a pot include
 
@@ -352,7 +352,7 @@ Payouts have a **cooldown** period for any challenges. Anyone can challenge a po
 * someone clearly paying people to donate and using unfair incentives to favor them in a round,&#x20;
 * the chef/owner/admin doing some wrong doing.&#x20;
 
-In order for payouts to happen, all challenges must be addressed on chain. Then the payout can be intiatied by Chef, Owner, or Admin(s).&#x20;
+In order for payouts to happen, all challenges must be addressed on chain. Then the payout can be initiated by Chef, Owner, or Admin(s).&#x20;
 
 
 
