@@ -28,9 +28,7 @@ Current we are in our beta phase and MVP2, with project registration + direct do
 * **Project Registry & Profiles:** Public Goods can register their project and edit their profile. Check out Create Your project for more information
 * **Add  Donations to Cart + Checkout:** Add projects to your cart, toggle donations in NEAR, and payout multiple donations.
 * **Donation Referrals:** Share your favorite public good project, and get a fee everytime someone donates through your link. Automatic payouts in NEAR. Click here to see how to get a donation referral link.
-* Quadratic Funding Rounds: deploy quadratic funding rounds, sponsor rounds directly
-
-
+* **Quadratic Funding Rounds**: deploy quadratic funding rounds, sponsor rounds directly
 
 {% hint style="success" %}
 Got feedback? Write a bug, feature-request, or enhancement at [potlock.io/feedback](https://potlock.io/feedback)
