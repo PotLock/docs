@@ -6,7 +6,7 @@ description: >-
 
 # 👨‍🍳 Pot Owners & Chef Training (Pot)
 
-## Background
+Background
 
 <figure><img src="../.gitbook/assets/PotlockChefTraining.png" alt=""><figcaption><p>Chef Training</p></figcaption></figure>
 
@@ -354,45 +354,11 @@ Payouts have a **cooldown** period for any challenges. Anyone can challenge a po
 
 In order for payouts to happen, all challenges must be addressed on chain. Then the payout can be initiated by Chef, Owner, or Admin(s).&#x20;
 
+{% embed url="https://youtu.be/--0d7z44Sqs?si=HzC2KmZAvAhggfUG" %}
 
+### [Post Pot](planning-a-pot.md#after-payouts-creating-a-round-retrospective) -> Retro + Keep Projects Engaged
 
 ###
-
-\
-
-
-## After A Round
-
-After a round things are not over. We want to follow up with projects. It's important that projects share their experience, we can keep track of the rounds to improve, and pipeline to new funding opportunities, and get projects to continue to attest.&#x20;
-
-* To let them know they get paid. Any possible offramping.&#x20;
-* To make sure that donors are attesting
-* To have them share on social media via templates. Copy templates at [https://potlock.org/canva](https://potlock.org/canva)&#x20;
-
-\
-
-
-Additionally work with the Potlock team to get messaging about overall round, and then get individual projects paid out to share their experience. Have projects copy the graphic templates (potlock.org/canva) for projects to share about how much donors they had, how much direct donations, and how much matched amount they got.  and what they plan to do for the funds. Encourage them to connect twitter to NEAR.social to make a post so it shows up.&#x20;
-
-## How to Pitch
-
-Outside of using the platform, what are way to pitch to projects, sponsors, and donors.
-
-Pitching to Projects
-
-* Not just finding supporters and getting financial support
-* Build reputation, be eligible for future rounds
-* Discovering other people in public goods. space
-
-Pitching to Sponsors
-
-* Get your logo shown
-* Support cohort of projects
-* Alignment with public godos ecosystem
-
-Donors
-
-* Support your favorite project, and impact with not just your donation but against matching pool.
 
 ## Our Quadratic Funding Rounds vs [Gitcoin](https://gitcoin.co)
 
