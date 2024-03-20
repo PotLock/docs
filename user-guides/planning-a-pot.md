@@ -95,11 +95,11 @@ Pitching to Sponsors
 
 * Get your logo shown
 * Support cohort of projects
-* Alignment with public godos ecosystem
+* Alignment with public goods ecosystem
 
 Donors
 
-* Support your favorite project, and impact with not just your donation but against matching pool.
+* Support your favorite project, and impact with not just your donation but against a matching pool.
 
 ### Creating A Deck:&#x20;
 
@@ -191,14 +191,11 @@ There are options for customization that include not using Potlock’s public go
 Make sure&#x20;
 
 * You have a sync’d with your team on Run Of Show
-*
-  * Who is responsible for off chain? Who will be a chef championing round and getting fees?&#x20;
-  * How often will you be reviewing applications? Who will be primarily the reviewer?
-  * Who will be doing outbound to target applications. Establish a CRM for outreach projects with their application status, level of engagement, and whether communications has set up?
-  * Who will be reaching out and writing retrospective report?
-  * Do you have marketing plan? Who is responsible for [KOLs](https://blog.hootsuite.com/kols/) in the vertical for&#x20;
-* Have group chats with your core team and also Potlock team
-* 150 NEAR in price for gas, approvals,&#x20;
+* Who is responsible for off chain? Who will be a chef championing round and getting fees?&#x20;
+* How often will you be reviewing applications? Who will be primarily the reviewer?
+* Who will be doing outbound to target applications. Establish a CRM for outreach projects with their application status, level of engagement, and whether communications has set up?
+* Who will be reaching out and writing retrospective report?
+* Do you have marketing plan? Who is responsible for [KOLs](https://blog.hootsuite.com/kols/) in the vertical for&#x20;
 
 If you need to KYC all projects, that is up to you and we currently don’t have this in the software. Its better to have projects KYC or KYB or have proof of such beforehand. Examples of KYC providers are [FractalID](https://web.fractal.id/).
 
