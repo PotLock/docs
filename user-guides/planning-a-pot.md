@@ -157,7 +157,7 @@ Make a copy and replace all the highlighted sections, also decide whether they w
 
 ## Outreach
 
-While you may have projects in mind. Most often you need to personally have outreach with prospective projects that you want in the round. This also gives an opportunity for your team to set up communications and also add them to the cohort chat and provide direct support. Ultimately you want to have projects that are not only.
+While you may have projects in mind. Most often you need to personally have outreach with prospective projects that you want in the round. This also gives an opportunity for your team to set up communications and also add them to the cohort chat and provide direct support. Ultimately you want to have projects that are not only aligned with your objectives for the round, but are engaged and incentivized enough to onboard more donors..
 
 Be clear about your eligibility requirements. Examples from [Gitcoin Eligibility](https://docs.google.com/document/d/1I4U3RA-q9ZW\_Mtlz-EiFtj4YZTkPEwebQSKbEZlCfdY/edit#heading=h.kl4qenhpok7z), [General Potlock Public Goods Guidelines](https://potlock.org/project-guidelines), and [NEAR Retroactive Builders Round](https://www.potlock.org/retro-guidelines).
 
