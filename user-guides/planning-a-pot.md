@@ -43,6 +43,10 @@ Questions to ask yourself before you start \[COPY THIS DOC]&#x20;
 [potlock.org/brainstorm-pot](http://potlock.org/brainstorm-pot)&#x20;
 {% endhint %}
 
+{% embed url="https://www.youtube.com/watch?v=_mnX9v5on1A" %}
+Brainstorming a Pot
+{% endembed %}
+
 * What impact do you want to make?&#x20;
 * Are the donors for this vertical crypto native or native to NEAR? What is the best path for them to board and bring donations? How many are you expecting
 * Is there a particular vertical that you want to tackle?
