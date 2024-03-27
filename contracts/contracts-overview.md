@@ -67,8 +67,8 @@ Mainnet (whatever you deploy form pot contracts above)
 [donation-live.md](donation-live.md)
 {% endcontent-ref %}
 
-{% content-ref url="registry-live.md" %}
-[registry-live.md](registry-live.md)
+{% content-ref url="registry-deprecated.md" %}
+[registry-deprecated.md](registry-deprecated.md)
 {% endcontent-ref %}
 
 {% content-ref url="attestation-not-started/" %}

@@ -1,4 +1,11 @@
-# 🗺 Registry \[live]
+---
+description: >-
+  The old monolithic official public goods registry has been migrated to the
+  first list on the permisionless lists contract which allows anyone to create
+  their own registry
+---
+
+# 🗺️ Registry \[deprecated]
 
 {% hint style="info" %}
 registry.potlock.near & registry.potlock.tetnet

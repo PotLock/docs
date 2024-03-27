@@ -2,7 +2,7 @@
 description: A pot is a funding round
 ---
 
-# 🍲 Pot \[wip]
+# 🍲 Pot \[live]
 
 
 
@@ -42,7 +42,7 @@ As a round manager you can&#x20;
 
 ## Applying As A Project
 
-* Contract requires you be on the Potlock Registry ([registry.potlock.near](registry-live.md))
+* Contract requires you be on the Potlock Registry ([registry.potlock.near](registry-deprecated.md))
 * You can submit an application with any relevant information&#x20;
   * If their are milestones, you must put in specific milestone information for the number of milestones required for this pot
 
