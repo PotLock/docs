@@ -157,9 +157,13 @@ As a Chef this means&#x20;
 * &#x20;you approve and reject applications
 * You can reject someone even if they have been approved. Please put a reason why as it posts it on-chain and allows for transparency. This may be the case of finding additional information or evidence of wrong doing.
 
-**Initiate Payouts** - after round is over click payout buttons and then let cooldown period transpire for payout period to happen.&#x20;
+**Initiate Payouts** - after round is over click payout buttons and then let cooldown period transpire for payout period to happen. It is up to own and admin to actually finalize pyouts
 
 
+
+**Resolve Challenges:** resolve on chain challenges regarding payout calculations before the payouts can happen.
+
+<figure><img src="../.gitbook/assets/challengeexample.png" alt=""><figcaption><p>Example of a payout being resolved</p></figcaption></figure>
 
 **Communicate** with projects and donors
 
@@ -227,13 +231,14 @@ In the future there can be. Gitcoin has shown success with this for [Gitcoin Cit
 
 This is different from an owner. An owner deploys a pot as its own contract, sets fees you as a chef earns, number of applications. It is also important the owners can also update fees and settings.&#x20;
 
-Some crucial step is the calculation happens off chain and has a cooldown period so others can audit that this calculation is done correctly. Then YOU (or owner / admin) needs to initiate payout.
+Some crucial step is the calculation happens off chain and has a cooldown period so others can audit that this calculation is done correctly. Then YOU (or owner / admin) needs to initiate payout after challenges are addressed.&#x20;
 
 \
-Although anyone can deploy their own POT in our factory contract, only certain people will be whitelisted to display from our UI. If you want to deploy your own round, you can deploy your own gateway.\
+Although anyone can deploy their own POT in our factory contract, only certain people will be whitelisted to display from our UI. If you want to deploy your own round, you can deploy your own gateway.
 
 
-<figure><img src="../.gitbook/assets/chefvspotowner.png" alt=""><figcaption><p>Chefs vs Pot Owners</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/chefsvpotowners.png" alt=""><figcaption><p>Chefs vs Potowner + Admins Diagram</p></figcaption></figure>
 
 ## Stages of A Pot
 

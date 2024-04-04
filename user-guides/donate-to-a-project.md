@@ -38,3 +38,17 @@ If you want to get a better understand of fees, see which of the donations have 
 
 After the donation, it should trigger a transaction, and clear the cart. You can view the transaction on nearblocks.io and use this for any tax purposes.&#x20;
 
+
+
+
+
+## Fungible Token Donations
+
+You can also donate any fungible token (USDC, Memecoins, etc) directly to a project. Where it says NEAR their should be a drop down showing all the meme tokens in your wallet you can donate.
+
+
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-04-04 at 6.07.36 PM.png" alt=""><figcaption></figcaption></figure>
+
+Based on storage costs and allowances, it can cost around 10 cents transaction fees to make a fungible token donation
+
