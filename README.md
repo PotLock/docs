@@ -4,11 +4,11 @@ description: Bringing funding to the table
 
 # 👋 Welcome to PotLock
 
-PotLock is bringing funding to the table in a new way. Potlock is the public goods funding stack on NEAR Protocol.
+The Potlock Protocol, also known as the Open Funding Stack (OFS) allows anyone to generate & deploy end to end funding mechanisms to move value and evaluate impact across different new generation blockchains. A completely open source protocol (MIT License), anyone is free to fork and deploy their own funding flow.&#x20;
 
-{% content-ref url="welcome-to-potlock/value-proposition.md" %}
-[value-proposition.md](welcome-to-potlock/value-proposition.md)
-{% endcontent-ref %}
+Check out the app [https://app.potlock.org](https://app.potlock.org)
+
+All Important link [https://potlock.org/bento](https://potlock.org/bento)
 
 ## Our Values
 
@@ -25,12 +25,14 @@ Potlucks are communal events where everyone brings their own dish to the table. 
 
 Current we are in our beta phase and MVP2, with project registration + direct donations w/ referrals.
 
-* **Project Registry & Profiles:** Public Goods can register their project and edit their profile. Check out Create Your project for more information
+* **Project Registry & Profiles & Web3 Social:** Public Goods can register their project and edit their profile. Check out Create Your project for more information. Ability to create your own [lists](contracts/lists-live.md)
 * **Add  Donations to Cart + Checkout:** Add projects to your cart, toggle donations in NEAR, and payout multiple donations.
 * **Donation Referrals:** Share your favorite public good project, and get a fee everytime someone donates through your link. Automatic payouts in NEAR. Click here to see how to get a donation referral link.
 * **Quadratic Funding Rounds**: deploy quadratic funding rounds, sponsor rounds directly
+* **Decentralized Front Ends**: deStribution through on-chain componenets and the Alem framework
+* **Identity:** configurable sybil identity aggregator with [Nada.bot](https://nada.bot)
 
 {% hint style="success" %}
-Got feedback? Write a bug, feature-request, or enhancement at [potlock.io/feedback](https://potlock.io/feedback)
+Got feedback? Write a bug, feature-request, or enhancement at [potlock.org/feedback](https://potlock.org/feedback)
 {% endhint %}
 
