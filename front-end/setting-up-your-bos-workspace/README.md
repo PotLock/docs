@@ -2,7 +2,7 @@
 description: Fork our decentralized front ends and build your own custom experiences.
 ---
 
-# 👷♂ BOS Gateway + Workspace
+# 👷‍♂️ BOS Gateway + Workspace
 
 [BOS](https://docs.near.org/bos) is a front end React like framework where you can save front end JSX code directly on chain (NEAR Protocol) to composable multichain web app experiences.
 
@@ -11,6 +11,10 @@ description: Fork our decentralized front ends and build your own custom experie
 PotLock bos-app is setup using [BOS Workspace](https://github.com/nearbuilders/bos-workspace).  Make sure to change potlock.near to your respective NEAR account to deploy all the components to when you are forking. The following workspace lets you easily deploy all components into mainnet and hotload local components into the NEAR.org gateway.
 
 {% embed url="https://github.com/PotLock/bos-app" %}
+
+Since then we have migrated to an in house framework built by one of our Lead Contributor, Wenderson called [Alem.dev](https://alem.dev)
+
+{% embed url="https://github.com/PotLock/bos-app-alem" %}
 
 ## Using A Web IDE
 
