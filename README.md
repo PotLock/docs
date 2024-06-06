@@ -12,7 +12,9 @@ All Important link [https://potlock.org/bento](https://potlock.org/bento)
 
 ## Our Values
 
-* Funding Public Goods
+* Support Public Goods
+* Discovery of Funding Opportunities
+* Minimizing Governance Pain Points
 * Impact Based Assessment
 * Bringing in New Channels of Capital
 * Allowing Funding to Scale with Growth of Projects
@@ -30,6 +32,7 @@ Current we are in our beta phase and MVP2, with project registration + direct do
 * **Donation Referrals:** Share your favorite public good project, and get a fee everytime someone donates through your link. Automatic payouts in NEAR. Click here to see how to get a donation referral link.
 * **Quadratic Funding Rounds**: deploy quadratic funding rounds, sponsor rounds directly
 * **Decentralized Front Ends**: deStribution through on-chain componenets and the Alem framework
+* **Agents:** use LLMs to easily donate inside of your wallet
 * **Identity:** configurable sybil identity aggregator with [Nada.bot](https://nada.bot)
 
 {% hint style="success" %}

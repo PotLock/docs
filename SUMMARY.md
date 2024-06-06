@@ -7,7 +7,7 @@
     * [💵 Current Fees](welcome-to-potlock/revenue-model/current-fees.md)
   * [🔮 Roadmap](welcome-to-potlock/roadmap.md)
   * [♨️ Understanding Pots (Funding Rounds)](welcome-to-potlock/understanding-pots-funding-rounds.md)
-  * [🐊 End Game](welcome-to-potlock/end-game.md)
+  * [🚀 End Game](welcome-to-potlock/end-game.md)
 * [❓ FAQ](faq/README.md)
   * [🚧 Pot Not Deployed](faq/pot-not-deployed.md)
 

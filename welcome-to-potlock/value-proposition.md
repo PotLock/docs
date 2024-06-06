@@ -6,13 +6,21 @@ description: >-
 
 # 🚀 Value Proposition
 
-## Levels of Funding
+## Discover Funding Opportunities
 
-The more impact you make the higher levels of funding pools you can access.
+Allow projects to find relevant funding opportunities
+
+## Community Coordination Tools
+
+Enable anyone to fund their project, cause, or individual through trustless, and open source tooling.&#x20;
+
+## Transparency
+
+The more impact you make the higher levels of funding pools you can access. We believe in streamlining all past funding in a central location
 
 ## Impact Based Evaluation
 
-Through our attestation framework, we will be enabling those to evaluate impact, curators to rate the quality of the attestation, and for people to give attestation of specific schema types for specific use cases / evaluation frameworks.&#x20;
+Through our attestation framework, we will be enabling those to evaluate impact, curators to rate the quality of the attestation, and for people to give attestation of specific schema types for specific use cases/evaluation frameworks.&#x20;
 
 ## First Open Funding Platform&#x20;
 
