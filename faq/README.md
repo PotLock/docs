@@ -78,18 +78,18 @@ How do I get involved building?
 
 * Check out our [backlog](https://potlock.org/backlog) for "good-first-issues" and join our [Potlock Community](https://potlock.org/community)chat ot introduce yourself
 
-What are ways you mtigate risks?
+What are ways you mitigate risks?
 
 * Opsec. Locking our contracts and after audits so their is no backdoor. Redundant front ends and decentralized gateways with different einvronments. Open source building so anyone can fork us if they dont like us.
 
 Do you have any middleware or any indexers?
 
-* No currently but we are looking to speed up performance. We are currently relying on NEAR's public RPC. We pull all data form onchain collection of contracts, check out our bos-app and gateway.
+* Yes we have spun up an indexer  [https://github.com/PotLock/django-indexer](https://github.com/PotLock/django-indexer)
 
 What tech stack are you building on?
 
-* We build on BOS, which is a React like JSX framework, our smart contracts are in Rust, and use NextJS for our traditional app we are building. We also use Schell for some scripts, and Markdown for documentation. Data analysts use SQL and Python for data queries. If you are looking to contribute and build in the Potlock ecosystem, we can support a wide array of stacks.
+* We build on BOS, which is a React like JSX framework, our smart contracts are in Rust, and use NextJS for our traditional app we are building. Our Indexer is in python. We also use Shell for some scripts, and Markdown for documentation. Data analysts use SQL and Python for data queries. If you are looking to contribute and build in the Potlock ecosystem, we can support a wide array of stacks.
 
 Do you have a security audit?
 
-* We have two from Ottersec and [Guvenkaya](https://potlock.org/guvenkaya) for our contracts and can be found in https;//github.com/potlock/core "audits" repo, but as we develop more contracts for the funding stack, we will get more audit programs. We currently do not have an active bug bounty program, but contact us at [support@potlock.org](mailto:support@potlock.org) or reach out to admin on community telegram for responsible disclosure so we can address in a timely fashion
+* We have two from Ottersec and [Guvenkaya](https://potlock.org/guvenkaya) for our contracts and can be found in [github.com/potlock/core](https://github.com/potlock/core) "audits" repo, but as we develop more contracts for the funding stack, we will get more audit programs. We currently do not have an active bug bounty program, but reach out to owner on community telegram for responsible disclosure so we can address in a timely fashion

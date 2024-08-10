@@ -10,6 +10,8 @@ Different between this and our BOS app. On our NextJS app we will be continuing 
 
 Fork it here at
 
-{% embed url="https://github.com/PotLock/next-app" %}
+{% embed url="https://github.com/PotLock/potlock-nextjs-app" %}
+
+It can currently be found at [alpha.potlock.org ](https://alpha.potlock.org) and [feedback can be reported here](https://potlock.org/next-feedback)
 
 Check out our backlog at [https://potlock.org/next-backlog ](https://potlock.org/next-backlog)

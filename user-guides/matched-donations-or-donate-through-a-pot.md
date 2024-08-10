@@ -17,7 +17,7 @@ description: >-
 
 <summary>How do I know how much of the pool my donation will be matched by?</summary>
 
-**YOU WILL NOT KNOW TILL THE END OF ROUND.** Although we can provide estimates, this is ultimately calculated at the end by every donation via Quadratic funding. So its not just your donation, but your donation and the amount in relation to other unique donors to their amount across all projects. To get more matched to your proejct get other people to support with unique donations.
+**YOU WILL NOT KNOW TILL THE END OF ROUND.** Although we can provide estimates, this is ultimately calculated at the end by every donation via Quadratic funding. So its not just your donation, but your donation and the amount in relation to other unique donors to their amount across all projects. To get more matched to your project get other people to support with unique donations. Note that there can be a judges weight which only looks at QF as a factor. Moreover, there are [additional QF rules](../general-information/code-of-conduct/qf-rules.md)
 
 </details>
 
@@ -35,7 +35,7 @@ Yes, if someone donates through your referral link you will earn the amount spec
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-02-13 at 11.00.11 AM.png" alt=""><figcaption></figcaption></figure>
 
-How do I know if I am elligible to give a matched donation
+How do I know if I am eligible to give a matched donation
 
 * It will say it when you are trying to donate through pot
 
@@ -47,8 +47,8 @@ Where are the best onramping services to get NEAR?
 
 Do Pots taking anything other than NEAR?
 
-* Currrently their is only NEAR support for quadratic funding rounds (pots) while their is fungible token support for direct donations. If you have another token on NEAR please use app.ref.finance to swap.&#x20;
+* Currently their is only NEAR support for quadratic funding rounds (pots) while their is fungible token support for direct donations. If you have another token on NEAR please use app.ref.finance to swap.&#x20;
 
 How do I know how much my donation was matched?
 
-* The estiamted amount from UI is not a final amount. Only can see the actual correct amount via calculate payouts when the payouts are intiated in the "Payouts" tab of the Pot page
+* The estimated amount from UI is not a final amount. Only can see the actual correct amount via calculate payouts when the payouts are intiated in the "Payouts" tab of the Pot page

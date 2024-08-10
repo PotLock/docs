@@ -43,8 +43,8 @@
 * [📜 Lists \[live\]](contracts/lists-live.md)
 * [🗺️ Registry \[deprecated\]](contracts/registry-deprecated.md)
 * [🤖 Sybil Contract - NADABOT](contracts/sybil-contract-nadabot.md)
-* [🗃️ Attestations - Hyperfiles \[WIP\]](contracts/attestation-not-started/README.md)
-  * [💬 Other Attestation Services (Research)](contracts/attestation-not-started/other-attestation-services-research.md)
+* [🗃️ Attestations](contracts/attestations/README.md)
+  * [💬 Other Attestation Services (Research)](contracts/attestations/other-attestation-services-research.md)
 
 ***
 
@@ -67,6 +67,15 @@
 
 ## General Information
 
-* [📚 Code of Conduct](general-information/code-of-conduct.md)
+* [📚 Code of Conduct](general-information/code-of-conduct/README.md)
+  * [📝 QF Rules](general-information/code-of-conduct/qf-rules.md)
 * [🐛 Beta Phase](general-information/beta-phase.md)
 * [📊 Data](general-information/data.md)
+
+## Products
+
+* [nada.bot](products/nada.bot.md)
+* [Potlock App](products/potlock-app.md)
+* [GrantPicks](products/grantpicks.md)
+* [AI-PGF](products/ai-pgf.md)
+* [Agentoor](products/agentoor.md)

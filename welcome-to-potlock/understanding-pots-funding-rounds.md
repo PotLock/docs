@@ -4,7 +4,7 @@ description: >-
   make more impact
 ---
 
-# ♨ Understanding Pots (Funding Rounds)
+# ♨️ Understanding Pots (Funding Rounds)
 
 ## What is a Pot?
 
@@ -35,9 +35,7 @@ Deep dive into Pot Contract
 
 ## Understanding Pot Sizes
 
-In traditional quadratic funding rounds like Gitcoin no matter what level you are at you apply for. Whether you are a startup repository vs Etherscan, generally you are pulling from the same pool of capital. Considering the quadratic funding is inherently a popularity contest, it is disheartening for smaller or less popular projects to be in the same funding rounds or "Pots" as more mature projects. Additionally every new gitcoin round their isn't a direct incentive like their is in Venture Capital for a public good that has shown growth + impact to access higher levels of funding. This why at PotLock we believed in tiered funding rounds, or Pots in which Round Managers aka Chefs allocate SBTs (Soul-Bound Toktnes) based on milestones and our attestation framework for impact to give access to higher levels of capital.
-
-
+In traditional quadratic funding rounds no matter what level you are at you apply for. Whether you are a startup repository vs Etherscan, generally you are pulling from the same pool of capital. Considering the quadratic funding is inherently a popularity contest, it is disheartening for smaller or less popular projects to be in the same funding rounds or "Pots" as more mature projects. This why, at PotLock, we believed in tiered funding rounds, or Pots, in which Round Managers, aka Chefs
 
 ### Pot Sizes
 

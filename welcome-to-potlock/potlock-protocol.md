@@ -22,6 +22,14 @@ As we build we are developing the concept of legos, even part of the funding sta
 
 Potlock is composed of projects, protocol, communities, contributors that make this happen. See the entire ecosystem at [https://ecosystem.potlock.org](https://ecosystem.potlock.org). All relevant links can be found here&#x20;
 
+{% content-ref url="../products/grantpicks.md" %}
+[grantpicks.md](../products/grantpicks.md)
+{% endcontent-ref %}
+
+{% content-ref url="../products/ai-pgf.md" %}
+[ai-pgf.md](../products/ai-pgf.md)
+{% endcontent-ref %}
+
 ## Tech That We Use
 
 Currently we are on NEAR Protocol, A layer 1 blockchain with smart contracts on Rust.
@@ -32,4 +40,5 @@ Currently we are on NEAR Protocol, A layer 1 blockchain with smart contracts on 
 * Quadratic Funding Rounds
 * Alem.dev (a decentralized framework)
 * Nada.bot: a contract based sybil resistance aggregator
+* GrantPicks: on Stellar & NEAR soon
 

@@ -6,6 +6,10 @@ description: >-
 
 # 🚀 Value Proposition
 
+## Reduce Overhead
+
+Reduce overhead for receiving funding and running your own funding programs.&#x20;
+
 ## Discover Funding Opportunities
 
 Allow projects to find relevant funding opportunities
@@ -24,5 +28,7 @@ Through our attestation framework, we will be enabling those to evaluate impact,
 
 ## First Open Funding Platform&#x20;
 
-Its been years and we have yet to a have a quadratic funding platform, or a platform where anyone can funding anything. We aim to revolutionize the culture of external contributions on one of the fasteset and cheapest L1s.&#x20;
+Its been years on NEAR and we have yet to a have a quadratic funding platform, or a platform where anyone can funding anything. We aim to revolutionize the culture of external contributions on one of the fasteset and cheapest L1s.&#x20;
+
+
 

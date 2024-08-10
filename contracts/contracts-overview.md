@@ -71,8 +71,8 @@ Mainnet (whatever you deploy form pot contracts above)
 [registry-deprecated.md](registry-deprecated.md)
 {% endcontent-ref %}
 
-{% content-ref url="attestation-not-started/" %}
-[attestation-not-started](attestation-not-started/)
+{% content-ref url="attestations/" %}
+[attestations](attestations/)
 {% endcontent-ref %}
 
 {% content-ref url="sybil-contract-nadabot.md" %}

@@ -361,6 +361,10 @@ In order for payouts to happen, all challenges must be addressed on chain. Then 
 
 {% embed url="https://youtu.be/--0d7z44Sqs?si=HzC2KmZAvAhggfUG" %}
 
+### Updates to Payout Dashboard
+
+We've recently updated the payout dashboard with new features. It now allows for QF overrides and notes that post to NEAR Social. We've also added a judge weight feature, enabling overrides based on your results. Soon, we'll introduce a UI in round settings to better indicate the judge weight in advance. You'll be able to set percentages for calculating QF weights versus judge weights. For judge weights based on round manager consensus, you can split the pie according to pool relevance and your own metrics.
+
 ### [Post Pot](planning-a-pot.md#after-payouts-creating-a-round-retrospective) -> Retro + Keep Projects Engaged
 
 ###

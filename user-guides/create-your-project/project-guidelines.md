@@ -78,7 +78,7 @@ A project is likely to get unlisted due to the following:
 
 ### Flagged Projects
 
-Projects that are found to exhibit "unacceptable behavior as outlined by our [Code of Conduct](../../general-information/code-of-conduct.md) will be flagged from our public registry immediately with proper justification on-chain. Flagged projects and unapproved rounds from the protocol can be soon found at uncensored.potlock.org&#x20;
+Projects that are found to exhibit "unacceptable behavior as outlined by our [Code of Conduct](../../general-information/code-of-conduct/) will be flagged from our public registry immediately with proper justification on-chain. Flagged projects and unapproved rounds from the protocol can be soon found at uncensored.potlock.org&#x20;
 
 #### Examples of unacceptable behavior include:
 
@@ -98,13 +98,9 @@ Projects that are found to exhibit "unacceptable behavior as outlined by our [Co
 * DAO or admin can put projects on graylist if they do not fulfill the aforesaid criterion
 * If their is a complaint for status please join the [Potlock Community telegram](https://potlock.org/communtiy) and in the feedback section explain why.&#x20;
 
-\
-
-
-[https://docs.potlock.io/user-guides/create-your-project](https://docs.potlock.io/user-guides/create-your-project)&#x20;
-
-\
-
+{% content-ref url="./" %}
+[.](./)
+{% endcontent-ref %}
 
 ## Technical Details
 
