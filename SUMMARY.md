@@ -33,6 +33,10 @@
   * [🏛️ Potluck Foundation DAO](user-guides/soon-personas/potluck-foundation-dao.md)
   * [😒 Observor](user-guides/soon-personas/observor.md)
   * [📐 Projects](user-guides/soon-personas/projects.md)
+* [📤 Campaigns](user-guides/campaigns/README.md)
+  * [🗞️ Campaign Page](user-guides/campaigns/campaign-page.md)
+  * [📬 Create Campaigns](user-guides/campaigns/create-campaigns.md)
+  * [🔎 Explore Campaigns](user-guides/campaigns/explore-campaigns.md)
 
 ## Contracts
 
@@ -42,9 +46,10 @@
 * [🙏 Donation \[live\]](contracts/donation-live.md)
 * [📜 Lists \[live\]](contracts/lists-live.md)
 * [🗺️ Registry \[deprecated\]](contracts/registry-deprecated.md)
+* [💲 Campaigns \[soon\]](contracts/campaigns-soon.md)
 * [🤖 Sybil Contract - NADABOT](contracts/sybil-contract-nadabot.md)
-* [🗃️ Attestations](contracts/attestations/README.md)
-  * [💬 Other Attestation Services (Research)](contracts/attestations/other-attestation-services-research.md)
+* [🗃️ Attestations \[WIP\]](contracts/attestations-wip/README.md)
+  * [💬 Other Attestation Services (Research)](contracts/attestations-wip/other-attestation-services-research.md)
 
 ***
 
