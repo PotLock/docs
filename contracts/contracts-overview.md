@@ -53,7 +53,7 @@ Testnet [v1.nadabot.testnet](https://testnet.nearblocks.io/address/v1.nadabot.te
 
 [**Pot Factory**](potfactory-live.md) **(deploys quadratic funding rounds (pots), and sets fees)**
 
-Source code [https://github.com/PotLock/core/tree/main/contracts/pot\_factory](https://github.com/PotLock/core/tree/main/contracts/pot\_factory)
+Source code [https://github.com/PotLock/core/tree/main/contracts/pot\_factory](https://github.com/PotLock/core/tree/main/contracts/pot_factory)
 
 Staging:&#x20;
 
@@ -64,6 +64,22 @@ Testnet: [potfactory.potlock.testnet](https://testnet.nearblocks.io/address/potf
 Source Code   [**https://github.com/PotLock/core/tree/main/contracts/pot**](https://github.com/PotLock/core/tree/main/contracts/pot)
 
 Mainnet (whatever you deploy form pot contracts above)
+
+**Grantpicks**
+
+Source Code
+
+Staging:
+
+Testnet: v2.grantpicks.potlock.near
+
+**Campaigns**
+
+Source Code:
+
+Staging:
+
+Testnet: campaignstest2.potlock.testnet
 
 {% content-ref url="potfactory-live.md" %}
 [potfactory-live.md](potfactory-live.md)

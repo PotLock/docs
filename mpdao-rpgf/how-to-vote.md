@@ -11,6 +11,10 @@ description: >-
 
 * Register on PotLock: All participants must create or log into their PotLock account. This is essential for accessing the voting platform.
 
+{% content-ref url="../user-guides/projects/" %}
+[projects](../user-guides/projects/)
+{% endcontent-ref %}
+
 ### 2. Human Verification
 
 * Complete Human Verification: Before voting, users must undergo a human verification process through Nada.bot. This step is crucial as it allows users to receive a 10% weight for their votes.  Follow the link below if you need more information.&#x20;
@@ -21,7 +25,7 @@ description: >-
 
 ### 3. Access the Voting Tab
 
-* Navigate to Votes Tab: Once verified, go to the "Votes" tab on the pot details page. This section will display all eligible projects for voting.
+* Navigate to Votes Tab: Once verified human, go to the "Votes" tab on the pot details page. This section will display all eligible projects for voting.
 
 <figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption><p>Votes Page</p></figcaption></figure>
 

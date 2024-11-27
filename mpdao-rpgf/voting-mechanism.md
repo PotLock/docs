@@ -18,7 +18,11 @@ Voting weight is determined by several key factors, which serve as boosters to e
 
 * Users who complete human verification through Nada.bot will receive a 10% boost to their voting weight.
 
-1. **Governance Participation**:
+{% content-ref url="../user-guides/donors/verify-as-human.md" %}
+[verify-as-human.md](../user-guides/donors/verify-as-human.md)
+{% endcontent-ref %}
+
+2. **Governance Participation**:
 
 * Users with at least 10,000 votes in mpDAO governance will receive an additional 25% boost.
 * Users with 25,000 votes will receive another 25% boost, totaling a potential 50% increase from governance participation alone.
