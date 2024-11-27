@@ -34,11 +34,13 @@ Potlock is composed of projects, protocol, communities, contributors that make t
 
 Currently we are on NEAR Protocol, A layer 1 blockchain with smart contracts on Rust.
 
+### Some of Our Products
+
 * Our BOS App
 * Project Discovery + Social Feed
 * Direct Donations
 * Quadratic Funding Rounds
-* Alem.dev (a decentralized framework)
-* Nada.bot: a contract based sybil resistance aggregator
-* GrantPicks: on Stellar & NEAR soon
+* [Alem.dev](https://alem.dev) (a decentralized framework)
+* [Nada.bot](../products/nada.bot.md): a contract based sybil resistance aggregator
+* [GrantPicks](../products/grantpicks.md): on Stellar & NEAR soon
 

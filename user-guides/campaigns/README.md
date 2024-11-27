@@ -6,40 +6,39 @@ description: >-
 
 # 📤 Campaigns
 
-Campaigns are a vehicle for raising a specific initiative for a project that you may or may not be a part of. It adds a minimum target, which is a time-based campaign that can refund funds if this goal is not met. This is great for knowing what you are raising, incentivizing the community to raise for an initiative, or if a funder wants to fund something conditionally, or to cancel an intiatiive if certain threshold funds are not met.&#x20;
+### Overview of Campaigns on PotLock
 
-Ex; Creating A Campaign to Fly to Korea for Korea Blockchain Week but cancel if don't get minimum $1000 USD to cover flight
+Campaigns serve as a structured vehicle for raising funds towards particular goals or initiatives. They introduce a minimum funding target and operate within a defined timeframe, allowing for refunds if the target is not met. This feature incentivizes community engagement and provides clarity on funding purposes, making it ideal for both individual projects and broader organizational goals.
 
-* To encourage more people to raise funds for specific initiatives, we want everyone to be able to create a campaign, leveraging optional referrals
-* To allow fans to start raising funds for their favorite projects
-* To implement escrow-based fail-safes to guarantee that initiatives are not underfunded when minimum targets are not met
+For instance, a campaign could be created to fund travel expenses for attending Korea Blockchain Week. If the campaign does not reach the minimum target of $1,000 USD by the deadline, all donations would be refunded.
 
-### Objectives
+### Key Characteristics of Campaigns:
 
-* Raising for a specific initiative
-* Raising on behalf of an organization
+* **Targeted Fundraising**: Campaigns allow users to raise funds specifically for initiatives, such as attending events or supporting projects that require financial backing.
+* **Time-Based Goals**: Each campaign has a set duration within which the funding goal must be achieved. If the minimum target is not met by the end of this period, donors can receive refunds.
+* **Conditional Funding**: This structure is particularly useful for funders who want to ensure their contributions are directed towards initiatives that meet certain financial thresholds.
 
-Some case studies include:
+### Objectives of Campaigns:
 
-* Up to this point, we only had rounds, which are more for foundations and grant programs
-* Donations were just for projects and didn't specify campaigns
-* There was no accountability for how funds would be used
-* Donations were not time-based
-* Outside of referrals, there was no way to raise funds for a specific cause
-* Sometimes donations didn't amount to the intended goals
+* **Raising Funds for Specific Initiatives**: Campaigns provide a clear mechanism for raising money for defined projects.
+* **Supporting Organizations**: Individuals can raise funds on behalf of organizations, expanding their outreach and impact.
+* **Community Engagement**: By enabling fans and supporters to contribute towards their favorite projects, campaigns foster a sense of ownership and participation within the community.
 
-### Why
+### Features of Campaigns:
 
-Campaigns are a way for people to set targets for specific initiatives and raise funds on behalf of organizations. They can also function as an escrow with minimum target amounts, refunding donors if the target is not met. Campaigns can be time-based. Currently, Potlock lacks a method for raising funds for favorite organizations and specifying initiatives. This feature allows everyday users to take ownership of how they contribute to raising funds for their organizations. Additionally, campaigns on behalf of organizations have an approval process to indicate whether a campaign is "official".
+* **Single Currency Support**: Each campaign can support only one currency at a time, simplifying transactions.
+* **Beneficiary Approval**: The beneficiary of a campaign (the project or organization being funded) can officially approve the campaign, ensuring transparency and accountability.
+* **Referral Opportunities**: Campaign creators can leverage optional referral systems to encourage more community members to participate in fundraising efforts.
+
+### Addressing Previous Limitations:
+
+Prior to the introduction of campaigns, PotLock primarily facilitated rounds for foundations and grant programs without specifying individual initiatives. This new feature addresses several limitations:
+
+* It allows for time-sensitive fundraising efforts.
+* It enhances accountability regarding how funds will be utilized.
+* It provides a structured way for everyday users to contribute meaningfully to causes they care about.
 
 
-
-## Features
-
-* Campaigns can only support 1 currency at a time
-* Raise on behalf of an account
-* Ability for a benficiary (someone who has a campaign raised on their half) to officially approve campaign
-*
 
 
 

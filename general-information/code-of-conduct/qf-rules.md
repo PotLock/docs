@@ -10,8 +10,8 @@ We aim to maintain fairness and effectiveness in Pots. Quadratic Funding plays a
 
 On Running A Successful Round Check out&#x20;
 
-{% content-ref url="../../user-guides/create-your-project/project-guidelines.md" %}
-[project-guidelines.md](../../user-guides/create-your-project/project-guidelines.md)
+{% content-ref url="../../user-guides/projects/project-guidelines.md" %}
+[project-guidelines.md](../../user-guides/projects/project-guidelines.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../user-guides/project-tips-for-success.md" %}

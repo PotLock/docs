@@ -8,7 +8,7 @@ The Potlock Protocol, also known as the Open Funding Stack (OFS) allows anyone t
 
 Check out the app [https://app.potlock.org](https://app.potlock.org)
 
-All Important link [https://potlock.org/bento](https://potlock.org/bento)
+All Important links [https://bento.me/potlock ](https://bento.me/potlock)
 
 ## Our Values
 

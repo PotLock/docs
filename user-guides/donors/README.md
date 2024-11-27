@@ -14,7 +14,7 @@ Their are two types of donors
 
 * Someone Who Isn't KYC'd and just does simple donations and donates NEAR or Fungible tokens on NEAR directly to projects on project registry.
 
-{% content-ref url="../donate-to-a-project.md" %}
-[donate-to-a-project.md](../donate-to-a-project.md)
+{% content-ref url="../projects/donate-to-a-project.md" %}
+[donate-to-a-project.md](../projects/donate-to-a-project.md)
 {% endcontent-ref %}
 

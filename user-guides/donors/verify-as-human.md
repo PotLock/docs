@@ -6,7 +6,7 @@ description: Go through different checks to become a verified human.
 
 To get your human checks through different contract go to nada.bot terminal (coming soon). Learn more at [https://docs.nada.bot ](https://docs.nada.bot)
 
-
+<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption><p>Nada Bot Explore</p></figcaption></figure>
 
 ## Verifying with [Nada.bot](https://nada.bot)
 

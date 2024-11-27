@@ -8,13 +8,45 @@ description: >-
 
 Sponsors aka Patrons are different than Donors in that there donations are not matched. They are usually larger entities.
 
+Sponsors need to onboard fiat to NEAR and then create an account from which they can donate using their NEAR.social account for their logo to appear on the sponsor board. If they cannot do this, they should use an on-ramp to NEAR and create an account that represents their organization, although this is not preferred.
+
+### Editing Sponsor Profiles
+
+Sponsors can edit their NEAR.social profile. They should log in and go to "My Profile" to make changes. After saving their profile, the board will dynamically pull their logo.
+
+### Paying People
+
+After a matching round is over, the chef or pot owner needs to initiate a transaction for payouts. This transaction calculates how much each project receives based on off-chain calculations and puts the results on-chain before initiating payouts.
+
+{% embed url="https://youtu.be/m2clBR6Rang" %}
+how to sponsor a pot / quadratic funding round on Potlock
+{% endembed %}
+
+### Editing Sponsor Profiles
+
+Sponsors can edit their NEAR.social profile. They should log in and go to "My Profile" to make changes. After saving their profile, the board will dynamically pull their logo.
+
+
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-13 at 2.07.52 AM.png" alt=""><figcaption><p>sponsor board</p></figcaption></figure>
+
+### Save profile, and the board will dynamically pull this logo
+
+
+
+<figure><img src="../.gitbook/assets/savenearsocialpage.png" alt=""><figcaption><p>Edit profile</p></figcaption></figure>
+
+### Paying People
+
+After a matching round is over, the chef or pot owner needs to initiate a transaction for payouts. This transaction calculates how much each project receives based on off-chain calculations and puts the results on-chain before initiating payouts.
+
+
+
 ## Why Be A Sponsor?
 
 * Support cohort of projects rather than direct projects
 * Get logo featured as sponsor
 * Impact based credits & retroactive reputations and rewards (Soon)
-
-
 
 ## How to Sponsor A Quadratic Funding Round / Pot
 
