@@ -29,8 +29,8 @@ By now you should have filled in all crucial information about your project in t
 To apply to this pot, it is essential to clarify the criteria and how important each is. Your project must meet at least 2 **out of the application requirements** outlined below.&#x20;
 
 * Submission Deadline: You must apply before the application round ends,as you can see on the countdown on this page as Late submissions will not be possible.&#x20;
-* Stake on Meta Pool: Applicants need a minimum stake equivalent to $500 USD in NEAR.                 For more information on how to stakego to the following link [Stake | Meta Pool - Docs](https://docs.metapool.app/master/meta-pool-ecosystem/stake).
-* Governance Voting Position: A minimum of 50,000 voting power is required. For more information on how to get VP, go to the following link. [https://www.metapool.app/vote/](https://www.metapool.app/vote/).
+* Stake on Meta Pool: Applicants need a minimum stake equivalent to $25 USD in NEAR.                 For more information on how to stakego to the following link [Stake | Meta Pool - Docs](https://docs.metapool.app/master/meta-pool-ecosystem/stake).
+* Governance Voting Position: A minimum of 5,000 voting power is required. For more information on how to get VP, go to the following link. [https://www.metapool.app/vote/](https://www.metapool.app/vote/).
 
 If you need more information about how to apply to a Pot, please follow the link below
 
