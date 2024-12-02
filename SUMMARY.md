@@ -67,10 +67,11 @@
 * [🙏 Donation \[live\]](contracts/donation-live.md)
 * [📜 Lists \[live\]](contracts/lists-live.md)
 * [🗺️ Registry \[deprecated\]](contracts/registry-deprecated.md)
-* [💲 Campaigns \[soon\]](contracts/campaigns-soon.md)
+* [💲 Campaigns \[live\]](contracts/campaigns-live.md)
 * [🤖 Sybil Contract - NADABOT](contracts/sybil-contract-nadabot.md)
 * [🗃️ Attestations \[WIP\]](contracts/attestations-wip/README.md)
   * [💬 Other Attestation Services (Research)](contracts/attestations-wip/other-attestation-services-research.md)
+* [📇 Staging and Test Environments](contracts/staging-and-test-environments.md)
 
 ***
 

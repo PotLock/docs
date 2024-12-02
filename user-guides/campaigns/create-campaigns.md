@@ -37,7 +37,7 @@ Then Click the Create Campaign button to submit your campaihn.
 
 ## Contract
 
-{% content-ref url="../../contracts/campaigns-soon.md" %}
-[campaigns-soon.md](../../contracts/campaigns-soon.md)
+{% content-ref url="../../contracts/campaigns-live.md" %}
+[campaigns-live.md](../../contracts/campaigns-live.md)
 {% endcontent-ref %}
 
