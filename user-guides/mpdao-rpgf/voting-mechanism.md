@@ -18,8 +18,8 @@ Voting weight is determined by several key factors, which serve as boosters to e
 
 * Users who complete human verification through Nada.bot will receive a 10% boost to their voting weight.
 
-{% content-ref url="../user-guides/donors/verify-as-human.md" %}
-[verify-as-human.md](../user-guides/donors/verify-as-human.md)
+{% content-ref url="../donors/verify-as-human.md" %}
+[verify-as-human.md](../donors/verify-as-human.md)
 {% endcontent-ref %}
 
 2. **Governance Participation**:

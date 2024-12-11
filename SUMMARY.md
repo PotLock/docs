@@ -51,13 +51,10 @@
   * [Edit List](user-guides/lists/edit-list.md)
   * [Apply to List](user-guides/lists/apply-to-list.md)
   * [Donate to List](user-guides/lists/donate-to-list.md)
-
-***
-
-* [mpDAO RPGF](mpdao-rpgf/README.md)
-  * [Apply to mpDAO Pot](mpdao-rpgf/apply-to-mpdao-pot.md)
-  * [Voting Mechanism](mpdao-rpgf/voting-mechanism.md)
-  * [How to Vote](mpdao-rpgf/how-to-vote.md)
+* [mpDAO RPGF](user-guides/mpdao-rpgf/README.md)
+  * [Apply to mpDAO Pot](user-guides/mpdao-rpgf/apply-to-mpdao-pot.md)
+  * [Voting Mechanism](user-guides/mpdao-rpgf/voting-mechanism.md)
+  * [How to Vote](user-guides/mpdao-rpgf/how-to-vote.md)
 
 ## Contracts
 
