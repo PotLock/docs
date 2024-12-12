@@ -8,7 +8,7 @@ description: A place where any logged in user can create a campaign
 
 ### Navigate to the Campaign Creation Page
 
-**Access the Create Campaign CTA**: Go to the PotLock website and find the **Create Campaign** call-to-action (CTA) located in the hero section of the [Explore Campaigns Page](https://alpha.potlock.org/campaigns). This will direct you to the campaign creation interface.
+**Access the Create Campaign CTA**: Go to the POTLOCK website and find the **Create Campaign** call-to-action (CTA) located in the hero section of the [Explore Campaigns Page](https://alpha.potlock.org/campaigns). This will direct you to the campaign creation interface.
 
 <figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Set Basic Details</p></figcaption></figure>
 

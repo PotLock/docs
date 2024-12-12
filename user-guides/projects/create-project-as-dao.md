@@ -8,11 +8,11 @@ In order to make a proposal to register as a DAO, it is the normal [create proje
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-12-10 at 12.44.02 AM.png" alt=""><figcaption><p>Click the register as a DAO checkbox and put a DAO address you have function call proposal access to, then fill out the rest of your profile</p></figcaption></figure>
 
-Note this will also propose to sign up your DAO into NEAR Horizon's project registry, and update your DAO profile. _**While currently this is in 3 separate proposals, we are working to get i into multicall proposal.** You can only propose a DAO to register to Potlock if the account you are submitting the proposal from all has the ability to propose function calls (you can suggest your DAO interacts with other contracts)._
+Note this will also propose to sign up your DAO into NEAR Horizon's project registry, and update your DAO profile. _**While currently this is in 3 separate proposals, we are working to get i into multicall proposal.** You can only propose a DAO to register to POTLOCK if the account you are submitting the proposal from all has the ability to propose function calls (you can suggest your DAO interacts with other contracts)._
 
 
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-12-10 at 12.45.32 AM.png" alt=""><figcaption><p>Example of multiple proposals for updating profile and adding to PotLock registry as seperate proposals</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-12-10 at 12.45.32 AM.png" alt=""><figcaption><p>Example of multiple proposals for updating profile and adding to POTLOCK registry as seperate proposals</p></figcaption></figure>
 
 Then confirm your transaction via your wallet.  Note that for eveyr proposal you will be (bonding or temporarily staking your DAO's bond amount x number of proposal) + spending associated gas costs in NEAR from your DAO treausry.&#x20;
 

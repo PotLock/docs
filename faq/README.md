@@ -32,29 +32,29 @@ What is quadratic funding?
 
 Do you have a token?
 
-* We currently do not have a token. But we are interested in providing incentiv ies for those who provide regular impact. If you do tokenomics or want to contribute to a discussion like this, check out the Potlock community telegram?
+* We currently do not have a token. But we are interested in providing incentiv ies for those who provide regular impact. If you do tokenomics or want to contribute to a discussion like this, check out the POTLOCK community telegram?
 
 What is next after quadratic funding?
 
 * We are working on public goods legos on how to compose these interfaces. Currently we are designing campaigns for anyone to launch. More information can be found in our roadmap (also checkout our designs at [https://potlock.org/figma](https://potlock.org/figma)
 
-How is nada.bot related to Potlock?
+How is nada.bot related to POTLOCK?
 
 * It is a sybil contract aggregator we are spinning to address our immediate sybil needs in the ecosystem. We aggregate with outher sybil providers. Check out [https://nada.bot/support](https://nada.bot/support) if you have any questions and [https://docs.nada.bot](https://docs.nada.bot/) to integrate
 
-Is Potlock a platform or a protocol?
+Is POTLOCK a platform or a protocol?
 
-* Potlock is a protocol, a collection of platforms, and an ecosystem for public goods funding, and impact tracking. however, anyone can fork or use our technology at standard for reoutfitting funding mechanisms for any set of accounts and changing donor requirements. Check out our [ecosystem ideas board](https://potlock.org/ideas) on how to get started
+* POTLOCK is a protocol, a collection of platforms, and an ecosystem for public goods funding, and impact tracking. however, anyone can fork or use our technology at standard for reoutfitting funding mechanisms for any set of accounts and changing donor requirements. Check out our [ecosystem ideas board](https://potlock.org/ideas) on how to get started
 
 ## Project FAQ
 
-Why isn't my project showing up on explore section of main Potlock gateway?
+Why isn't my project showing up on explore section of main POTLOCK gateway?
 
 * need to be approved by an admin.
 
 How much do projects usually get funding?
 
-* You can see average donation amount for approved projects on our registry at statistics at potlock.org/flipside and we will be having more data dashboards soon. Currently funding rounds in total would not exceed $40,000 about as February 2024 when we are launching, so consider that a cap. However we are using participation in round and growth in impact and justification for higher rounds in the future. We encourage other funding mechanisms and plural funding mechanisms, and creating a profile with attestations will increase the odds of getting other funding sources. Join the Potlock ecosystem chat if you need support with higher direct grants from a funding vertical on NEAR, a multichain ecosystem grant, or if you are looking to transition to a private company with appropriate accelerators. We are here as a public good to support projects making an impact in the space, and even if you don't consider yourself a public good, we are here to help!
+* You can see average donation amount for approved projects on our registry at statistics at potlock.org/flipside and we will be having more data dashboards soon. Currently funding rounds in total would not exceed $40,000 about as February 2024 when we are launching, so consider that a cap. However we are using participation in round and growth in impact and justification for higher rounds in the future. We encourage other funding mechanisms and plural funding mechanisms, and creating a profile with attestations will increase the odds of getting other funding sources. Join the POTLOCK ecosystem chat if you need support with higher direct grants from a funding vertical on NEAR, a multichain ecosystem grant, or if you are looking to transition to a private company with appropriate accelerators. We are here as a public good to support projects making an impact in the space, and even if you don't consider yourself a public good, we are here to help!
 
 How to do I get on the featured projects page?
 
@@ -70,7 +70,7 @@ Who is involved in ecosystem?
 
 * Their are alot of different contributors to potlock ecosystem, check them out at [https://ecosystem.potlock.org/#active-contributors](https://ecosystem.potlock.org/#active-contributors)
 
-What license is Potlock front ends and contracts under?
+What license is POTLOCK front ends and contracts under?
 
 * We are under a MIT open source license, and encourage others to fork us and build new funding mechanisms
 
@@ -88,7 +88,7 @@ Do you have any middleware or any indexers?
 
 What tech stack are you building on?
 
-* We build on BOS, which is a React like JSX framework, our smart contracts are in Rust, and use NextJS for our traditional app we are building. Our Indexer is in python. We also use Shell for some scripts, and Markdown for documentation. Data analysts use SQL and Python for data queries. If you are looking to contribute and build in the Potlock ecosystem, we can support a wide array of stacks.
+* We build on BOS, which is a React like JSX framework, our smart contracts are in Rust, and use NextJS for our traditional app we are building. Our Indexer is in python. We also use Shell for some scripts, and Markdown for documentation. Data analysts use SQL and Python for data queries. If you are looking to contribute and build in the POTLOCK ecosystem, we can support a wide array of stacks.
 
 Do you have a security audit?
 

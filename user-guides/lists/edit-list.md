@@ -1,6 +1,6 @@
 ---
 description: >-
-  Editing a list on PotLock is a feature reserved for the list owner, allowing
+  Editing a list on POTLOCK is a feature reserved for the list owner, allowing
   them to manage and update the list as needed.
 ---
 
@@ -10,7 +10,7 @@ description: >-
 
 ### Access the List Details Page
 
-**Navigate to Your List**: Start by going to the PotLock website and locating the specific list you wish to edit. Ensure you are logged in with the account that owns the list.
+**Navigate to Your List**: Start by going to the POTLOCK website and locating the specific list you wish to edit. Ensure you are logged in with the account that owns the list.
 
 ### Click on the Three Dots
 

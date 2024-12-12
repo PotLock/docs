@@ -1,9 +1,9 @@
 # 📋 Create Project
 
-Go to Potlock's explore page and find the profile image icon in the top right corner. Click on it and select "My Projects" from the dropdown menu. This will take you to a new page where you can begin creating your project profile. If you already have data for your organization's profile on NEAR.social, the system will automatically pull this information to save you time. If not, you'll need to set up your profile by adding a bio, uploading a profile image and banner, and including relevant tags to help others find your project through global profile searches.
+Go to POTLOCK's explore page and find the profile image icon in the top right corner. Click on it and select "My Projects" from the dropdown menu. This will take you to a new page where you can begin creating your project profile. If you already have data for your organization's profile on NEAR.social, the system will automatically pull this information to save you time. If not, you'll need to set up your profile by adding a bio, uploading a profile image and banner, and including relevant tags to help others find your project through global profile searches.
 
 {% embed url="https://youtu.be/_ymKeP-xZcY" %}
-Create a project on PotLock
+Create a project on POTLOCK
 {% endembed %}
 
 
@@ -41,7 +41,7 @@ To get on our official registry check out the [project guidelines](project-guide
 * Get Added to Our Project Registry for donors to explore
 * Get added to NEAR Horizon (NEAR Foundation's Founder Success team) Service marketplace (near.org/horizon)
 * Create a [NEAR.social](https://near.social) profile (and have you profile discoverable to follow) across all #BOS gateways&#x20;
-* In the future: streamline into our global potlock social feed and ease application to future quadratic funding rounds.&#x20;
+* In the future: streamline into our global POTLOCK social feed and ease application to future quadratic funding rounds.&#x20;
 
 ## How To Create A Project
 
@@ -59,5 +59,5 @@ Currently you can only choose 1 category. Only choose public good if you do not 
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-11-06 at 12.55.33 PM.png" alt=""><figcaption></figcaption></figure>
 
-We only support public goods otherwise you will get take off of the [Potlock registry](../../contracts/registry-deprecated.md). Additionally a violation of our [code of conduct](../../general-information/code-of-conduct/) can also get you taken off the Potlock registry. For a guide on what is considered a public good check out [https://potlock.io/project-guidelines](https://potlock.io/project-guidelines)
+We only support public goods otherwise you will get take off of the [Potlock registry](../../contracts/registry-deprecated.md). Additionally a violation of our [code of conduct](../../general-information/code-of-conduct/) can also get you taken off the POTLOCK registry. For a guide on what is considered a public good check out [https://potlock.io/project-guidelines](https://potlock.io/project-guidelines)
 

@@ -15,7 +15,7 @@ In this guide we will be showing you
 
 * Round Templates w/ Examples
 * Announcing Your Round
-* How to Coordinate with Potlock Team
+* How to Coordinate with POTLOCK Team
 * Template with Pitches and Agreements\
 
 
@@ -24,7 +24,7 @@ Some outcomes of this document
 * You have a clear written plan of when and who your round will be involved
 * You have an outreach strategy for reaching out to likely sponsors and projects in your round
 * You will have documents to streamline agreements and pitch
-* You will have clear communication with Potlock team for any customization and to streamline marketing as well as support for executing
+* You will have clear communication with POTLOCK team for any customization and to streamline marketing as well as support for executing
 
 ## Round Template
 
@@ -163,7 +163,7 @@ Make a copy and replace all the highlighted sections, also decide whether they w
 
 While you may have projects in mind. Most often you need to personally have outreach with prospective projects that you want in the round. This also gives an opportunity for your team to set up communications and also add them to the cohort chat and provide direct support. Ultimately you want to have projects that are not only aligned with your objectives for the round, but are engaged and incentivized enough to onboard more donors..
 
-Be clear about your eligibility requirements. Examples from [Gitcoin Eligibility](https://docs.google.com/document/d/1I4U3RA-q9ZW\_Mtlz-EiFtj4YZTkPEwebQSKbEZlCfdY/edit#heading=h.kl4qenhpok7z), [General Potlock Public Goods Guidelines](https://potlock.org/project-guidelines), and [NEAR Retroactive Builders Round](https://www.potlock.org/retro-guidelines).
+Be clear about your eligibility requirements. Examples from [Gitcoin Eligibility](https://docs.google.com/document/d/1I4U3RA-q9ZW_Mtlz-EiFtj4YZTkPEwebQSKbEZlCfdY/edit#heading=h.kl4qenhpok7z), [General Potlock Public Goods Guidelines](https://potlock.org/project-guidelines), and [NEAR Retroactive Builders Round](https://www.potlock.org/retro-guidelines).
 
 Really envision the type of project you want in your ecosystem, the level of your team, whether estimated funding amount targets on average warrant the caliber team you are looking for, and whether these projects can onboard their community into the ecosystem. Gitcoin has a good example of this [https://www.gitcoin.co/blog/identifying-high-potential-grantees](https://www.gitcoin.co/blog/identifying-high-potential-grantees)&#x20;
 

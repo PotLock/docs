@@ -1,6 +1,6 @@
 ---
 description: >-
-  Donating to a list on PotLock is a straightforward process that allows you to
+  Donating to a list on POTLOCK is a straightforward process that allows you to
   support multiple projects simultaneously.
 ---
 

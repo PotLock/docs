@@ -1,7 +1,7 @@
 # Table of contents
 
-* [👋 Welcome to PotLock](README.md)
-  * [🔓 PotLock Protocol](welcome-to-potlock/potlock-protocol.md)
+* [👋 Welcome to POTLOCK](README.md)
+  * [🔓 POTLOCK Protocol](welcome-to-potlock/potlock-protocol.md)
   * [🚀 Value Proposition](welcome-to-potlock/value-proposition.md)
   * [💸 Revenue Model](welcome-to-potlock/revenue-model/README.md)
     * [💵 Current Fees](welcome-to-potlock/revenue-model/current-fees.md)

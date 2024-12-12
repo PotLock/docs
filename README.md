@@ -2,9 +2,9 @@
 description: Bringing funding to the table
 ---
 
-# 👋 Welcome to PotLock
+# 👋 Welcome to POTLOCK
 
-The Potlock Protocol, also known as the Open Funding Stack (OFS) allows anyone to generate & deploy end to end funding mechanisms to move value and evaluate impact across different new generation blockchains. A completely open source protocol (MIT License), anyone is free to fork and deploy their own funding flow.&#x20;
+The POTLOCK Protocol, also known as the Open Funding Stack (OFS) allows anyone to generate & deploy end to end funding mechanisms to move value and evaluate impact across different new generation blockchains. A completely open source protocol (MIT License), anyone is free to fork and deploy their own funding flow.&#x20;
 
 Check out the app [https://app.potlock.org](https://app.potlock.org)
 
@@ -21,9 +21,9 @@ All Important links [https://bento.me/potlock ](https://bento.me/potlock)
 
 ### Origin Name
 
-Potlucks are communal events where everyone brings their own dish to the table. As a funding platform we embody these values  Also sometimes referred to a PotLock. Additionally a community Pot is generally considered as a source of funding, while a lock invokes security and trust. At PotLock we embody all this, the community coming together with different resources to the table, to secure funding for the public.
+Potlucks are communal events where everyone brings their own dish to the table. As a funding platform we embody these values  Also sometimes referred to a POTLOCK. Additionally a community Pot is generally considered as a source of funding, while a lock invokes security and trust. At PotLock we embody all this, the community coming together with different resources to the table, to secure funding for the public.
 
-## Current State of PotLock
+## Current State of POTLOCK
 
 Current we are in our beta phase and MVP2, with project registration + direct donations w/ referrals.
 

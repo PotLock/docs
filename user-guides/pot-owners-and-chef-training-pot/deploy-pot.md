@@ -1,6 +1,6 @@
 ---
 description: >-
-  Deploying a pot involves several steps within the Potlock ecosystem, which
+  Deploying a pot involves several steps within the POTLOCK ecosystem, which
   facilitates quadratic funding rounds.
 ---
 
@@ -12,7 +12,7 @@ Deploy Pot
 
 ### **Access the Pot Factory**:
 
-Navigate to the Potlock decentralized front end at [https://alpha.potlock.org](https://alpha.potlock.org) and find the "Pots" tab. This is where you can deploy a pot.
+Navigate to the POTLOCK decentralized front end at [https://alpha.potlock.org](https://alpha.potlock.org) and find the "Pots" tab. This is where you can deploy a pot.
 
 ### **Understand What a Pot Is**:
 

@@ -16,7 +16,7 @@ description: How projects in a quadratic funding round can lead to success
 
 ## 💎 Making Your Project Page Legit
 
-* Ensure that your Potlock profile clearly explains what you are working to achieve and why people should donate. An optimized project includes:
+* Ensure that your POTLOCK profile clearly explains what you are working to achieve and why people should donate. An optimized project includes:
   * A clear project description.
   * A nice profile image and banner
   * Regular posts on NEAR Social
@@ -31,7 +31,7 @@ description: How projects in a quadratic funding round can lead to success
 
 ## PROMOTE YOUR PROJECT
 
-* Share your Potlock project link wildly across **ALL** your social media channels
+* Share your POTLOCK project link wildly across **ALL** your social media channels
 * Consistently update your audience with milestones, timelines, and other relevant information like upcoming X spaces you will be participating, time remaining to donate, & more.
 * Provide clear instructions on how people can support you, or make use of [Potlock tutorials](https://www.notion.so/Create-Ecosystem-potlock-org-511ee4e8c9124e4787d415bd96ccd656?pvs=21) on how to donate and use [Nada.bot](http://nada.bot)
 * Provide resources on how x amount of donations will provide x amount of value in your cause
@@ -47,19 +47,19 @@ On-Chain
 
 * Make wallets, use [Mintbase](https://www.notion.so/Mintbase-Open-Source-NFT-ed0c0e4dc99540f6aaa8982b773661e0?pvs=21), [HERE](https://www.notion.so/Streaming-and-Vesting-App-36a5f9ce02e448fc8e08274a49e15e63?pvs=21), [Meteor](https://www.notion.so/Streaming-and-Vesting-App-36a5f9ce02e448fc8e08274a49e15e63?pvs=21) Wallets to onboard your friends to useful accounts
 * Onboard via [nada.bot](http://nada.bot) [Nada.bot/support](http://nada.bot/support) for any support questions
-* If you run into any bugs on Potlock or any questions [potlock.org/community](http://potlock.org/community)
+* If you run into any bugs on POTLOCK or any questions [potlock.org/community](http://potlock.org/community)
 
 Off-chain
 
 * Contact your family, friends, and communities through DMs, group chats, and word of mouth. Explain that the more unique donors you have, the more of the funding pool you will get matched.
 * Ask them to boost your posting by engaging, and sharing even further and them to support your favorite projects, positive sum ecosystems!
 
-## 📣 **Follow Potlock & Get Us To** HYPE
+## 📣 **Follow POTLOCK & Get Us To** HYPE
 
-* Follow us across all Potlock social media accounts to stay on top of opportunities, we retweet and amplify! We are most active on twitter
+* Follow us across all POTLOCK social media accounts to stay on top of opportunities, we retweet and amplify! We are most active on twitter
 
 {% hint style="info" %}
-**Potlock Social media** [**Twitter**](https://x.com/potlock\_)**,** [**LinkedIn**](https://linkedin.com/company/potlock)**,** [**NEAR Social**](https://potlock.near.social)**,** [**Farcaster**](http://warpcast.com/potlock)**,** [**Instagram**](https://instagram.com/potlock.global)**,**
+**POTLOCK Social media** [**Twitter**](https://x.com/potlock_)**,** [**LinkedIn**](https://linkedin.com/company/potlock)**,** [**NEAR Social**](https://potlock.near.social)**,** [**Farcaster**](http://warpcast.com/potlock)**,** [**Instagram**](https://instagram.com/potlock.global)**,**
 {% endhint %}
 
 ## ☣️ What Can Get You Disqualified

@@ -1,6 +1,6 @@
 ---
 description: >-
-  Projects are the lifeline of PotLock, founders making an impact is what we are
+  Projects are the lifeline of POTLOCK, founders making an impact is what we are
   here to fund.
 ---
 
@@ -10,9 +10,9 @@ description: >-
 
 
 
-## Why Join PotLock?
+## Why Join POTLOCK?
 
-PotLock is a platform to
+POTLOCK is a platform to
 
 * Build in public
 * Get donations directly at any time

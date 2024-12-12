@@ -1,6 +1,6 @@
 ---
 description: >-
-  The Campaign Page on PotLock is designed to provide users with a comprehensive
+  The Campaign Page on POTLOCK is designed to provide users with a comprehensive
   overview of all ongoing campaigns within the ecosystem.
 ---
 
@@ -14,7 +14,7 @@ Upon accessing the Campaign Page, you will see a list of campaigns currently act
 
 ### Featured Campaigns
 
-* **Highlighted Initiatives**: At the top of the page, you will find **Featured Campaigns**. These campaigns are particularly significant and applicable to the entire PotLock ecosystem, showcasing initiatives that may have broader community relevance or support.
+* **Highlighted Initiatives**: At the top of the page, you will find **Featured Campaigns**. These campaigns are particularly significant and applicable to the entire POTLOCK ecosystem, showcasing initiatives that may have broader community relevance or support.
 
 ### List of Campaigns
 

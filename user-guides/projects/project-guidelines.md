@@ -1,6 +1,6 @@
 ---
 description: >-
-  Understanding project guidelines for getting accepted into official Potlock
+  Understanding project guidelines for getting accepted into official POTLOCK
   Public Goods registry
 ---
 
@@ -104,6 +104,6 @@ Projects that are found to exhibit "unacceptable behavior as outlined by our [Co
 
 ## Technical Details
 
-When you sign up for  Potlock you are signing up for a public profile that information is stored on the blockchain with a project account. This means you must secure your private keys.
+When you sign up for  POTLOCK you are signing up for a public profile that information is stored on the blockchain with a project account. This means you must secure your private keys.
 
 \

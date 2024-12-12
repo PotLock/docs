@@ -32,7 +32,7 @@ For instance, a campaign could be created to fund travel expenses for attending 
 
 ### Addressing Previous Limitations:
 
-Prior to the introduction of campaigns, PotLock primarily facilitated rounds for foundations and grant programs without specifying individual initiatives. This new feature addresses several limitations:
+Prior to the introduction of campaigns, POTLOCK primarily facilitated rounds for foundations and grant programs without specifying individual initiatives. This new feature addresses several limitations:
 
 * It allows for time-sensitive fundraising efforts.
 * It enhances accountability regarding how funds will be utilized.

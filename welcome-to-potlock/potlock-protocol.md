@@ -1,12 +1,12 @@
 ---
-description: Potlock is the Open Funding Stack
+description: POTLOCK is the Open Funding Stack
 ---
 
-# 🔓 PotLock Protocol
+# 🔓 POTLOCK Protocol
 
-POTLOCK = THE OPEN FUNDING STACK. Potlock is a protocol for deploying any funding strategy, impact tracking and engagement tools for public goods. We are completely open-source, modular, and permissionless from day 1.. If you don't like us we encourage forks.&#x20;
+POTLOCK = THE OPEN FUNDING STACK. POTLOCK is a protocol for deploying any funding strategy, impact tracking and engagement tools for public goods. We are completely open-source, modular, and permissionless from day 1.. If you don't like us we encourage forks.&#x20;
 
-<figure><img src="../.gitbook/assets/the open funding stack.png" alt=""><figcaption><p>Potlock open funding stack</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/the open funding stack.png" alt=""><figcaption><p>POTLOCK open funding stack</p></figcaption></figure>
 
 ## Deep Dive Into the "Legos"
 
@@ -18,9 +18,9 @@ As we build we are developing the concept of legos, even part of the funding sta
 
 
 
-## Potlock Ecosystem
+## POTLOCK Ecosystem
 
-Potlock is composed of projects, protocol, communities, contributors that make this happen. See the entire ecosystem at [https://ecosystem.potlock.org](https://ecosystem.potlock.org). All relevant links can be found here&#x20;
+POTLOCK is composed of projects, protocol, communities, contributors that make this happen. See the entire ecosystem at [https://ecosystem.potlock.org](https://ecosystem.potlock.org). All relevant links can be found here&#x20;
 
 {% content-ref url="../products/grantpicks.md" %}
 [grantpicks.md](../products/grantpicks.md)

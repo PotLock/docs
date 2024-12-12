@@ -1,8 +1,7 @@
 ---
 description: >-
-  Creating a list on PotLock is a straightforward process that allows you to
-  curate and manage collections of projects effectively.Step-by-Step List
-  Creation Process 1. Access List Creation Navigate to
+  Creating a list on POTLOCK is a straightforward process that allows you to
+  curate and manage collections of projects effectively.
 ---
 
 # Create List
@@ -17,9 +16,9 @@ description: >-
 
 1. ### Access List Creation
 
-**Navigate to the PotLock Website**: Open your web browser and go to [PotLock's List Creation Page](https://potlock.org/list).
+**Navigate to the POTLOCK Website**: Open your web browser and go to [PotLock's List Creation Page](https://potlock.org/list).
 
-**Log in to Your Account**: Ensure you are logged into your PotLock account. If you don’t have an account, you will need to create one before proceeding.
+**Log in to Your Account**: Ensure you are logged into your POTLOCK account. If you don’t have an account, you will need to create one before proceeding.
 
 2. ### Enter List Title
 

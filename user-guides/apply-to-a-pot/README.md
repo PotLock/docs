@@ -14,11 +14,11 @@ To begin, projects need to create a NEAR account, preferably using a named accou
 
 ### 2. Apply to Project Registry
 
-Next, projects must create a profile on Potlock by filling out necessary information such as past funding and team details. Instructions for creating a project can be found in the [Potlock documentation](https://docs.potlock.io/user-guides/create-your-project).
+Next, projects must create a profile on POTLOCK by filling out necessary information such as past funding and team details. Instructions for creating a project can be found in the [Potlock documentation](https://docs.potlock.io/user-guides/create-your-project).
 
 ### 3. Get Accepted to Project Registry
 
-Currently, projects will be pending approval in the registry and must be accepted by a Potlock admin. To expedite the process, projects should notify the Potlock core team in the “new-project-registration” channel on Telegram, providing the link to their project. The status of their application will be indicated without a banner if approved.
+Currently, projects will be pending approval in the registry and must be accepted by a Potlock admin. To expedite the process, projects should notify the POTLOCK core team in the “new-project-registration” channel on Telegram, providing the link to their project. The status of their application will be indicated without a banner if approved.
 
 ### 4. Apply During Application Period
 
@@ -47,7 +47,7 @@ DIRECT DONATIONS are not DONATIONS through Pots. Make sure that matched donation
 
 Project must apply. One of the things for projects that will be confusing is that
 
-## Be on the Potlock Registry
+## Be on the POTLOCK Registry
 
 {% content-ref url="../projects/" %}
 [projects](../projects/)

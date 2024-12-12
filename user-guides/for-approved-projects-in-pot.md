@@ -6,7 +6,7 @@ description: For projects that have been approved in a pot
 
 ## Before Matching Round Starts
 
-Before the matching rounds start you want to start markeitng that you got accepted into the Pot and that donors will need to [verify as a human ](donors/verify-as-human.md)to streamline this. Join the Potlock community chat to get a sense of any questions.&#x20;
+Before the matching rounds start you want to start markeitng that you got accepted into the Pot and that donors will need to [verify as a human ](donors/verify-as-human.md)to streamline this. Join the POTLOCK community chat to get a sense of any questions.&#x20;
 
 ## Raising Matched Donations
 
@@ -39,6 +39,3 @@ After a round, your project still exists and you will continue to build you repu
 
 First share on social media with the tempalte how much you rasied and how these funds will impact you.
 
-
-
-First adv

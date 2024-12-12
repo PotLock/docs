@@ -1,6 +1,6 @@
 ---
 description: >-
-  Applying to a list on PotLock is a simple and straightforward process for
+  Applying to a list on POTLOCK is a simple and straightforward process for
   projects seeking to gain visibility and funding opportunities.
 ---
 

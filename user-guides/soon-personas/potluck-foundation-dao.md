@@ -12,5 +12,5 @@ https://potluck.foundation&#x20;
 
 
 
-_**Potluck Foundation is a non-profit DAO incroporated in the Marshall Islands**_
+_**POTLOCK Foundation is a non-profit DAO incroporated in the Marshall Islands**_
 

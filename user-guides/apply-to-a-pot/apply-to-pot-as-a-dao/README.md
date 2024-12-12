@@ -4,7 +4,7 @@ description: Register as a DAO for quadratic funding rounds
 
 # 🏛️ Apply to Pot as a DAO
 
-Applying as a DAO allows you to recieve payouts directly to your DAO address and make sure the account is controlled by a group. In order to apply to a pot as a DAO, the pot may require that you be on the Potlock public goods registry. To [register as a DAO check out](../../projects/#create-a-project-as-a-dao) this link. After which you need your DAO approved (checkout[ https://potlock.org/community ](https://potlock.org/community)to get approved)
+Applying as a DAO allows you to recieve payouts directly to your DAO address and make sure the account is controlled by a group. In order to apply to a pot as a DAO, the pot may require that you be on the POTLOCK public goods registry. To [register as a DAO check out](../../projects/#create-a-project-as-a-dao) this link. After which you need your DAO approved (checkout[ https://potlock.org/community ](https://potlock.org/community)to get approved)
 
 Don't have a DAO, learn to [Create a DAO here](create-a-dao.md)
 

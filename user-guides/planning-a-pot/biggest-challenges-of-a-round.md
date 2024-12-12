@@ -23,7 +23,7 @@ Successfully launching a funding round involves much more than just making an an
 
 Building a strong donor base is equally important - this means expanding beyond your current network to reach new potential contributors. You'll need to effectively articulate why participating in your round can create more impact than direct donations, while making technical concepts like quadratic funding accessible and easy to understand.
 
-Throughout this process, maintaining brand consistency is crucial. This involves ensuring all your communications align with Potlock's established brand identity, crafting compelling content that clearly explains your round, and maintaining accuracy in describing the technical aspects of the funding process. Working in close coordination with Potlock's existing brand guidelines will help create a cohesive and trustworthy presence that resonates with both projects and donors.
+Throughout this process, maintaining brand consistency is crucial. This involves ensuring all your communications align with POTLOCK's established brand identity, crafting compelling content that clearly explains your round, and maintaining accuracy in describing the technical aspects of the funding process. Working in close coordination with POTLOCK's existing brand guidelines will help create a cohesive and trustworthy presence that resonates with both projects and donors.
 
 
 
