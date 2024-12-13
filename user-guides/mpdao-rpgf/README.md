@@ -17,7 +17,7 @@ Meta Pool in partnership with POTLOCK designed this to reward those who have sig
 ### **Timeline**
 
 * Registration Period: November 11 – December 12, 2024
-* Voting Period: December 12 – December 20, 2024
+* Voting Period: December 12 – December 26, 2024
 * Reward Distribution: Expected by the end of December 2024.
 
 ### Voting Mechanism&#x20;

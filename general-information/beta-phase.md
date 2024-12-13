@@ -4,7 +4,7 @@ description: Potlock's Initial Mainnet Deployment
 
 # 🐛 Beta Phase
 
-PotLock is currently in its initial mainnet deployment for its donations & registry contract and is considered in its beta phases. That means contracts and middleware are deployed to mainnet and operate with real funds. However, the application is still in testing phase and it is possible that bugs and errors occur.&#x20;
+POTLOCK is currently in its initial mainnet deployment for its donations & registry contract and is considered in its beta phases. That means contracts and middleware are deployed to mainnet and operate with real funds. However, the application is still in testing phase and it is possible that bugs and errors occur.&#x20;
 
 
 
@@ -12,7 +12,7 @@ Moreover, the contracts have gone through  2 smart contract audits with Guvenkay
 
 ## Guvenkaya Audit
 
-As part of the audit Guvenkaya review Potlock’s Donation (for direct donations with on chain referral) Pot, for quadratic funding, Pot-Factory (that makes quadratic funding contracts), Registry (for approving and registering accounts), and Sybil/Nada.bot (for aggregating sybil providers.
+As part of the audit Guvenkaya review POTLOCK 's Donation (for direct donations with on chain referral) Pot, for quadratic funding, Pot-Factory (that makes quadratic funding contracts), Registry (for approving and registering accounts), and Sybil/Nada.bot (for aggregating sybil providers.
 
 {% embed url="https://github.com/Guvenkaya/public-reports/blob/master/Potlock-NEAR-Rust-Smart-Contract-Security-Assessment.pdf" %}
 

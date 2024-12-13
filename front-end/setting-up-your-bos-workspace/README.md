@@ -8,7 +8,7 @@ description: Fork our decentralized front ends and build your own custom experie
 
 ## BOS Workspace
 
-PotLock bos-app is setup using [BOS Workspace](https://github.com/nearbuilders/bos-workspace).  Make sure to change potlock.near to your respective NEAR account to deploy all the components to when you are forking. The following workspace lets you easily deploy all components into mainnet and hotload local components into the NEAR.org gateway.
+POTLOCK bos-app is setup using [BOS Workspace](https://github.com/nearbuilders/bos-workspace).  Make sure to change potlock.near to your respective NEAR account to deploy all the components to when you are forking. The following workspace lets you easily deploy all components into mainnet and hotload local components into the NEAR.org gateway.
 
 {% embed url="https://github.com/PotLock/bos-app" %}
 

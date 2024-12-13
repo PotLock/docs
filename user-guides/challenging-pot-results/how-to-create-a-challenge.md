@@ -14,17 +14,17 @@ description: >-
    * Preferred: On-chain documents with clear transaction data
    * Alternative: Traditional documents (ensure view-sharing is enabled)
 
-## Seeing Result of Challenge
+## Seeing the Result of the Challenge
 
-Please go to the Potlock community chat to bring up new challenges that need to be addressed so this can be communicate to a chef. If a chef accepts a challenge, that means they need to provide a action for how this will change results. A chef must reject a challenge with a reason. In that case it will have no affect on outcome.&#x20;
+Please go to the POTLOCK community chat to bring up new challenges that need to be addressed so they can be communicated to a chef. If a chef accepts a challenge, they need to provide an action plan for how this will change results. A chef must reject a challenge with a reason. In that case, it will have no effect on the outcome.&#x20;
 
-After cooldown period is done and all challenges have been addressed a chef can either update results or initiate payouts. A chef can flag paritcular donors
+After the cooldown period is done and all challenges have been addressed a chef can either update results or initiate payouts. A chef can flag particular donors
 
 
 
 ## Seeing Current Challenges
 
-In the payouts tab of the Pot their will be a challenges drop down where you can see existing challenges.&#x20;
+In the payouts tab of the Pot, their will be a challenges drop-down where you can see existing challenges.&#x20;
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-06-08 at 9.26.38 PM.png" alt=""><figcaption><p>See payouts</p></figcaption></figure>
 
@@ -32,4 +32,4 @@ In the payouts tab of the Pot their will be a challenges drop down where you can
 
 <figure><img src="../../.gitbook/assets/flagdonor.png" alt=""><figcaption><p>Flag donors</p></figcaption></figure>
 
-All calculations are calculated using quadratic funding, but a Chef can actual flag donors to be omitted from this calculation based on challenges, omit projects, and manually toggle the amount based on executive decisions. However any change to calculated payouts need to go through another payouts period.&#x20;
+All calculations are calculated using quadratic funding, but a Chef can actually flag donors to be omitted from this calculation based on challenges, omit projects, and manually toggle the amount based on executive decisions. However, any change to calculated payouts needs to go through another payout period.&#x20;

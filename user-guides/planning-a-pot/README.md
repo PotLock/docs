@@ -58,7 +58,7 @@ Brainstorming a Pot
 * How many projects are you expecting to apply?
 * What are the OKRs and ultimate success like that warrant an valuable ROI for sponsors you have in mind?
 * What does a successful round look like for you? What can you measure immediately, and what can you track later?
-* Do you have necessary funds in wallets to facilitate. Example 4.4 NEAR to deploy pot, 1 NEAR for approvals, rejections and extensions, and 30 NEAR to seed donations and to onboard other wallets? If not, contact Potlock?\
+* Do you have necessary funds in wallets to facilitate. Example 4.4 NEAR to deploy pot, 1 NEAR for approvals, rejections and extensions, and 30 NEAR to seed donations and to onboard other wallets? If not, contact POTLOCK?\
 
 
 Example of going through this exercise for citizens round ([https://potlock.org/pot-example](https://potlock.org/pot-example))
@@ -210,7 +210,7 @@ The following is how to streamline your marketing for the round. General structu
 * TLDR: summarize points from article so people don't have to read
 * Backstory/Overview: Explain why you are doing&#x20;
 * Objectives: Outline objectives and allude to OKRs
-* Explain Quadratic Funding & Potlock background:  make clear quadratic funding requires that and background about past background.
+* Explain Quadratic Funding & POTLOCK background:  make clear quadratic funding requires that and background about past background.
 * Convince Why Project Should Sign Up: Potential earnings&#x20;
 * Call to Actions: urge users to verify with nada.bot, other sponsors to support matching pool. Also give links to your community
 
@@ -238,7 +238,7 @@ This is covered in chef training, but it is absolutely important that you set up
 Data is essential for your round. You want to automate to understand which projects are receiving donations, whether those projects are also paying fees to the chef, whether they come from existing web3 communities, whether they are donating to other projects. Whether they are newly created accounts, etc. \
 
 
-We have a data guild at Potlock and here is information on Flipside to get a sense of pot [https://flipsidecrypto.xyz/Lordking/potlock-UD3Flm?tabIndex=6](https://flipsidecrypto.xyz/Lordking/potlock-UD3Flm?tabIndex=6) \
+We have a data guild at POTLOCK and here is information on Flipside to get a sense of pot [https://flipsidecrypto.xyz/Lordking/potlock-UD3Flm?tabIndex=6](https://flipsidecrypto.xyz/Lordking/potlock-UD3Flm?tabIndex=6) \
 
 
 ## Operating the Round&#x20;
@@ -273,7 +273,7 @@ After a round things are not over. We want to follow up with projects. It's impo
 * To make sure that donors are attesting
 * To have them share on social media via templates. Copy templates at [https://potlock.org/canva](https://potlock.org/canva)&#x20;
 
-Additionally work with the Potlock team to get messaging about overall round, and then get individual projects paid out to share their experience. Have projects copy the graphic templates ([potlock.org/canva](https://potlock.org/canva)) for projects to share about how much donors they had, how much direct donations, and how much matched amount they got.  and what they plan to do for the funds. Encourage them to connect twitter to NEAR.social to make a post so it shows up.&#x20;
+Additionally work with the POTLOCK team to get messaging about overall round, and then get individual projects paid out to share their experience. Have projects copy the graphic templates ([potlock.org/canva](https://potlock.org/canva)) for projects to share about how much donors they had, how much direct donations, and how much matched amount they got.  and what they plan to do for the funds. Encourage them to connect twitter to NEAR.social to make a post so it shows up.&#x20;
 
 ## Notable Resources
 

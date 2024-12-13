@@ -6,8 +6,6 @@ description: On-chain process for the results of a quadratic funding round
 
 Quadratic funding rounds currently rely on human input, with calculations performed off-chain, which could potentially create opportunities for collusion. To address this vulnerability, we have developed an on-chain process that allows community oversight through a formal challenge mechanism.
 
-
-
 ## **How It Works: The Community Cookbook Analogy**
 
 Imagine a community cookbook competition where recipes are judged through a collaborative voting process. After the initial judging (off-chain calculations), a designated "chef" publishes the results, but those results aren't immediately final.
@@ -58,7 +56,7 @@ Challenges are an integral part of ensuring the integrity and fairness of our qu
     * Screenshots of misleading project information
     * Testimonies from affected parties or whistleblowers
     * Official documents highlighting non-compliance with round criteria
-    * Any other pertinent evidence supporting the legitimacy concernquadratic funding, but a Chef can actual flag donors to be omitted from this calculation based on challenges, omit projects, and manually toggle the amount based on executive decisions. However any change to calculated payouts need to go through another payouts period.&#x20;
+    * Any other pertinent evidence supporting the legitimacy concerns quadratic funding, but a Chef can flag donors to be omitted from this calculation based on challenges, omit projects, and manually toggle the amount based on executive decisions. However, any change to calculated payouts needs to go through another payout period.&#x20;
 
 
 

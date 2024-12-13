@@ -28,11 +28,11 @@ Go to [potlock.io/register](https://potlock.io/register) to register today. You 
 
 ## How to Apply for A Round
 
-In order to be eligible for certain rounds you may need a SBT unless it a "[Dish](../../welcome-to-potlock/understanding-pots-funding-rounds.md)" round. However all projects must be approved on the PotLock registry, so please go through the aforementioned signup flow.
+In order to be eligible for certain rounds you may need a SBT unless it a "[Dish](../../welcome-to-potlock/understanding-pots-funding-rounds.md)" round. However all projects must be approved on the POTLOCK registry, so please go through the aforementioned signup flow.
 
 
 
 ## Who Should Control Project Account
 
-* Only Co-Founders should control this account as payouts should be adminstered. Considering that you have a social media account you may want to give your an account to a social media manager. However this is not recommended. A better solution is to configure your twitter account through the [Wormhole widget ](https://near.org/wormhole3.near/widget/Wormhole3.Twitter)to BOS, and use the #BOS to sync tweets. Even then it is recommended you even use[ delegated access through twitter ](https://help.twitter.com/en/managing-your-account/how-to-use-the-delegate-feature)to other individuals for security purposes.
+* Only Co-Founders should control this account as payouts should be administered. Considering that you have a social media account you may want to give your account to a social media manager. However, this is not recommended. A better solution is to configure your Twitter account through the [Wormhole widget ](https://near.org/wormhole3.near/widget/Wormhole3.Twitter)to BOS and use the #BOS to sync tweets. Even then it is recommended you even use[ delegated access through twitter ](https://help.twitter.com/en/managing-your-account/how-to-use-the-delegate-feature)to other individuals for security purposes.
 

@@ -9,7 +9,7 @@ description: >-
 
 ### 1. Create an Account
 
-* Register on PotLock: All participants must create or log into their PotLock account. This is essential for accessing the voting platform.
+* Register on POTLOCK: All participants must create or log into their POTLOCK account. This is essential for accessing the voting platform.
 
 {% content-ref url="../projects/" %}
 [projects](../projects/)
@@ -39,10 +39,10 @@ description: >-
 
 ### 6. Cast Your Vote
 
-* Submit Votes: After making selections, cast your vote. Your vote's weight will be determined by   the nuber of amplifiers such as human verification status, governance participation, and stNEAR staking amounts.
+* Submit Votes: After making selections, cast your vote. Your vote's weight will be determined by the number of amplifiers such as human verification status, governance participation, and stNEAR staking amounts.
 
 ### 7. Follow Voting Results
 
-* Monitor Voting Phase: Keep track of updates and results during the voting phase, which runs from December 2 to December 20, 2024. Participants can view ongoing results on the PotLock platform.
+* Monitor Voting Phase: Keep track of updates and results during the voting phase, which runs from December 2 to December 26, 2024. Participants can view ongoing results on the POTLOCK platform.
 
 ###

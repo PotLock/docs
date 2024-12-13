@@ -1,6 +1,6 @@
 ---
 description: >-
-  PotLock is a series of smart contracts and decentralized front ends to making
+  POTLOCK is a series of smart contracts and decentralized front ends to making
   funding coordination streamlined (potlock.org/core to see all contract source
   code)
 ---
@@ -9,13 +9,13 @@ description: >-
 
 ## All Contracts
 
-To assure that all projects are coming from the official PotLock team they are deployed as [**subaccounts**](https://docs.near.org/tutorials/crosswords/basics/add-functions-call#create-a-subaccount) under the potlock.near namespace. Testnet and Mainnet follow the same naming conventions to avoid any confusion. Their are 7 main contracts, (technically [Pot](pot-live.md) has many contracts as many Pots are deployed under the PotFactory)
+To ensure that all projects are coming from the official POTLOCK team they are deployed as [**subaccounts**](https://docs.near.org/tutorials/crosswords/basics/add-functions-call#create-a-subaccount) under the potlock.near namespace. Testnet and Mainnet follow the same naming conventions to avoid any confusion. There are 7 main contracts, (technically [Pot](pot-live.md) has many contracts as many Pots are deployed under the PotFactory)
 
 
 
 ## Contract Addresses
 
-### [Donate](donation-live.md) (for direct donation to any account with referrer fees, optional donations and fungible token support)
+### [Donate](donation-live.md) (for a direct donation to any account with referrer fees, optional donations and fungible token support)
 
 Source Code: [https://github.com/PotLock/core/tree/main/contracts/donation](https://github.com/PotLock/core/tree/main/contracts/donation)
 
@@ -33,7 +33,7 @@ Staging: [lists.staging.potlock.near](https://nearblocks.io/address/lists.stagin
 
 Testnet: [lists.potlock.testnet](https://testnet.nearblocks.io/address/lists.potlock.testnet)
 
-### [**Registry**](registry-deprecated.md) **\[depricated]\(for accounts to add themselves and for owner + admins controlled by owner to change status of projects on registry. Used to display projects and also enforced on Pots for application requirements)**
+### [**Registry**](registry-deprecated.md) **\[depricated]\(for accounts to add themselves and for owner + admins controlled by the owner to change the status of projects on the registry. Used to display projects and also enforced on Pots for application requirements)**
 
 Source code: [https://github.com/PotLock/core/tree/main/contracts/registry](https://github.com/PotLock/core/tree/main/contracts/registry)
 
@@ -41,7 +41,7 @@ Mainnet:  [registry.potlock.near](https://nearblocks.io/address/registry.potlock
 
 Testnet: [registry.potlock.testnet](https://testnet.nearblocks.io/address/registry.potlock.testnet)
 
-### [**Sybil**](sybil-contract-nadabot.md) **aka nadabot (for people to submit sybil verification stamps from different contracts, users to verify to stamps to increase score to meet human threshold, and owner + owner controlled admins, to approve & flag stamps, set wieghts, and set human thresholds, used as a sybil contract aggregator and managed contract enforced human checker)**
+### [**Sybil**](sybil-contract-nadabot.md) **aka nadabot (for people to submit sybil verification stamps from different contracts, users to verify stamps to increase the score to meet the human threshold, and owner + owner controlled admins, to approve & flag stamps, set weights, and set human thresholds, used as a sybil contract aggregator and managed contract enforced human checker)**
 
 Source Code [https://github.com/PotLock/core/tree/main/contracts/sybil](https://github.com/PotLock/core/tree/main/contracts/sybil)
 
@@ -59,7 +59,7 @@ Staging:&#x20;
 
 Testnet: [potfactory.potlock.testnet](https://testnet.nearblocks.io/address/potfactory.potlock.testnet)
 
-### [**Pot**](pot-live.md) **(quadratic funding round deployed by factory contract as a subaccount by anyone that specifies application dates, matching requirements, fees, a chef that can be changed by owner, where QF payouts are calculated off chain, initiated on chain with a cooldown veto period, application & donation requirement according to registry and sybil contract interfaces and allows anyone to sponsor for matching rounds, and donations to be passed through for optional fees  and to keep track of matching payouts)**
+### [**Pot**](pot-live.md) **(quadratic funding round deployed by factory contract as a subaccount by anyone that specifies application dates, matching requirements, fees, a chef that can be changed by the owner, where QF payouts are calculated off-chain, initiated on the chain with a cooldown veto period, application & donation requirement according to registry and Sybil contract interfaces and allows anyone to sponsor for matching rounds, and donations to be passed through for optional fees  and to keep track of matching payouts)**
 
 Source Code   [**https://github.com/PotLock/core/tree/main/contracts/pot**](https://github.com/PotLock/core/tree/main/contracts/pot)
 

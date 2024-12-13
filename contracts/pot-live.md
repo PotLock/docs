@@ -31,30 +31,30 @@ The major differences in a pot are defined in the PotFactory contract&#x20;
 
 ## Managing As A Round Manager
 
-As a round manager you can&#x20;
+As a round manager, you can&#x20;
 
-* accept or reject new applications during application period. You cannot accept applications if there is a max number of projects and their are already that many applicants.&#x20;
-* approve or disprove a milestone (with a reason). Part of the most difficult part of being a Round Manager or a Chef is that you are literally reviewing grants on a rolling basis. Whether a project completed a milestone, by comparing what they outline in the milestone in their Pot application, compared to the milestoneEvidence they submitted.&#x20;
+* Accept or reject new applications during the application period. You cannot accept applications if there is a max number of projects and there are already that many applicants.&#x20;
+* approve or disprove a milestone (with a reason). Part of the most difficult part of being a Round Manager or a Chef is that you are literarily reviewing grants on a rolling basis. Whether a project completed a milestone, by comparing what they outline in the milestone in their Pot application, compared to the milestone Evidence they submitted.&#x20;
 
 
 
 ## Applying As A Project
 
-* Contract can require you be on a list like the Potlock Public Goods List ([lists.potlock.near](lists-live.md)) list\_id = 1
+* A contract can require you to be on a list like the POTLOCK Public Goods List ([lists.potlock.near](lists-live.md)) list\_id = 1
 * You can submit an application with any relevant information&#x20;
   * If their are milestones, you must put in specific milestone information for the number of milestones required for this pot
 
 ## Donating as a Donor
 
-* You must be a verified human unless other requirements are specified by factory contract
+* You must be a verified human unless other requirements are specified by the factory contract
 * You choose the project and the amount.
-* Their is a function to donate (it is important to note that part of your donation a small fee is given to protocol and the Chef
+* There is a function to donate (it is important to note that part of your donation a small fee is given to protocol and the Chef
 
 
 
 ## Changing Criterion
 
-* Pot managers (particular chef) can change the lists criterion, say in the event, it becomes higher level of funding round based on donations, or I-Am-Human is not enough to prevent sybil resistance.&#x20;
+* Pot managers (particularly Chefs) can change the list criterion, say in the event, it becomes a higher level of funding round based on donations, or I-Am-Human is not enough to prevent Sybill resistance.&#x20;
 
 
 
@@ -65,11 +65,11 @@ As a round manager you can&#x20;
 
 ## Purpose
 
-A Pot contract manages a **funding round**. Quadratic Funding (QF) is the one of the distribution mechanisms currently supported, in which projects apply, patrons contribute to the matching pool, end users donate during the "public round" period, and at the end of the round, projects receive a portion of the matching pool relative to the broadness of their public support base.
+A Pot contract manages a **funding round**. Quadratic Funding (QF) is one of the distribution mechanisms currently supported, in which projects apply, patrons contribute to the matching pool, end users donate during the "public round" period, and at the end of the round, projects receive a portion of the matching pool relative to the broadness of their public support base.
 
 **Sybil resistance** is essential for QF, as the intent is to demonstrate a broad base of support and the matching pool payouts are calculated accordingly. A single entity acting as multiple donors can therefore cheat the system and result in a larger payout. This Pot contract enables composable, customizable support for integrating sybil resistance services.
 
-The typical flow / lifetime of a Pot is as follows:
+The typical flow/lifetime of a Pot is as follows:
 
 - Pot is **deployed** via PotFactory contract
   - Deployer (e.g. DAO that calls `deploy_pot` on PotFactory) is, by default, the "owner" (superuser) of the Pot contract

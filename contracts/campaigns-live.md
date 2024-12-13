@@ -6,7 +6,7 @@ description: >-
 
 # 💲 Campaigns \[live]
 
-Campaigns on PotLock provide a structured way to raise funds for specific initiatives associated with an account, with optional minimum escrowed targets.
+Campaigns on POTLOCK provide a structured way to raise funds for specific initiatives associated with an account, with optional minimum escrowed targets.
 
 #### Overview of Campaigns
 
@@ -29,7 +29,7 @@ Campaigns serve as a vehicle for raising funds toward defined goals or initiativ
 
 ### Contract Structure
 
-The PotLock Campaign Contract is designed to facilitate fundraising through donations while managing escrow functionalities based on specified targets.
+The POTLOCK Campaign Contract is designed to facilitate fundraising through donations while managing escrow functionalities based on specified targets.
 
 **General Types**
 
@@ -315,7 +315,7 @@ Events are emitted during significant actions within the contract:
 
 * A `campaign_create` event indicates that a new Campaign object has been created.
 
-This structured overview provides a comprehensive understanding of how campaigns function within PotLock, detailing their purpose, features, contract structure, and methods effectively.
+This structured overview provides a comprehensive understanding of how campaigns function within POTLOCK, detailing their purpose, features, contract structure, and methods effectively.
 
 **Example:**
 
@@ -369,7 +369,7 @@ Indicates that `ContractSourceMetadata` object has been set/updated.
 
 ## Contract Adresses
 
-When the contracts will be deployed they will be audited as they can custody funds. After the audit the contracts will be locked at
+When the contracts will be deployed they will be audited as they can custody funds. After the audit, the contracts will be locked at
 
 v1.campaigns.potlock.testnet
 
