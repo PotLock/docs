@@ -77,6 +77,20 @@ Mainnet: [v1.campaigns.potlock.near](https://nearblocks.io/address/v1.campaigns.
 
 Staging: [v1.campaigns.staging.potlock.near](https://nearblocks.io/address/v1.campaigns.staging.potlock.near)
 
+
+
+### Voting
+
+Source Code: [https://github.com/PotLock/core/tree/voting-contract-mvp](https://github.com/PotLock/core/tree/voting-contract-mvp)
+
+Testnet:&#x20;
+
+Mainnet: [mpdao.vote.potlock.near](https://nearblocks.io/address/mpdao.vote.potlock.near)
+
+Staging: [mpdao.vote.staging.potlock.near](https://nearblocks.io/address/mpdao.vote.staging.potlock.near)
+
+
+
 ### **Grantpicks**
 
 Source Code: [https://github.com/PotLock/grantpicks/](https://github.com/PotLock/grantpicks/)
