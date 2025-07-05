@@ -1,28 +1,36 @@
 ---
-description: Primary app
-icon: pot-food
+description: Primary app for Pots and registry exploration
+icon: app-store
 ---
 
-# POTLOCK App
+# POTLOCK App 🏆
 
-This described our primary app where Pots take place and our registry for explorations.&#x20;
+**Our primary application where Pots take place and our registry for explorations** ✨
 
+## App Implementations 🔧
 
+### 1. BOS-App (Legacy) ⚠️
+- **Status**: No longer maintained
+- **URL**: [old.potlock.org](https://old.potlock.org)
+- **Components**: Deployed to `old.potlock.near`
+- **GitHub**: [PotLock/bos-app](https://github.com/PotLock/bos-app) 💻
 
-There are 3 implementations for the POTLOCK app
+### 2. BOS-Alem-App (Optimized) ⚡
+- **Status**: Using Alem.dev framework for optimized load times
+- **URL**: [bos.potlock.org](https://bos.potlock.org)
+- **Components**: Deployed to `bos.potlock.near`
+- **Framework**: Decentralized application optimization
 
-BOS-App: no longer mantained old.potlock.org&#x20;
+### 3. NextJS-App (Latest) 🚀
+- **Status**: New features and improvements
+- **URL**: [alpha.potlock.org](https://alpha.potlock.org)
+- **GitHub**: [PotLock/potlock-nextjs-app](https://github.com/PotLock/potlock-nextjs-app) 💻
 
-components deployed to old.potlock.near
+## Production & Staging 🌐
 
-[https://github.com/PotLock/bos-app](https://github.com/PotLock/bos-app)
+- **Production**: [app.potlock.org](https://app.potlock.org) 🎯
+- **Campaigns Staging**: [staging.alpha.potlock.org/campaigns](https://staging.alpha.potlock.org/campaigns) 📢
 
-BOS-Alem-App: using Alem.dev framework for ptoimizing load times for decentralized application bos.potlock.org&#x20;
+---
 
-components deployed to bos.potlock.near&#x20;
-
-NextJS-App: new features alpha.potlock.org
-
-[https://github.com/PotLock/potlock-nextjs-app](https://github.com/PotLock/potlock-nextjs-app)
-
-https://app.potlock.org
+*Experience the future of decentralized funding rounds with POTLOCK* 💫
