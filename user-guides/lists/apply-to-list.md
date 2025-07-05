@@ -10,7 +10,7 @@ description: >-
 
 ### Vist the List Page
 
-**Access the Desired List**: Projects interested in applying should first navigate to the specific list page on PotLock. This can typically be done by searching for the list or accessing it through links shared by the list administrators or community members.
+**Access the Desired List**: Projects interested in applying should first navigate to the specific list page on POTLOCK. This can typically be done by searching for the list or accessing it through links shared by the list administrators or community members.
 
 ### Click on "Apply to List"
 

@@ -3,7 +3,7 @@
 A chef is someone who manages a pot (a quadratic funding round). However, like any chef, you don’t own the kitchen; you just ensure that the meals are prepared. Similarly, you are not the one who deployed the account, and if you are caught compromising the integrity of the process, there are plenty of others who can step in.To facilitate communication, you should have a Telegram group chat named “ROUNDNAME / POTLOCK.
 
 {% hint style="info" %}
-YOU SHOULD HAVE A TELEGRAM GROUP CHAT “ROUNDNAME / POTLOCK” (contact[ potlock community telegram](https://potlock.org/community) group to set this up if you haven’t already
+YOU SHOULD HAVE A TELEGRAM GROUP CHAT “ROUNDNAME / POTLOCK” (contact[ POTLOCK community telegram](https://potlock.org/community) group to set this up if you haven’t already
 {% endhint %}
 
 ### Responsibilities of a Chef
@@ -34,7 +34,7 @@ As a chef, you earn fees from donations and sponsors; your incentives are direct
 
 ### Understanding Fees
 
-Fees help align incentives among all stakeholders. In our pot factory (the contract that deploys pots or quadratic funding rounds), there is a maximum fee enforced on every pot to prevent owners and admins from exceeding a certain percentage. Sponsors and donors also have the option not to incur any fees if they choose not to. A chef fee or protocol fee may take a percentage from matched donations and sponsorships directed towards the appointed chef at that time and to impact.sputnik-dao.near, which serves as the Potlock treasury. On each pot page, there is a share button that copies in your logged-in account as a referrer ID; when someone donates to a project (public round fee) or sponsors a pot through this link, that referrer account is automatically compensated. This incentivizes chefs to effectively grow the pot while providing public motivation for participation.
+Fees help align incentives among all stakeholders. In our pot factory (the contract that deploys pots or quadratic funding rounds), there is a maximum fee enforced on every pot to prevent owners and admins from exceeding a certain percentage. Sponsors and donors also have the option not to incur any fees if they choose not to. A chef fee or protocol fee may take a percentage from matched donations and sponsorships directed towards the appointed chef at that time and to impact.sputnik-dao.near, which serves as the POTLOCK treasury. On each pot page, there is a share button that copies in your logged-in account as a referrer ID; when someone donates to a project (public round fee) or sponsors a pot through this link, that referrer account is automatically compensated. This incentivizes chefs to effectively grow the pot while providing public motivation for participation.
 
 ### Compensation for Chefs
 

@@ -10,7 +10,7 @@ description: >-
 
 ### Overview of Campaigns
 
-Upon accessing the Campaign Page, you will see a list of campaigns currently active in the PotLock ecosystem. The layout is user-friendly, featuring various campaign cards that display essential information at a glance.
+Upon accessing the Campaign Page, you will see a list of campaigns currently active in the POTLOCK ecosystem. The layout is user-friendly, featuring various campaign cards that display essential information at a glance.
 
 ### Featured Campaigns
 

@@ -5,7 +5,7 @@ icon: user-robot
 
 # AI-PGF
 
-AI powered public goods funding. A proactive grants program & movement building towards funding AGI by Potlock\
+AI powered public goods funding. A mmovement building towards funding AGI by POTLOCK\
 
 
 Twitter [x.com/ai\_pgf](https://x.com/ai\_pgf)

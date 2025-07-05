@@ -117,7 +117,7 @@ How can funding public goods lead to a ROI investment?
 
 What is the background on the platform and how does it works?
 
-* How does using Potlock make it easier than traditional grant making software?
+* How does using POTLOCK make it easier than traditional grant making software?
 
 Who is your team?
 
@@ -163,7 +163,7 @@ Make a copy and replace all the highlighted sections, also decide whether they w
 
 While you may have projects in mind. Most often you need to personally have outreach with prospective projects that you want in the round. This also gives an opportunity for your team to set up communications and also add them to the cohort chat and provide direct support. Ultimately you want to have projects that are not only aligned with your objectives for the round, but are engaged and incentivized enough to onboard more donors..
 
-Be clear about your eligibility requirements. Examples from [Gitcoin Eligibility](https://docs.google.com/document/d/1I4U3RA-q9ZW_Mtlz-EiFtj4YZTkPEwebQSKbEZlCfdY/edit#heading=h.kl4qenhpok7z), [General Potlock Public Goods Guidelines](https://potlock.org/project-guidelines), and [NEAR Retroactive Builders Round](https://www.potlock.org/retro-guidelines).
+Be clear about your eligibility requirements. Examples from [Gitcoin Eligibility](https://docs.google.com/document/d/1I4U3RA-q9ZW_Mtlz-EiFtj4YZTkPEwebQSKbEZlCfdY/edit#heading=h.kl4qenhpok7z), [General POTLOCK Public Goods Guidelines](https://potlock.org/project-guidelines), and [NEAR Retroactive Builders Round](https://www.potlock.org/retro-guidelines).
 
 Really envision the type of project you want in your ecosystem, the level of your team, whether estimated funding amount targets on average warrant the caliber team you are looking for, and whether these projects can onboard their community into the ecosystem. Gitcoin has a good example of this [https://www.gitcoin.co/blog/identifying-high-potential-grantees](https://www.gitcoin.co/blog/identifying-high-potential-grantees)&#x20;
 
@@ -185,7 +185,7 @@ Do not hesitate to reach out. Every problem you face is an opportunity to integr
 
 ### Customization
 
-There are options for customization that include not using Potlock’s public goods registry and not using standard nada bot registry. For this&#x20;
+There are options for customization that include not using POTLOCK’s public goods registry and not using standard nada bot registry. For this&#x20;
 
 * Create your own lists others can apply to (WIP)
 * Create own nada.bot requirements (not based on our score, ex; based on nft membership, etc)
@@ -229,7 +229,7 @@ Tips
 
 ## Round Communication
 
-This is covered in chef training, but it is absolutely important that you set up communications channels with your entire round like a cohort, and directly with that project's teams. Projects will be actively onboarding users inside of their community and there is a level of customer support. We highly recommend you put in users in the Potlock telegram as we are always checking. We also recommend that projects get in habit of posting weekly updates as post (and on their impact page) so donors can see their growth.&#x20;
+This is covered in chef training, but it is absolutely important that you set up communications channels with your entire round like a cohort, and directly with that project's teams. Projects will be actively onboarding users inside of their community and there is a level of customer support. We highly recommend you put in users in the POTLOCK telegram as we are always checking. We also recommend that projects get in habit of posting weekly updates as post (and on their impact page) so donors can see their growth.&#x20;
 
 
 

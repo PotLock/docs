@@ -1,5 +1,5 @@
 ---
-description: Potlock's Initial Mainnet Deployment
+description: POTLOCK's Initial Mainnet Deployment
 ---
 
 # 🐛 Beta Phase

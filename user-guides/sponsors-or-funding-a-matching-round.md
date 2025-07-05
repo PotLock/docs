@@ -19,7 +19,7 @@ Sponsors can edit their NEAR.social profile. They should log in and go to "My Pr
 After a matching round is over, the chef or pot owner needs to initiate a transaction for payouts. This transaction calculates how much each project receives based on off-chain calculations and puts the results on-chain before initiating payouts.
 
 {% embed url="https://youtu.be/m2clBR6Rang" %}
-how to sponsor a pot / quadratic funding round on Potlock
+how to sponsor a pot / quadratic funding round on POTLOCK
 {% endembed %}
 
 ### Editing Sponsor Profiles

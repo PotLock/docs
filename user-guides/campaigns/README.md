@@ -6,7 +6,7 @@ description: >-
 
 # 📤 Campaigns
 
-### Overview of Campaigns on PotLock
+### Overview of Campaigns on POTLOCK
 
 Campaigns serve as a structured vehicle for raising funds towards particular goals or initiatives. They introduce a minimum funding target and operate within a defined timeframe, allowing for refunds if the target is not met. This feature incentivizes community engagement and provides clarity on funding purposes, making it ideal for both individual projects and broader organizational goals.
 

@@ -16,7 +16,7 @@ Check out what the ecosystem is building at [https://ecosystem.potlock.org ](htt
 
 ## Build Client Applications
 
-* Build client applications in React, Angular, Vue, or whatever Javascript front end framework. Integrate your referral fees so you can benefit from PotLock ecosystem
+* Build client applications in React, Angular, Vue, or whatever Javascript front end framework. Integrate your referral fees so you can benefit from POTLOCK ecosystem
 
 ## Build Smart Contracts for Funding Mechanisms
 

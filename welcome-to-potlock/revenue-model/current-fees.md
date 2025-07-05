@@ -6,7 +6,7 @@ description: Our current on chain referral fees, subject to change
 
 ## Direct Donations
 
-**Protocol Fee: 2.5% (optional)** paid out to impact.sputnik-dao.near to support development and expansion of potlock.
+**Protocol Fee: 2.5% (optional)** paid out to impact.sputnik-dao.near to support development and expansion of POTLOCK.
 
 **Referral fee (optional)**: 5% given to those who share and promote projects. If someone donates through link than an automatic payout upon donating will be given to referred. For more information on how to refer go to&#x20;
 

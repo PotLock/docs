@@ -54,7 +54,7 @@ Why isn't my project showing up on explore section of main POTLOCK gateway?
 
 How much do projects usually get funding?
 
-* You can see average donation amount for approved projects on our registry at statistics at potlock.org/flipside and we will be having more data dashboards soon. Currently funding rounds in total would not exceed $40,000 about as February 2024 when we are launching, so consider that a cap. However we are using participation in round and growth in impact and justification for higher rounds in the future. We encourage other funding mechanisms and plural funding mechanisms, and creating a profile with attestations will increase the odds of getting other funding sources. Join the POTLOCK ecosystem chat if you need support with higher direct grants from a funding vertical on NEAR, a multichain ecosystem grant, or if you are looking to transition to a private company with appropriate accelerators. We are here as a public good to support projects making an impact in the space, and even if you don't consider yourself a public good, we are here to help!
+* You can see average donation amount for approved projects on our registry at statistics at POTLOCK.org/flipside and we will be having more data dashboards soon. Currently funding rounds in total would not exceed $40,000 about as February 2024 when we are launching, so consider that a cap. However we are using participation in round and growth in impact and justification for higher rounds in the future. We encourage other funding mechanisms and plural funding mechanisms, and creating a profile with attestations will increase the odds of getting other funding sources. Join the POTLOCK ecosystem chat if you need support with higher direct grants from a funding vertical on NEAR, a multichain ecosystem grant, or if you are looking to transition to a private company with appropriate accelerators. We are here as a public good to support projects making an impact in the space, and even if you don't consider yourself a public good, we are here to help!
 
 How to do I get on the featured projects page?
 
@@ -68,7 +68,7 @@ Is there a place to test on testnet?
 
 Who is involved in ecosystem?
 
-* Their are alot of different contributors to potlock ecosystem, check them out at [https://ecosystem.potlock.org/#active-contributors](https://ecosystem.potlock.org/#active-contributors)
+* Their are alot of different contributors to POTLOCK ecosystem, check them out at [https://ecosystem.potlock.org/#active-contributors](https://ecosystem.potlock.org/#active-contributors)
 
 What license is POTLOCK front ends and contracts under?
 

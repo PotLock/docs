@@ -18,4 +18,4 @@ When a project then goes through your link, the referred account in props will b
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-11-06 at 10.14.03 PM.png" alt=""><figcaption><p>Project breakdown indicating who the referrer is</p></figcaption></figure>
 
-Or if you are into tinkering and not logged in you can simply [https://near.social/potlock.near/widget/Index?tab=project\&projectId=magicbuild.near\&referrerId=potlock.near](https://near.social/potlock.near/widget/Index?tab=project\&projectId=magicbuild.near\&referrerId=potlock.near) replace potlock.near as the referredId in the props to the account of your choice&#x20;
+Or if you are into tinkering and not logged in you can simply [https://near.social/potlock.near/widget/Index?tab=project\&projectId=magicbuild.near\&referrerId=potlock.near](https://near.social/potlock.near/widget/Index?tab=project\&projectId=magicbuild.near\&referrerId=potlock.near) replace POTLOCK.near as the referredId in the props to the account of your choice&#x20;

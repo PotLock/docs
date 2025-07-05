@@ -75,7 +75,7 @@ The settings page lets you know what the current configurations of a Pot is, and
 
 Round managers are a huge vector of attack
 
-Based on the current design of Potlock their is room for round manager corruption. This includes
+Based on the current design of POTLOCK their is room for round manager corruption. This includes
 
 * Rejecting application / approving applications (get off-chain kickbacks)
 * Not approving in timely fashion
@@ -104,7 +104,7 @@ Apporving or rjecting projects
 * A chef can have fees and a protocol can have fees for all donations and sponsorships to matching rounds to aligned incentives (check settings for this)
 * There is an owner and a chef. Anything an owner can do a chef can do. An owner sets all associated fees and deploys the contract (takes 5 NEAR -> this is entirely NEAR protocol contract deployment cost).&#x20;
 * We do not have keys to pot-factory contract which deploys round (check changelog), and owners deploy the pot, which no one has the keys to.&#x20;
-* When a pot is deployed on the front end we default to nada.bot isHuman function for donation requirements, and potlock public goods registry for requirements, however different sybil providers can be chosen that fit the is\_blank(account\_id): bool format, which is what all providers use for nada.bot. Nada.bot abstract different sybil providers by aggregating stamps, setting scores and managing human threshold dynamically on threshold level.
+* When a pot is deployed on the front end we default to nada.bot isHuman function for donation requirements, and POTLOCK public goods registry for requirements, however different sybil providers can be chosen that fit the is\_blank(account\_id): bool format, which is what all providers use for nada.bot. Nada.bot abstract different sybil providers by aggregating stamps, setting scores and managing human threshold dynamically on threshold level.
 * Our gitcoin passport = nada.bot which is all based on onchain stamps. Need to be a human according to nada.bot or whatever sybil check is provided
 * You can earn referral fees (fee is set by pot deployer)
 * Project profiles are global and linked to your social profile. Use this to apply and connect to social feed
@@ -113,13 +113,13 @@ Apporving or rjecting projects
 * Matching Payouts are first calculated when round is over via off chain, then payouts are initiated in which a cooldown period is activated for auditors to verify results.
 * Are fees calculated with the matched amount?
 
-For those who are familiar with quadratic funding rounds we will outline the differences between Gitcoin and Potlock quadratic funding rounds.
+For those who are familiar with quadratic funding rounds we will outline the differences between Gitcoin and POTLOCK quadratic funding rounds.
 
 ## 📚 Your Most Helpful Resources
 
-* Potlock Community Telegram: support channel to answer any questions [https://potock.org/community](https://potock.org/community)
-* Your direct telegram with Potlock team
+* POTLOCK Community Telegram: support channel to answer any questions [https://potock.org/community](https://potock.org/community)
+* Your direct telegram with POTLOCK team
 * Documents [Docs.potlock.io](https://docs.potlock.io)
 * Your chef training doc (this) [potlock.org/chef-training ](https://potlock.org/chef-training)
-* Potlock BOS App [https://bos.potlock.org](https://bos.potlock.org)
-* Potlock Tutorials [https://potlock.org/tutorials](https://potlock.org/tutorials) \
+* POTLOCK BOS App [https://bos.potlock.org](https://bos.potlock.org)
+* POTLOCK Tutorials [https://potlock.org/tutorials](https://potlock.org/tutorials) \

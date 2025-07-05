@@ -10,7 +10,7 @@ how to apply to a pot as a project
 
 ### 1. Get a Project NEAR Account
 
-To begin, projects need to create a NEAR account, preferably using a named account that represents their organization (e.g., potlock.near). It is recommended to have at least 1 NEAR (approximately $2-$4 depending on market rates) to save their on-chain profile and perform other necessary actions. If the project is new to the NEAR ecosystem, they can use a keypom.xyz link with 1 NEAR or create an account at [Meteor Wallet](https://wallet.meteorwallet.app/wallet) and request a transfer of funds. For support with this process, projects can join the [Potlock Community](https://potlock.org/community), where assistance with onboarding fees will be provided.
+To begin, projects need to create a NEAR account, preferably using a named account that represents their organization (e.g., POTLOCK.near). It is recommended to have at least 1 NEAR (approximately $2-$4 depending on market rates) to save their on-chain profile and perform other necessary actions. If the project is new to the NEAR ecosystem, they can use a keypom.xyz link with 1 NEAR or create an account at [Meteor Wallet](https://wallet.meteorwallet.app/wallet) and request a transfer of funds. For support with this process, projects can join the [Potlock Community](https://potlock.org/community), where assistance with onboarding fees will be provided.
 
 ### 2. Apply to Project Registry
 
@@ -18,7 +18,7 @@ Next, projects must create a profile on POTLOCK by filling out necessary informa
 
 ### 3. Get Accepted to Project Registry
 
-Currently, projects will be pending approval in the registry and must be accepted by a Potlock admin. To expedite the process, projects should notify the POTLOCK core team in the “new-project-registration” channel on Telegram, providing the link to their project. The status of their application will be indicated without a banner if approved.
+Currently, projects will be pending approval in the registry and must be accepted by a POTLOCK admin. To expedite the process, projects should notify the POTLOCK core team in the “new-project-registration” channel on Telegram, providing the link to their project. The status of their application will be indicated without a banner if approved.
 
 ### 4. Apply During Application Period
 

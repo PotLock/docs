@@ -1,11 +1,11 @@
 ---
-description: At PotLock we do not tolerate promotion of lewd content or illicit acitivity
+description: At POTLOCK we do not tolerate promotion of lewd content or illicit acitivity
 ---
 
 # 📚 Code of Conduct
 
 \
-This code of conduct outlines the expectations for all individuals who interact with the PotLock platform. It applies to all activities, including but not limited to:
+This code of conduct outlines the expectations for all individuals who interact with the POTLOCK platform. It applies to all activities, including but not limited to:
 
 * Submissions to the POTLOCK project registry
 * Interactions with the POTLOCK community
@@ -29,7 +29,7 @@ The following behavior is prohibited on the POTLOCK platform:
 * **Harassment:** Harassment is any behavior that is intended to intimidate, offend, or bully another individual. This includes, but is not limited to, verbal abuse, threats, and stalking.
 * **Spam:** Spam is any unsolicited or unwanted communication. This includes but is not limited to, advertising and promotional messages.
 * **Illegal activity:** Engaging in any activity that is illegal or violates applicable laws and regulations is prohibited on the POTLOCK platform.
-* **Illicit activity:** Engaging in any activity that is considered illicit, such as money laundering, fraud, embezzlement, terrorism financing, or drug trafficking, is prohibited on the PotLock platform.
+* **Illicit activity:** Engaging in any activity that is considered illicit, such as money laundering, fraud, embezzlement, terrorism financing, or drug trafficking, is prohibited on the POTLOCK platform.
 
 **Reporting Violations**
 

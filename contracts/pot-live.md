@@ -61,7 +61,7 @@ As a round manager, you can&#x20;
 ## Interface
 
 ````markdown
-# PotLock Pot Contract
+# POTLOCK Pot Contract
 
 ## Purpose
 

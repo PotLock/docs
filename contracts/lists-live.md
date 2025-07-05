@@ -119,7 +119,7 @@ Example JS implementation ([BOS](https://docs.near.org/bos)) [https://github.com
 ## Interface
 
 ````markdown
-# PotLock Lists Contract
+# POTLOCK Lists Contract
 
 ## Purpose
 

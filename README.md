@@ -21,7 +21,7 @@ All Important links [https://bento.me/potlock ](https://bento.me/potlock)
 
 ### Origin Name
 
-Potlucks are communal events where everyone brings their own dish to the table. As a funding platform we embody these values  Also sometimes referred to a POTLOCK. Additionally a community Pot is generally considered as a source of funding, while a lock invokes security and trust. At PotLock we embody all this, the community coming together with different resources to the table, to secure funding for the public.
+Potlucks are communal events where everyone brings their own dish to the table. As a funding platform we embody these values  Also sometimes referred to a POTLOCK. Additionally a community Pot is generally considered as a source of funding, while a lock invokes security and trust. At POTLOCK we embody all this, the community coming together with different resources to the table, to secure funding for the public.
 
 ## Current State of POTLOCK
 

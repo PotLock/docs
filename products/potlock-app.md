@@ -3,13 +3,13 @@ description: Primary app
 icon: pot-food
 ---
 
-# Potlock App
+# POTLOCK App
 
 This described our primary app where Pots take place and our registry for explorations.&#x20;
 
 
 
-There are 3 implementations for the Potlock app
+There are 3 implementations for the POTLOCK app
 
 BOS-App: no longer mantained old.potlock.org&#x20;
 

@@ -33,7 +33,7 @@ Can't you just have people directly submit? Yes, but&#x20;
 ## Interface
 
 ````markdown
-# PotLock Donation Contract
+# POTLOCK Donation Contract
 
 ## Purpose
 

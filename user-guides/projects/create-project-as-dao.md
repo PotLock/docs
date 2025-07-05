@@ -16,7 +16,7 @@ Note this will also propose to sign up your DAO into NEAR Horizon's project regi
 
 Then confirm your transaction via your wallet.  Note that for eveyr proposal you will be (bonding or temporarily staking your DAO's bond amount x number of proposal) + spending associated gas costs in NEAR from your DAO treausry.&#x20;
 
-If you already have a DAO proposal to at that DAO address register to PotLock, you will see this screen (example of [proposal](https://near.org/sking.near/widget/DAO.Page?daoId=onboarddao.sputnik-dao.near\&tab=proposal\&proposalId=292)).
+If you already have a DAO proposal to at that DAO address register to POTLOCK, you will see this screen (example of [proposal](https://near.org/sking.near/widget/DAO.Page?daoId=onboarddao.sputnik-dao.near\&tab=proposal\&proposalId=292)).
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-12-10 at 12.37.15 AM (1).png" alt=""><figcaption><p>DAO Proposal in progress</p></figcaption></figure>
 
@@ -36,7 +36,7 @@ Although a proposal went through, this only means you are proposing. This means 
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-12-10 at 12.54.10 AM.png" alt=""><figcaption><p>Approved proposal. in this example their is only a council of 1. </p></figcaption></figure>
 
-Now your DAO should be on the PotLock project registry[ home page](https://potlock.io/app).&#x20;
+Now your DAO should be on the POTLOCK project registry[ home page](https://potlock.io/app).&#x20;
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-12-10 at 12.59.56 AM.png" alt=""><figcaption><p>DAO based profile</p></figcaption></figure>
 
@@ -60,4 +60,4 @@ Next you will confirm you transaction then go to your DAO page and get your voti
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-12-10 at 1.07.35 AM.png" alt=""><figcaption><p>Updating project proposal as social.near function call proposal</p></figcaption></figure>
 
-After your voting body approved the DAO proposal, your DAO profile will be updated on NEAR Horizon, PotLock registry, and BOS which all pull your profile information to the social.near account.&#x20;
+After your voting body approved the DAO proposal, your DAO profile will be updated on NEAR Horizon, POTLOCK registry, and BOS which all pull your profile information to the social.near account.&#x20;

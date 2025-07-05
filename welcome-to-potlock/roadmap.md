@@ -1,5 +1,5 @@
 ---
-description: Our h2 NEAR Roadmap can be found at potlock.org/roadmap
+description: Our h2 NEAR Roadmap can be found at POTLOCK.org/roadmap
 ---
 
 # 🔮 Roadmap

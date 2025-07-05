@@ -49,7 +49,7 @@ We do allow:
 What if this is used as a whitelist for an airdrop?
 
 * It's acceptable as long as it's not publicly advertised as an incentive
-* We encourage using Potlock donors as a litmus test for rules
+* We encourage using POTLOCK donors as a litmus test for rules
 
 Even if rules are violated, maintaining a respectful tone is required. See [Code of Conduct](https://potlock.org/conduct) for more information.
 

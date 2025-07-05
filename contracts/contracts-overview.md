@@ -9,7 +9,7 @@ description: >-
 
 ## All Contracts
 
-To ensure that all projects are coming from the official POTLOCK team they are deployed as [**subaccounts**](https://docs.near.org/tutorials/crosswords/basics/add-functions-call#create-a-subaccount) under the potlock.near namespace. Testnet and Mainnet follow the same naming conventions to avoid any confusion. There are 7 main contracts, (technically [Pot](pot-live.md) has many contracts as many Pots are deployed under the PotFactory)
+To ensure that all projects are coming from the official POTLOCK team they are deployed as [**subaccounts**](https://docs.near.org/tutorials/crosswords/basics/add-functions-call#create-a-subaccount) under the POTLOCK.near namespace. Testnet and Mainnet follow the same naming conventions to avoid any confusion. There are 7 main contracts, (technically [Pot](pot-live.md) has many contracts as many Pots are deployed under the PotFactory)
 
 
 
