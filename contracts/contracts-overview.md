@@ -139,6 +139,8 @@ Do you have any suggestions for our contracts? Make an[ issue request](https://g
 
 
 
-{% hint style="warning" %}
-Warning: none of our contracts are audited, matter of fact we haven't even wrote the contract yet, super building in public vibes.
-{% endhint %}
+### Campaigns
+Mainnet Staging [v1.campaigns.staging.potlock.near](https://nearblocks.io/address/v1.campaigns.staging.potlock.near) 🔗
+
+
+Campaigns Contract [https://github.com/PotLock/core/tree/feat/revised-campaign/contracts/campaigns](https://github.com/PotLock/core/tree/feat/revised-campaign/contracts/campaigns) 💻
